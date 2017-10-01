@@ -28,6 +28,7 @@ Mac:
    Bio: "Enter about yourself here"  
    Github: [Github username](github profile url)  
    Facebook (optional): [Your name](facebook profile link)  
+   * make sure to give 2 whitespaces after each line.  
 4. Commit changes with a meaningful commit message like "Added "Your Name to users.md".     
 5. Create a pull request.
 6. Sit back and relax while your pull request is reviewed and merged.
@@ -47,6 +48,7 @@ Mac:
    Bio: "Enter about yourself here"  
    Github: [Github username](github profile url)  
    Facebook (optional): [Your name](facebook profile link)  
+   * make sure to give 2 whitespaces after each line.  
 4. Commit changes with a meaningful commit message like "Added "Your Name to users.md".  
    ``` git add -A```  
    ``` git commit -m "Commit message here"``` (include double quotes)
