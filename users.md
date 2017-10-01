@@ -15,3 +15,15 @@
    Bio: Code once, run anywhere.
    GitHub: [iamonuwa](https://github.com/iamonuwa)
    Facebook: [iamonuwa](https://facebook.com/iamonuwa)
+
+4. Name:  Alexander Yalchik  
+   Place: Zhlobin, Belarus  
+   Bio: Coding, reading, have fun  
+   GitHub: [Alexander Yalchik](https://github.com/OMGHaveFun)  
+   Facebook: -  
+
+5. Name:  Hui Chng  
+   Place: Singapore  
+   Bio:  alert('web developer')  
+   GitHub: [Hui Chng](https://github.com/huiyie)  
+   Facebook: 
