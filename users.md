@@ -9,6 +9,12 @@
    Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
    GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
    Facebook:  
+   
+3. Name:  Alexander Yalchik  
+   Place: Zhlobin, Belarus  
+   Bio: Coding, reading, have fun  
+   GitHub: [Alexander Yalchik](https://github.com/OMGHaveFun)  
+   Facebook: -  
 
 3. Name:  Hui Chng  
    Place: Singapore  
