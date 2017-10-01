@@ -26,7 +26,13 @@
    Place: Jaipur,India
    Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.
    GitHub: https://github.com/Himanshi-Khandelwal
-   
+  
+   Name:  Ana Luísa Dias 
+   Place: Bahia, Brazil 
+   Bio:  I'm an enthusiast for sci-fi, code, technology and ice cream.  
+   GitHub: [baiana](https://github.com/baiana)  
+   Facebook:  
+
 -  Name: Onuwa Nnachi Isaac
    Place: Lafia, Nigeria
    Bio: Code once, run anywhere.
