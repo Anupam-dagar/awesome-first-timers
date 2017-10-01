@@ -50,3 +50,9 @@
    Bio:  Coding Is Life.  
    GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
    Facebook: 
+   
+-  Name: Shuvikash Patel  
+   Place: Bihar, India  
+   Bio: Achieving success that I want.  
+   GitHub: [shuvikash](https://github.com/shuvikash)    
+   Facebook: 
