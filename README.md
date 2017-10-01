@@ -37,7 +37,8 @@ Mac:
 2. Fork this repository
 3. Clone this repository by clicking on green clone or download button and then copying the link given there.  
    Open your terminal(linux/mac) or git bash(windows) and write ```git clone https://github.com/Anupam-dagar/awesome-first-timers.git```  
-* ![Image of clone button](https://octodex.github.com/images/yaktocat.png)  
+![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clone.png)  
+![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clonelink.png)
 4. Change your directory.
    ```cd awesome-first-timers.git```  
 3. Open users.md and enter details in the following format  
@@ -52,4 +53,6 @@ Mac:
 5. Push to repository  
    ```git push origin master```
 6. Create a pull request.
+![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/PR.png)
+![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/PRnew.png)
 7. Sit back and relax while your pull request is reviewed and merged.
