@@ -9,3 +9,9 @@
    Bio:  I am an enthusiast for technology and I love drink beers with my friends.
    GitHub: [Andre Peregrina](https://github.com/andreperegrina)
    Facebook:
+
+3. Name: Onuwa Nnachi Isaac
+   Place: Lafia, Nigeria
+   Bio: Code once, run anywhere.
+   GitHub: [iamonuwa](https://github.com/iamonuwa)
+   Facebook: [iamonuwa](https://facebook.com/iamonuwa)
