@@ -9,3 +9,9 @@
    Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
    GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
    Facebook:  
+
+3. Name:  Hui Chng  
+   Place: Singapore  
+   Bio:  alert('web developer')  
+   GitHub: [Hui Chng](https://github.com/huiyie)  
+   Facebook: 
