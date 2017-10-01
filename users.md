@@ -50,3 +50,9 @@
    Bio:  Coding Is Life.  
    GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
    Facebook: 
+
+-  Name:  Kunal Vishnoi
+   Place: Noida, India
+   Bio:  Frontend developer.
+   GitHub: [Kunal Vishnoi](https://github.com/kunalvishnoi) 
+   Facebook:  [Kunal Vishnoi](https://Facebook.com/vishnoikunal) 
