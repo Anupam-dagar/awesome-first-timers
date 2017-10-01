@@ -11,7 +11,7 @@
    Facebook:  
 
 3. Name:  Hemant Bansal  
-   Place: Faridbad, India
+   Place:  Faridbad, India
    Bio:  I love to make Android apps and play games.   
    GitHub: [Hemant Bansal](https://github.com/HemantGTX950)  
    Facebook:  
