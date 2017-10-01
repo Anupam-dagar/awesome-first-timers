@@ -15,6 +15,12 @@
    Bio:  I am an aspiring android developer. 
    GitHub: [Arpit Batra](https://github.com/arpitbatra123) 
    Facebook:   [Arpit Batra] (https://Facebook.com/arpitbatra123) 
+
+-  Name: Ashish Gautam  
+   Place: Delhi, India  
+   Bio: I am 4th year B.tech student. I like to code and play minesweeper. I also like pizza.  
+   Github: [Ashish Gautam](https://github.com/gautam2705)  
+   Facebook: [Ashish Gautam](https://www.facebook.com/gautam2705)  
    
 -  Name:  Himanshi-Khandelwal
    Place: Jaipur,India
@@ -37,4 +43,10 @@
    Place: Singapore  
    Bio:  alert('web developer')  
    GitHub: [Hui Chng](https://github.com/huiyie)  
+   Facebook: 
+
+-  Name:  Marcus Koh Chi Hao  
+   Place: Singapore  
+   Bio:  Coding Is Life.  
+   GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
    Facebook: 
