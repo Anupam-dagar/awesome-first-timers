@@ -38,3 +38,9 @@
    Bio:  alert('web developer')  
    GitHub: [Hui Chng](https://github.com/huiyie)  
    Facebook: 
+
+-  Name:  Marcus Koh Chi Hao  
+   Place: Singapore  
+   Bio:  Coding Is Life.  
+   GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
+   Facebook: 
