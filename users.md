@@ -63,3 +63,8 @@
   GitHub: [Mary Hull](https://github.com/thegreyelephant)  
   Facebook:  
 
+- Name: Sibylle Sehl  
+  Place: Edinburgh  
+  Bio: Product Manager - currently learning how to git.  
+  GitHub: [Sibylle Sehl](https://github.com/alaskaa)  
+  Facebook:  
