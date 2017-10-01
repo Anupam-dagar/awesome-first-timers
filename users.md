@@ -9,10 +9,3 @@
    Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
    GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
    Facebook:  
-
-3. Name:  Hemant Bansal  
-   Place: Faridbad, India  
-   Bio:  I love to make Android apps and play games.   
-   GitHub: [Hemant Bansal](https://github.com/HemantGTX950)  
-   Facebook: [Hemant Bansal](https://www.facebook.com/HemantGTX950)
-      
