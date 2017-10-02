@@ -64,16 +64,16 @@
   Facebook:  
 
 - Name: Rahul Bishnoi 
-  Place: Hyderabad, India
+  Place: Hyderabad, India  
   Bio:  I am an enthusiast for technology and i love Playing CSGO.  
   GitHub: [Rahul Bishnoi](https://github.com/nanspro)  
   Facebook:	[Rahul Bishnoi](https://facebook.com/nanpros)
    
-- Name: Mudit Surana
-  Place: Hyderabad,India
-  Bio: Full-stack Developer
-  Github: [surana-mudit](https://github.com/surana-mudit)
-  Facebook:
+- Name: Mudit Surana  
+  Place: Hyderabad,India  
+  Bio: Full-stack Developer  
+  Github: [surana-mudit](https://github.com/surana-mudit)  
+  Facebook:  
 
 - Name: Marcus Lancaster  
   Place: Edinburgh, Scotland  
