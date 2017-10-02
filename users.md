@@ -106,8 +106,14 @@
   GitHub: [BSIDIO](https://github.com/bsidio)  
   Facebook: 
   
- -Name: Carla Costas a.k.a. Charlye  
+- Name: Carla Costas a.k.a. Charlye  
   Place: Vigo, Spain.  
   Bio: Student, CEBEM.  
   GitHub: [Charlye](https://github.com/costassolla)  
+  Facebook: 
+  
+- Name: Tan Jin Ying
+  Place: Singapore  
+  Bio: Student, NUS - Currently learning git
+  GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
   Facebook: 
