@@ -69,6 +69,12 @@
   GitHub: [Rahul Bishnoi](https://github.com/nanspro)  
   Facebook:	[Rahul Bishnoi](https://facebook.com/nanpros)
    
+- Name: Mudit Surana
+  Place: Hyderabad,India
+  Bio: Full-stack Developer
+  Github: [surana-mudit](https://github.com/surana-mudit)
+  Facebook:
+
 - Name: Marcus Lancaster  
   Place: Edinburgh, Scotland  
   Bio: Have you heard of our lord and saviour: Vim?  
