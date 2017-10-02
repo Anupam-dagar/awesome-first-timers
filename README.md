@@ -1,5 +1,5 @@
 # awesome-first-timers
-Place to contribute if you are a first timer.Contains people present in the world of open source.
+Place to contribute if you are a first timer. Contains people present in the world of open source, check out some amazing users [here](http://www.anupamdagar.me/awesome-first-timers/users)
 
 ## Details
 Hi there, if you are reading this then probably you are new to open source and finding some issues to contribute to.  
