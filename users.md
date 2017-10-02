@@ -86,4 +86,9 @@
   Bio: Product Manager - currently learning how to git.  
   GitHub: [Sibylle Sehl](https://github.com/alaskaa)  
   Facebook:  
-
+    
+- Name: B Siddhartha  
+  Place: Bangalore  
+  Bio: Student R. V. College of Engineering Bangalore.  
+  GitHub: [BSIDIO](https://github.com/bsidio)  
+  Facebook: 
