@@ -15,7 +15,7 @@ Ubuntu:
 ```sudo apt-get install git```  
 Windows: 
 Use this link:  
-```https://git-scm.com/download/win```
+```https://git-scm.com/download/win```  
 Mac:
 ```https://git-scm.com/download/mac```  
 
