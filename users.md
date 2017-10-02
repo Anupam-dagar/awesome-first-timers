@@ -78,5 +78,5 @@
 - Name: B Siddhartha  
   Place: Bangalore  
   Bio: Student R. V. College of Engineering Bangalore.  
-  GitHub: [BSIDIO](https://github.com/bsid.io)  
+  GitHub: [BSIDIO](https://github.com/bsidio)  
   Facebook: 
