@@ -49,7 +49,7 @@
    Place: Singapore  
    Bio:  alert('web developer')  
    GitHub: [Hui Chng](https://github.com/huiyie)  
-   Facebook: 
+   Facebook:  
 
 -  Name:  Marcus Koh Chi Hao  
    Place: Singapore  
@@ -62,6 +62,13 @@
   Bio: Sys admin. Runner.   
   GitHub: [Mary Hull](https://github.com/thegreyelephant)  
   Facebook:  
+  
+- Name: Johannes Sonn  
+  Place: Germany  
+  Bio: IT-Student   
+  GitHub: [john2ksonn](https://github.com/john2ksonn) 
+  Facebook:-  
+
 
 - Name: Rahul Bishnoi 
   Place: Hyderabad, India  
