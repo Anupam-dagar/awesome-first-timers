@@ -112,7 +112,7 @@
   GitHub: [Charlye](https://github.com/costassolla)  
   Facebook: 
   
-- Name: Tan Jin Ying
+- Name: Tan Jin Ying 
   Place: Singapore  
   Bio: Student, NUS - Currently learning git
   GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
