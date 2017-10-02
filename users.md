@@ -114,6 +114,6 @@
   
 -  Name:  Tan Jin Ying  
    Place: Singapore  
-   Bio:  Learning Git Commands
+   Bio:  Learning Git Commands  
    GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
    Facebook:
