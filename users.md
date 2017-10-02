@@ -63,6 +63,12 @@
   GitHub: [Mary Hull](https://github.com/thegreyelephant)  
   Facebook:  
 
+- Name: Marcus Lancaster  
+  Place: Edinburgh, Scotland  
+  Bio: Have you heard of our lord and saviour: Vim?  
+  GitHub [Marcus L](https://github.com/questionmarcus)  
+  Facebook: -  
+  
 - Name: Sibylle Sehl  
   Place: Edinburgh  
   Bio: Product Manager - currently learning how to git.  
