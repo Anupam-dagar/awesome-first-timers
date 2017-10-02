@@ -63,3 +63,8 @@
   GitHub: [Mary Hull](https://github.com/thegreyelephant)  
   Facebook:  
 
+- Name: Mudit Surana
+  Place: Hyderabad,India
+  Bio: Full-stack Developer
+  Github: [surana-mudit](https://github.com/surana-mudit)
+  Facebook:
