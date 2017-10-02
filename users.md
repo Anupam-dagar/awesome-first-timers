@@ -106,7 +106,7 @@
   GitHub: [BSIDIO](https://github.com/bsidio)  
   Facebook: 
   
- -Name: Carla Costas a.k.a. Charlye  
+- Name: Carla Costas a.k.a. Charlye  
   Place: Vigo, Spain.  
   Bio: Student, CEBEM.  
   GitHub: [Charlye](https://github.com/costassolla)  
