@@ -105,3 +105,10 @@
   Bio: Student R. V. College of Engineering Bangalore.  
   GitHub: [BSIDIO](https://github.com/bsidio)  
   Facebook: 
+  
+  
+  - Name: Manolo Rodriguez
+    Place: Madrid, Spain
+    Bio: I am like a code under development
+    GitHub: JuanJVS
+    Facebook: 
