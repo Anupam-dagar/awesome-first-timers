@@ -57,11 +57,12 @@
    GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
    Facebook: 
    
-- Name: Igc
-   Place: Spain
-   Bio: IT Student
-   Github: [igcigc](https://github.com/igcigc)
-
+   -  Name:  Igc  
+   Place: Spain  
+   Bio:  It Student.  
+   GitHub: [igcigc](https://github.com/igcigc)  
+   Facebook: 
+   
 - Name: Mary Hull  
   Place: Seattle  
   Bio: Sys admin. Runner.   
