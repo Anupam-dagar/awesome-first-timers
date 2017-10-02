@@ -57,7 +57,7 @@
    GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
    Facebook: 
    
-   -  Name:  Igc  
+-  Name:  Igc  
    Place: Spain  
    Bio:  It Student.  
    GitHub: [igcigc](https://github.com/igcigc)  
