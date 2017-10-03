@@ -159,3 +159,8 @@
   Bio: Student, IIIT Hyderabad.  
   GitHub: [sparsh789](https://github.com/sparsh789)  
   Facebook:  
+  
+-  Name: Siddharth Mahapatra 
+   Place: Bhubaneswar, India  
+   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
+   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
