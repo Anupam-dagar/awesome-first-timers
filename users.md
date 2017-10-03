@@ -138,16 +138,21 @@
     Place: Northern California, USA  
     Bio: Coding enthusiast  
     GitHub: [GreenRabite](https://github.com/GreenRabite)  
-    Facebook:
+    Facebook:  
 
-*   Name: Tomasz Mikalny  
-    Place: Bydgoszcz, Poland  
-    Bio: Tinkerer, learning all this github stuff  
-    GitHub: [Tomasz M](https://github.com/Nabuchodonozor)  
-    Facebook:
-
-*   Name: Simon Eddeland  
-    Place: Sweden  
-    Bio: Likes to code  
-    GitHub: [simoneddeland](https://github.com/simoneddeland)  
-    Facebook:
+-  Name: Tomasz Mikalny  
+   Place: Bydgoszcz, Poland  
+   Bio: Tinkerer, learning all this github stuff  
+   GitHub: [Tomasz M](https://github.com/Nabuchodonozor)  
+   Facebook:  
+   
+- Name: Simon Eddeland  
+  Place: Sweden  
+  Bio: Likes to code  
+  GitHub: [simoneddeland](https://github.com/simoneddeland)  
+  Facebook:  
+  
+-  Name: Siddharth Mahapatra 
+   Place: Bhubaneswar, India  
+   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
+   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12) 
