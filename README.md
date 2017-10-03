@@ -1,9 +1,9 @@
 # awesome-first-timers
-Place to contribute if you are a first timer.Contains people present in the world of open source.
+This is a place to contribute if you are a first timer. Contains people present in the world of open source, check out some of the amazing users [here](http://www.anupamdagar.me/awesome-first-timers/users)
 
 ## Details
-Hi there, if you are reading this then probably you are new to open source and finding some issues to contribute to.  
-You can start by contributing to this awesome list, follow these simple steps to make your first successfull PR.  
+Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
+You can start by contributing to this awesome list, follow these simple steps to make your first successful PR.  
 
 ## Steps:
 1. Installation of required tools:
@@ -13,9 +13,9 @@ You can start by contributing to this awesome list, follow these simple steps to
 ### Installing git:
 Ubuntu:  
 ```sudo apt-get install git```  
-Windows: 
+Windows:
 Use this link:  
-```https://git-scm.com/download/win```
+```https://git-scm.com/download/win```  
 Mac:
 ```https://git-scm.com/download/mac```  
 
@@ -41,7 +41,7 @@ Mac:
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clone.png)  
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clonelink.png)
 4. Change your directory.
-   ```cd awesome-first-timers.git```  
+   ```cd awesome-first-timers```  
 3. Open users.md and enter details in the following format  
    Name: "Your name here"  
    Place: "Enter place here"  

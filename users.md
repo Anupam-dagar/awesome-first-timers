@@ -105,9 +105,35 @@
   Bio: Student R. V. College of Engineering Bangalore.  
   GitHub: [BSIDIO](https://github.com/bsidio)  
   Facebook: 
+
       
 - Name: Manolo Rodriguez  
   Place: Spain  
   Bio: Happy day  
   GitHub: https://github.com/JuanJVS/ 
   Facebook:
+  
+- Name: Carla Costas a.k.a. Charlye  
+  Place: Vigo, Spain.  
+  Bio: Student, CEBEM.  
+  GitHub: [Charlye](https://github.com/costassolla)  
+  Facebook:
+
+- Name: Rahul Bafila  
+  Place: Chandigarh, India.  
+  Bio: Student, UIET PU Chandiagrh.  
+  GitHub: [rahul577](https://github.com/rahul577)  
+  Facebook:  
+  
+-  Name:  Tan Jin Ying  
+   Place: Singapore  
+   Bio:  Learning Git Commands  
+   GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
+   Facebook:  
+   
+  - Name: Andy Luo  
+    Place: Northern California, USA  
+    Bio: Coding enthusiast  
+    GitHub: [GreenRabite](https://github.com/GreenRabite)  
+    Facebook:  
+
