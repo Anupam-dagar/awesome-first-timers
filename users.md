@@ -135,4 +135,9 @@
    Bio: Tinkerer, learning all this github stuff  
    GitHub: [Tomasz M](https://github.com/Nabuchodonozor)  
    Facebook:  
-
+   
+- Name: Simon Eddeland  
+  Place: Sweden  
+  Bio: Likes to code  
+  GitHub: [simoneddeland](https://github.com/simoneddeland)  
+  Facebook:  
