@@ -57,6 +57,12 @@
    GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
    Facebook: 
    
+-  Name: Shuvikash Patel  
+   Place: Bihar, India  
+   Bio: Achieving success that I want.  
+   GitHub: [shuvikash](https://github.com/shuvikash)    
+   Facebook: 
+
 -  Name:  Igc  
    Place: Spain  
    Bio:  It Student.  
@@ -73,7 +79,7 @@
   Place: Germany  
   Bio: IT-Student   
   GitHub: [john2ksonn](https://github.com/john2ksonn) 
-  Facebook:-  
+  Facebook:  
 
 
 - Name: Rahul Bishnoi 
