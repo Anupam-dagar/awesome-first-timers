@@ -158,4 +158,10 @@
    Place: Bhubaneswar, India  
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+
+-  Name: Andrew B 
+   Place: United Kingdom  
+   Bio: Trying to learn
+   GitHub: [Birksy89](https://github.com/birksy89)    
+  
   
