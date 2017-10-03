@@ -139,8 +139,8 @@
 
 - Name: Bervianto Leo Pratama
   Place: Bandung, Indonesia
-  Bio: Student, Institut Teknologi Bandung
-  Github: [berviantoleo](https://github.com/berviantoleo)
+  Bio: Student, Institut Teknologi 
+  BandungGithub: [berviantoleo](https://github.com/berviantoleo)
   Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)
 
 
