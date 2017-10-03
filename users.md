@@ -159,3 +159,10 @@
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
   
+- Name: Kevin Mora 
+  Place: San José, Costa Rica
+  Bio: I love to code, love git and rock music  
+  GitHub: [kevinmora94](https://github.com/kevinmora94)  
+  Facebook:
+  
+  
