@@ -105,6 +105,13 @@
   Bio: Student R. V. College of Engineering Bangalore.  
   GitHub: [BSIDIO](https://github.com/bsidio)  
   Facebook: 
+
+      
+- Name: Manolo Rodriguez  
+  Place: Spain  
+  Bio: Happy day  
+  GitHub: https://github.com/JuanJVS/ 
+  Facebook:
   
 - Name: Carla Costas a.k.a. Charlye  
   Place: Vigo, Spain.  
@@ -129,3 +136,4 @@
     Bio: Coding enthusiast  
     GitHub: [GreenRabite](https://github.com/GreenRabite)  
     Facebook:  
+
