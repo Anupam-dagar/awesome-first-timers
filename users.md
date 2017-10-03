@@ -129,3 +129,10 @@
     Bio: Coding enthusiast  
     GitHub: [GreenRabite](https://github.com/GreenRabite)  
     Facebook:  
+
+-  Name: Tomasz Mikalny  
+   Place: Bydgoszcz, Poland  
+   Bio: Tinkerer, learning all this github stuff  
+   GitHub: [Tomasz M](https://github.com/Nabuchodonozor)  
+   Facebook:  
+
