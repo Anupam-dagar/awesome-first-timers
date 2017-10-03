@@ -159,3 +159,7 @@
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
   
+- Name: Katja Sostar  
+  Place: Austria  
+  Bio: Spaghetti coder and designer  
+  GitHub: [helloimkat](https://github.com/helloimkat)  
