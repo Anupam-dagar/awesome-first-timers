@@ -57,11 +57,4 @@ Mac:
 6. Create a pull request.
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/PR.png)
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/PRnew.png)
-7. Rebase
-   First, setup a remote for the upstream repository and an origin:
-   ```git remote add upstream https://github.com/Anupam-dagar/awesome-first-timers.git```
-   ```git remote add origin https://github.com/My-username/awesome-first-timers.git```
-   Replace My-username with your github username. Now you can sync your fork with upstream.
-   ```git fetch upstream```
-   ```git rebase upstream/master```
-8. Sit back and relax while your pull request is reviewed and merged.
+7. Sit back and relax while your pull request is reviewed and merged.
