@@ -117,3 +117,9 @@
   Bio: Student, UIET PU Chandiagrh.  
   GitHub: [rahul577](https://github.com/rahul577)  
   Facebook:  
+  
+-  Name:  Tan Jin Ying  
+   Place: Singapore  
+   Bio:  Learning Git Commands  
+   GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
+   Facebook:
