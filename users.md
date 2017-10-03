@@ -111,3 +111,9 @@
   Bio: Student, CEBEM.  
   GitHub: [Charlye](https://github.com/costassolla)  
   Facebook: 
+  
+- Name: Bervianto Leo Pratama
+  Place: Bandung, Indonesia
+  Bio: Student, Institut Teknologi Bandung
+  Github: [berviantoleo](https://github.com/berviantoleo)
+  Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)
