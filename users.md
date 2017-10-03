@@ -14,7 +14,7 @@
    Place: Dehradun, India
    Bio: I am an aspiring android developer.
    GitHub: [Arpit Batra](https://github.com/arpitbatra123)
-   Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123) 
+   Facebook: [Arpit Batra](https://Facebook.com/arpitbatra123) 
 
 -  Name: Ashish Gautam
    Place: Delhi, India
@@ -25,7 +25,7 @@
 -  Name:  Himanshi-Khandelwal
    Place: Jaipur,India
    Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.
-   GitHub: https://github.com/Himanshi-Khandelwal
+   GitHub: [Himanshi-Khandelwal](https://github.com/Himanshi-Khandelwal)
   
 -  Name: Ana Luísa Dias
    Place: Bahia, Brazil
