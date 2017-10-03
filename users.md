@@ -129,3 +129,10 @@
     Bio: Coding enthusiast  
     GitHub: [GreenRabite](https://github.com/GreenRabite)  
     Facebook:  
+
+- Name: Simon Eddeland  
+  Place: Sweden  
+  Bio: Likes to code  
+  GitHub: [simoneddeland](https://github.com/simoneddeland)  
+  Facebook:  
+  
