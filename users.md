@@ -109,5 +109,5 @@
 - Name: Manolo Rodriguez  
   Place: Spain  
   Bio: Happy day  
-  GitHub: JuanJVS  
+  GitHub: https://github.com/JuanJVS/ 
   Facebook:
