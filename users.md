@@ -158,4 +158,11 @@
    Place: Bhubaneswar, India  
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+   
+   Name: Sk Tafique Ahemad
+   Place: Bhubaneswar, India  
+   Bio: a future web developer.
+   GitHub: [tafiquemd](https://github.com/tafiquemd) 
+   Facebook:
+     
   
