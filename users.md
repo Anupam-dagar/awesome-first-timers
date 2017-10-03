@@ -157,5 +157,11 @@
 -  Name: Siddharth Mahapatra 
    Place: Bhubaneswar, India  
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
-   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
-  
+   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)
+
+-  Name: Eric Dunsworth 
+   Place: Salt Lake City, UT  
+   Bio: Web Developer | Tech Support
+   GitHub: [ericduns](https://github.com/ericduns)
+
+   
