@@ -111,3 +111,9 @@
   Bio: Student, CEBEM.  
   GitHub: [Charlye](https://github.com/costassolla)  
   Facebook: 
+  
+-  Name:  Tan Jin Ying  
+   Place: Singapore  
+   Bio:  Learning Git Commands  
+   GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
+   Facebook:
