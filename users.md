@@ -63,57 +63,57 @@
    GitHub: [igcigc](https://github.com/igcigc)  
    Facebook:
 
-- Name: Mary Hull  
-  Place: Seattle  
-  Bio: Sys admin. Runner.   
-  GitHub: [Mary Hull](https://github.com/thegreyelephant)  
-  Facebook:  
+-  Name: Mary Hull  
+   Place: Seattle  
+   Bio: Sys admin. Runner.   
+   GitHub: [Mary Hull](https://github.com/thegreyelephant)  
+   Facebook:  
 
-- Name: Johannes Sonn  
-  Place: Germany  
-  Bio: IT-Student   
-  GitHub: [john2ksonn](https://github.com/john2ksonn)
-  Facebook:-  
+-  Name: Johannes Sonn  
+   Place: Germany  
+   Bio: IT-Student   
+   GitHub: [john2ksonn](https://github.com/john2ksonn)
+   Facebook:-  
 
 
-- Name: Rahul Bishnoi
-  Place: Hyderabad, India  
-  Bio:  I am an enthusiast for technology and i love Playing CSGO.  
-  GitHub: [Rahul Bishnoi](https://github.com/nanspro)  
-  Facebook:	[Rahul Bishnoi](https://facebook.com/nanpros)
+-  Name: Rahul Bishnoi
+   Place: Hyderabad, India  
+   Bio:  I am an enthusiast for technology and i love Playing CSGO.  
+   GitHub: [Rahul Bishnoi](https://github.com/nanspro)  
+   Facebook:	[Rahul Bishnoi](https://facebook.com/nanpros)
   
-- Name: Mudit Surana  
-  Place: Hyderabad,India  
-  Bio: Full-stack Developer  
-  Github: [surana-mudit](https://github.com/surana-mudit)  
-  Facebook:  
+-  Name: Mudit Surana  
+   Place: Hyderabad,India  
+   Bio: Full-stack Developer  
+   Github: [surana-mudit](https://github.com/surana-mudit)  
+   Facebook:  
 
-- Name: Marcus Lancaster  
-  Place: Edinburgh, Scotland  
-  Bio: Have you heard of our lord and saviour: Vim?  
-  GitHub [Marcus L](https://github.com/questionmarcus)  
-  Facebook: -  
+-  Name: Marcus Lancaster  
+   Place: Edinburgh, Scotland  
+   Bio: Have you heard of our lord and saviour: Vim?  
+   GitHub [Marcus L](https://github.com/questionmarcus)  
+   Facebook: -  
 
-- Name: Sibylle Sehl  
-  Place: Edinburgh  
-  Bio: Product Manager - currently learning how to git.  
-  GitHub: [Sibylle Sehl](https://github.com/alaskaa)  
-  Facebook:  
+-  Name: Sibylle Sehl  
+   Place: Edinburgh  
+   Bio: Product Manager - currently learning how to git.  
+   GitHub: [Sibylle Sehl](https://github.com/alaskaa)  
+   Facebook:  
 
-- Name: B Siddhartha  
-  Place: Bangalore  
-  Bio: Student R. V. College of Engineering Bangalore.  
-  GitHub: [BSIDIO](https://github.com/bsidio)  
-  Facebook:
+-  Name: B Siddhartha  
+   Place: Bangalore  
+   Bio: Student R. V. College of Engineering Bangalore.  
+   GitHub: [BSIDIO](https://github.com/bsidio)  
+   Facebook:
 
-- Name: Carla Costas a.k.a. Charlye  
-  Place: Vigo, Spain.  
-  Bio: Student, CEBEM.  
-  GitHub: [Charlye](https://github.com/costassolla)  
-  Facebook:
+-  Name: Carla Costas a.k.a. Charlye  
+   Place: Vigo, Spain.  
+   Bio: Student, CEBEM.  
+   GitHub: [Charlye](https://github.com/costassolla)  
+   Facebook:
 
-- Name: Soumam Banerjee  
-  Place: Durgapur, West Bengal, India
-  Bio: Btech. Student at National Institue of technology,Durgapur. Open Source Enthusiast
-  GitHub: [soumam007](https://github.com/soumam007)    
-  Facebook:
+-  Name: Soumam Banerjee  
+   Place: Durgapur, West Bengal, India
+   Bio: Btech. Student at National Institue of technology,Durgapur. Open Source Enthusiast
+   GitHub: [soumam007](https://github.com/soumam007)    
+   Facebook:
