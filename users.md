@@ -153,3 +153,9 @@
   Bio: Likes to code  
   GitHub: [simoneddeland](https://github.com/simoneddeland)  
   Facebook:  
+  
+-  Name: Siddharth Mahapatra 
+   Place: Bhubaneswar, India  
+   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
+   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+  
