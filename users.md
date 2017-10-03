@@ -153,3 +153,9 @@
   Bio: Likes to code  
   GitHub: [simoneddeland](https://github.com/simoneddeland)  
   Facebook:  
+
+- Name: Sparsh Garg  
+  Place: Hyderabad, India.  
+  Bio: Student, IIIT Hyderabad.  
+  GitHub: [sparsh789](https://github.com/sparsh789)  
+  Facebook:  
