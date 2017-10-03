@@ -117,3 +117,21 @@
   Bio: Student, Institut Teknologi Bandung
   Github: [berviantoleo](https://github.com/berviantoleo)
   Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)
+
+- Name: Rahul Bafila  
+  Place: Chandigarh, India.  
+  Bio: Student, UIET PU Chandiagrh.  
+  GitHub: [rahul577](https://github.com/rahul577)  
+  Facebook:  
+  
+-  Name:  Tan Jin Ying  
+   Place: Singapore  
+   Bio:  Learning Git Commands  
+   GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
+   Facebook:  
+   
+  - Name: Andy Luo  
+    Place: Northern California, USA  
+    Bio: Coding enthusiast  
+    GitHub: [GreenRabite](https://github.com/GreenRabite)  
+    Facebook:  

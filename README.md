@@ -13,7 +13,7 @@ You can start by contributing to this awesome list, follow these simple steps to
 ### Installing git:
 Ubuntu:  
 ```sudo apt-get install git```  
-Windows: 
+Windows:
 Use this link:  
 ```https://git-scm.com/download/win```  
 Mac:
@@ -41,7 +41,7 @@ Mac:
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clone.png)  
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clonelink.png)
 4. Change your directory.
-   ```cd awesome-first-timers.git```  
+   ```cd awesome-first-timers```  
 3. Open users.md and enter details in the following format  
    Name: "Your name here"  
    Place: "Enter place here"  
