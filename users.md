@@ -4,13 +4,13 @@
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
   Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
 
-- Name: Andre Peregrina  
+- Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
-  Bio: I am an enthusiast for technology and I love drink beers with my friends.  
+  Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
-
-- Name: Arpit Batra  
+   
+- Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
   GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
@@ -22,10 +22,10 @@
   Github: [Ashish Gautam](https://github.com/gautam2705)  
   Facebook: [Ashish Gautam](https://www.facebook.com/gautam2705)  
 
-- Name: Himanshi-Khandelwal  
+- Name:  Himanshi-Khandelwal  
   Place: Jaipur,India  
-  Bio: Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.  
-  GitHub: https://github.com/Himanshi-Khandelwal
+  Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.  
+  GitHub: [Himanshi](https://github.com/Himanshi-Khandelwal)
   
 - Name: Ana Luísa Dias  
   Place: Bahia, Brazil  
@@ -152,3 +152,57 @@
   Bio: Likes to code  
   GitHub: [simoneddeland](https://github.com/simoneddeland)  
   Facebook:  
+
+- Name: Siddharth Mahapatra  
+  Place: Bhubaneswar, India   
+  Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
+  GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+  
+- Name: Pronomita Dey 
+  Place: Bhubaneswar, India  
+  Bio: Open Source and Programming Enthusiast. 
+  GitHub: https://github.com/PronomitaDey     
+   
+- Name: Ayush Anand  
+  Place: Hyderabad,India  
+  Bio: Tech enthusiast  
+  GitHub: [maykillmore](https://github.com/maykillmore)    
+  Facebook: -  
+  
+- Name: Kevin Mora 
+  Place: San José, Costa Rica
+  Bio: I love to code, love git and rock music  
+  GitHub: [kevinmora94](https://github.com/kevinmora94)  
+  Facebook:
+  
+- Name   : Ahmad Basir
+  Place  : Semarang, Indonesia
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)
+  GitHub : [ahmadbasir](https://github.com/ahmadbasir)
+
+- Name: Udith Ishara Madusanka  
+  Place: Sri Lanka  
+  Bio: Front-end, Back-end developer, gamer, photographer, traveler and loves food  
+  GitHub: [udithishara](https://github.com/udithishara)  
+  Facebook:  
+
+- Name: Eric Dunsworth  
+  Place: Salt Lake City, UT  
+  Bio: Web Developer | Tech Support  
+  GitHub: [ericduns](https://github.com/ericduns)  
+  
+- Name: Katja Sostar  
+  Place: Austria  
+  Bio: Spaghetti coder and designer  
+  GitHub: [helloimkat](https://github.com/helloimkat)  
+
+- Name: Sk Tafique Ahemad  
+  Place: Bhubaneswar, India    
+  Bio: a future web developer  
+  GitHub: [tafiquemd](https://github.com/tafiquemd)  
+  Facebook:
+
+- Name: Andrew B 
+  Place: United Kingdom  
+  Bio: Trying to learn
+  GitHub: [Birksy89](https://github.com/birksy89)    
