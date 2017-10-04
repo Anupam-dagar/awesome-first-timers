@@ -177,7 +177,7 @@
   
 - Name   : Ahmad Basir  
   Place  : Semarang, Indonesia  
-  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)  
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](https://doscom.org)  
   GitHub : [ahmadbasir](https://github.com/ahmadbasir)  
 
 - Name: Udith Ishara Madusanka  
