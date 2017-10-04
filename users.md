@@ -159,3 +159,8 @@
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
   
+- Name   : Ahmad Basir
+  Place  : Semarang, Indonesia
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)
+  GitHub : [ahmadbasir](https://github.com/ahmadbasir)
+
