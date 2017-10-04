@@ -159,3 +159,8 @@
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
   
+- Name: Udith Ishara Madusanka  
+  Place: Sri Lanka  
+  Bio: Front-end, Back-end developer, gamer, photographer, traveler and loves food  
+  GitHub: [udithishara](https://github.com/udithishara)  
+  Facebook:  
