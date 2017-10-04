@@ -157,7 +157,12 @@
    Place: Bhubaneswar, India   
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
-
+  
+-  Name: Pronomita Dey 
+   Place: Bhubaneswar, India  
+   Bio: Open Source and Programming Enthusiast. 
+   GitHub: https://github.com/PronomitaDey     
+   
 -  Name: Ayush Anand  
    Place: Hyderabad,India  
    Bio: Tech enthusiast  
