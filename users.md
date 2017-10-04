@@ -78,7 +78,7 @@
 - Name: Johannes Sonn  
   Place: Germany  
   Bio: IT-Student   
-  GitHub: [john2ksonn](https://github.com/john2ksonn)
+  GitHub: [john2ksonn](https://github.com/john2ksonn)  
   Facebook:  
 
 - Name: Rahul Bishnoi
@@ -117,11 +117,11 @@
   GitHub: [Charlye](https://github.com/costassolla)  
   Facebook:
   
-- Name: Bervianto Leo Pratama
-  Place: Bandung, Indonesia
-  Bio: Student, Institut Teknologi Bandung
-  Github: [berviantoleo](https://github.com/berviantoleo)
-  Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)
+- Name: Bervianto Leo Pratama  
+  Place: Bandung, Indonesia  
+  Bio: Student, Institut Teknologi Bandung  
+  Github: [berviantoleo](https://github.com/berviantoleo)  
+  Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)  
 
 - Name: Rahul Bafila  
   Place: Chandigarh, India.  
@@ -158,27 +158,27 @@
   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
 
-- Name: Pronomita Dey
+- Name: Pronomita Dey  
   Place: Bhubaneswar, India  
-  Bio: Open Source and Programming Enthusiast.
-  GitHub: https://github.com/PronomitaDey     
-
+  Bio: Open Source and Programming Enthusiast.  
+  GitHub: https://github.com/PronomitaDey  
+  
 - Name: Ayush Anand  
   Place: Hyderabad,India  
   Bio: Tech enthusiast  
   GitHub: [maykillmore](https://github.com/maykillmore)    
   Facebook: -  
-
-- Name: Kevin Mora
-  Place: San José, Costa Rica
-  Bio: I love to code, love git and rock music  
-  GitHub: [kevinmora94](https://github.com/kevinmora94)  
-  Facebook:
-
-- Name   : Ahmad Basir
-  Place  : Semarang, Indonesia
-  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)
-  GitHub : [ahmadbasir](https://github.com/ahmadbasir)
+  
+- Name: Kevin Mora  
+  Place: San José, Costa Rica  
+  Bio: I love to code, love git and rock music   
+  GitHub: [kevinmora94](https://github.com/kevinmora94)   
+  Facebook:  
+  
+- Name   : Ahmad Basir  
+  Place  : Semarang, Indonesia  
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)  
+  GitHub : [ahmadbasir](https://github.com/ahmadbasir)  
 
 - Name: Udith Ishara Madusanka  
   Place: Sri Lanka  
@@ -202,9 +202,9 @@
   GitHub: [tafiquemd](https://github.com/tafiquemd)  
   Facebook:
 
-- Name: Andrew B
+- Name: Andrew B  
   Place: United Kingdom  
-  Bio: Trying to learn
+  Bio: Trying to learn  
   GitHub: [Birksy89](https://github.com/birksy89)    
 
 - Name: Dwiky Chandra Hidayat  
