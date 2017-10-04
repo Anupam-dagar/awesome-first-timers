@@ -230,3 +230,9 @@
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
   Facebook:     
   
+- Name: Michael Rodriguez
+  Place: Costa Rica
+  Bio: Web artisan 
+  GitHub: [vinird](https://github.com/vinird)
+  Facebook:
+
