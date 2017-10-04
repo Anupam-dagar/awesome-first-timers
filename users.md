@@ -206,7 +206,7 @@
   Place: United Kingdom  
   Bio: Trying to learn
   GitHub: [Birksy89](https://github.com/birksy89)    
-
+  
 - Name: Dwiky Chandra Hidayat  
   Place: Indonesia
   Bio: Student, SMKN 1 DENPASAR
