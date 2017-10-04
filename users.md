@@ -206,9 +206,3 @@
   Place: United Kingdom  
   Bio: Trying to learn
   GitHub: [Birksy89](https://github.com/birksy89)    
-
-- Name: Sparsh Garg  
-  Place: Hyderabad, India.  
-  Bio: Student, IIIT Hyderabad.  
-  GitHub: [sparsh789](https://github.com/sparsh789)  
-  Facebook:  
