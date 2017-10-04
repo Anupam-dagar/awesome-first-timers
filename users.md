@@ -157,6 +157,11 @@
    Place: Bhubaneswar, India   
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+
+-  Name: Ayush Anand  
+   Place: Hyderabad,India  
+   Bio: Tech enthusiast  
+   GitHub: [maykillmore](https://github.com/maykillmore)    
    Facebook: -  
   
 - Name   : Ahmad Basir
