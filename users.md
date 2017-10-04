@@ -1,7 +1,7 @@
   Name: Vaibhav  
   Place: Rajpura , Punjab
   Bio: I am an aspiring machine learner and front-end developer   
-  GitHub: [Anupam Dagar](https://github.com/vaibhav1671998)    
+  GitHub: [Vaibhav](https://github.com/vaibhav1671998)    
 
 - Name: Anupam Dagar  
   Place: Allahabad, India  
