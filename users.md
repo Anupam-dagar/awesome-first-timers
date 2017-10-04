@@ -235,22 +235,3 @@
   Bio: Open Source Enthusiast, Btech at NIT Durgapur  
   GitHub: [Soumam007](https://github.com/soumam007)  
   Facebook:  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
