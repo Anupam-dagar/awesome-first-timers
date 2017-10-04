@@ -223,3 +223,9 @@
   Place: India 
   Bio: alert('web developer')  
   GitHub: [Ravi Jain](https://github.com/engrravijain)
+  
+- Name: Dawid van Graan
+  Place: Cape Town, South Africa
+  Bio: Mobile Application Developer (Android + iOS Swift)
+  GitHub: [DawidvanGraan](https://github.com/dawidvangraan)  
+  Facebook:
