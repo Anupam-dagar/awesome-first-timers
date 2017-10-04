@@ -81,7 +81,6 @@
   GitHub: [john2ksonn](https://github.com/john2ksonn) 
   Facebook:  
 
-
 - Name: Rahul Bishnoi 
   Place: Hyderabad, India  
   Bio:  I am an enthusiast for technology and i love Playing CSGO.  
@@ -118,12 +117,12 @@
   GitHub: [Charlye](https://github.com/costassolla)  
   Facebook: 
   
-- Name: Bervianto Leo Pratama
-  Place: Bandung, Indonesia
-  Bio: Student, Institut Teknologi Bandung
-  Github: [berviantoleo](https://github.com/berviantoleo)
-  Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)
-
+- Name: Bervianto Leo Pratama  
+  Place: Bandung, Indonesia  
+  Bio: Student, Institut Teknologi Bandung  
+  Github: [berviantoleo](https://github.com/berviantoleo)  
+  Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)  
+  
 - Name: Rahul Bafila  
   Place: Chandigarh, India.  
   Bio: Student, UIET PU Chandiagrh.  
@@ -154,15 +153,24 @@
   GitHub: [simoneddeland](https://github.com/simoneddeland)  
   Facebook:  
   
--  Name: Siddharth Mahapatra 
-   Place: Bhubaneswar, India  
-   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
+-  Name: Siddharth Mahapatra  
+   Place: Bhubaneswar, India   
+   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
 
 -  Name: Ayush Anand  
    Place: Hyderabad,India  
    Bio: Tech enthusiast  
    GitHub: [maykillmore](https://github.com/maykillmore)    
+   Facebook: -  
   
+- Name   : Ahmad Basir
+  Place  : Semarang, Indonesia
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)
+  GitHub : [ahmadbasir](https://github.com/ahmadbasir)
 
-
+- Name: Udith Ishara Madusanka  
+  Place: Sri Lanka  
+  Bio: Front-end, Back-end developer, gamer, photographer, traveler and loves food  
+  GitHub: [udithishara](https://github.com/udithishara)  
+  Facebook:  
