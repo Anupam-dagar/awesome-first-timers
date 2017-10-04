@@ -226,6 +226,6 @@
   
 - Name: Dawid van Graan
   Place: Cape Town, South Africa
-  Bio: Mobile Application Developer (Android + iOS Swift)
+  Bio: Mobile Application Developer for Android and iOS Swift
   GitHub: [DawidvanGraan](https://github.com/dawidvangraan)  
   Facebook:
