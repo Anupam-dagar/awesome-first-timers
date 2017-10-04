@@ -186,7 +186,13 @@
   GitHub: [udithishara](https://github.com/udithishara)  
   Facebook:  
 
-- Name: Eric Dunsworth 
+- Name: Eric Dunsworth  
   Place: Salt Lake City, UT  
-  Bio: Web Developer | Tech Support
-  GitHub: [ericduns](https://github.com/ericduns)
+  Bio: Web Developer | Tech Support  
+  GitHub: [ericduns](https://github.com/ericduns)  
+  
+- Name: Katja Sostar  
+  Place: Austria  
+  Bio: Spaghetti coder and designer  
+  GitHub: [helloimkat](https://github.com/helloimkat)  
+  
