@@ -159,6 +159,11 @@
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
    Facebook: -  
   
+- Name   : Ahmad Basir
+  Place  : Semarang, Indonesia
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)
+  GitHub : [ahmadbasir](https://github.com/ahmadbasir)
+
 - Name: Udith Ishara Madusanka  
   Place: Sri Lanka  
   Bio: Front-end, Back-end developer, gamer, photographer, traveler and loves food  
