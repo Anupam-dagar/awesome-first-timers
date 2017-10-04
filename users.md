@@ -206,3 +206,9 @@
   Place: United Kingdom  
   Bio: Trying to learn
   GitHub: [Birksy89](https://github.com/birksy89)    
+
+- Name: Joell Lapitan  
+  Place: Dubai, UAE  
+  Bio: Web Developer.  
+  GitHub: [jlapitan](https://github.com/jlapitan)  
+  Facebook:  
