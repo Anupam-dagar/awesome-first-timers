@@ -230,3 +230,9 @@
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
   Facebook:     
   
+- Name: Alice Chuang
+  Place: New York City, NY, USA
+  Bio: Front-End UI Engineer
+  GitHub: [Alice Chuang](https://github.com/AliceWonderland)
+  Facebook:
+
