@@ -9,7 +9,7 @@
   Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
-   
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
@@ -26,7 +26,7 @@
   Place: Jaipur,India  
   Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.  
   GitHub: [Himanshi](https://github.com/Himanshi-Khandelwal)
-  
+
 - Name: Ana Luísa Dias  
   Place: Bahia, Brazil  
   Bio: I'm an enthusiast for sci-fi, code, technology and ice cream.  
@@ -55,19 +55,19 @@
   Place: Singapore  
   Bio: Coding Is Life.  
   GitHub: [Koh Chi Hao](https://github.com/kohchihao)  
-  Facebook: 
+  Facebook:
 
 - Name: Shuvikash Patel  
   Place: Bihar, India  
   Bio: Achieving success that I want.  
   GitHub: [shuvikash](https://github.com/shuvikash)    
-  Facebook: 
+  Facebook:
 
 - Name: Igc  
   Place: Spain  
   Bio: It Student.  
   GitHub: [igcigc](https://github.com/igcigc)  
-  Facebook: 
+  Facebook:
 
 - Name: Mary Hull  
   Place: Seattle  
@@ -81,7 +81,7 @@
   GitHub: [john2ksonn](https://github.com/john2ksonn)  
   Facebook:  
 
-- Name: Rahul Bishnoi 
+- Name: Rahul Bishnoi
   Place: Hyderabad, India  
   Bio:  I am an enthusiast for technology and i love Playing CSGO.  
   GitHub: [Rahul Bishnoi](https://github.com/nanspro)  
@@ -109,13 +109,13 @@
   Place: Bangalore  
   Bio: Student R. V. College of Engineering Bangalore.  
   GitHub: [BSIDIO](https://github.com/bsidio)  
-  Facebook: 
-  
+  Facebook:
+
 - Name: Carla Costas a.k.a. Charlye  
   Place: Vigo, Spain.  
   Bio: Student, CEBEM.  
   GitHub: [Charlye](https://github.com/costassolla)  
-  Facebook: 
+  Facebook:
   
 - Name: Bervianto Leo Pratama  
   Place: Bandung, Indonesia  
@@ -128,13 +128,13 @@
   Bio: Student, UIET PU Chandiagrh.  
   GitHub: [rahul577](https://github.com/rahul577)  
   Facebook:  
-  
+
 - Name: Tan Jin Ying  
   Place: Singapore  
   Bio: Learning Git Commands  
   GitHub: [Tan Jin Ying](https://github.com/jinyingtan)  
   Facebook:  
-   
+
 - Name: Andy Luo  
   Place: Northern California, USA  
   Bio: Coding enthusiast  
@@ -157,12 +157,12 @@
   Place: Bhubaneswar, India   
   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
-  
+
 - Name: Pronomita Dey  
   Place: Bhubaneswar, India  
   Bio: Open Source and Programming Enthusiast.  
   GitHub: https://github.com/PronomitaDey  
-   
+  
 - Name: Ayush Anand  
   Place: Hyderabad,India  
   Bio: Tech enthusiast  
@@ -190,7 +190,7 @@
   Place: Salt Lake City, UT  
   Bio: Web Developer | Tech Support  
   GitHub: [ericduns](https://github.com/ericduns)  
-  
+
 - Name: Katja Sostar  
   Place: Austria  
   Bio: Spaghetti coder and designer  
@@ -207,8 +207,19 @@
   Bio: Trying to learn  
   GitHub: [Birksy89](https://github.com/birksy89)    
 
+- Name: Dwiky Chandra Hidayat  
+  Place: Indonesia
+  Bio: Student, SMKN 1 DENPASAR
+  GitHub: [dwikychandra21](https://github.com/dwikychandra21)  
+  Facebook: [Dwiky Chandra](https://www.facebook.com/dwikychandra.hidayat)
+
 - Name: Joell Lapitan  
   Place: Dubai, UAE  
   Bio: Web Developer.  
   GitHub: [jlapitan](https://github.com/jlapitan)  
   Facebook:  
+
+- Name: Ravi Jain 
+  Place: India 
+  Bio: alert('web developer')  
+  GitHub: [Ravi Jain](https://github.com/engrravijain)
