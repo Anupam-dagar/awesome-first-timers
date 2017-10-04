@@ -169,16 +169,16 @@
   GitHub: [maykillmore](https://github.com/maykillmore)    
   Facebook: -  
   
-- Name: Kevin Mora 
-  Place: San José, Costa Rica
-  Bio: I love to code, love git and rock music  
-  GitHub: [kevinmora94](https://github.com/kevinmora94)  
-  Facebook:
+- Name: Kevin Mora  
+  Place: San José, Costa Rica  
+  Bio: I love to code, love git and rock music   
+  GitHub: [kevinmora94](https://github.com/kevinmora94)   
+  Facebook:  
   
-- Name   : Ahmad Basir
-  Place  : Semarang, Indonesia
-  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)
-  GitHub : [ahmadbasir](https://github.com/ahmadbasir)
+- Name   : Ahmad Basir  
+  Place  : Semarang, Indonesia  
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)  
+  GitHub : [ahmadbasir](https://github.com/ahmadbasir)  
 
 - Name: Udith Ishara Madusanka  
   Place: Sri Lanka  
