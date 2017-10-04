@@ -195,4 +195,9 @@
   Place: Austria  
   Bio: Spaghetti coder and designer  
   GitHub: [helloimkat](https://github.com/helloimkat)  
-  
+
+- Name: Sk Tafique Ahemad  
+  Place: Bhubaneswar, India    
+  Bio: a future web developer  
+  GitHub: [tafiquemd](https://github.com/tafiquemd)  
+  Facebook:
