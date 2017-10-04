@@ -159,3 +159,9 @@
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
   
+- Name: Michael Rodriguez
+  Place: Costa Rica
+  Bio: Web artisan 
+  GitHub: [vinird](https://github.com/vinird)
+  Facebook:
+
