@@ -236,6 +236,12 @@
   GitHub [christensenea] (https://github.com/Christensenea)
   Facebook:
   
+- Name: Alice Chuang
+  Place: New York City, NY, USA
+  Bio: Front-End UI Engineer
+  GitHub: [Alice Chuang](https://github.com/AliceWonderland)
+  Facebook:
+
 - Name: Shade Ruangwan  
   Place: Japan  
   Bio: PhD student in Software Engineering  
