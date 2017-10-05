@@ -230,3 +230,7 @@
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
   Facebook:     
   
+- Name: Zach
+  Place: Nevada, US
+  Bio: A little bit of everything
+  Github: [httpsZach](https://github.com/httpszach)
