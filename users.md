@@ -230,3 +230,9 @@
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
   Facebook:     
   
+- Name: Eric Christensen
+  Place: United States
+  Bio: Infosec Student and IT guy
+  GitHub [christensenea] (https://github.com/Christensenea)
+  Facebook:
+  
