@@ -1,3 +1,4 @@
+
 *   Name: Anupam Dagar  
     Place: Allahabad, India  
     Bio: I am like a code under development  
@@ -145,12 +146,82 @@
    Bio: Tinkerer, learning all this github stuff  
    GitHub: [Tomasz M](https://github.com/Nabuchodonozor)  
    Facebook:  
-   
 - Name: Simon Eddeland  
   Place: Sweden  
   Bio: Likes to code  
   GitHub: [simoneddeland](https://github.com/simoneddeland)  
   Facebook:  
+
+- Name: Siddharth Mahapatra  
+  Place: Bhubaneswar, India   
+  Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
+  GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+
+- Name: Pronomita Dey  
+  Place: Bhubaneswar, India  
+  Bio: Open Source and Programming Enthusiast.  
+  GitHub: https://github.com/PronomitaDey  
+  
+- Name: Ayush Anand  
+  Place: Hyderabad,India  
+  Bio: Tech enthusiast  
+  GitHub: [maykillmore](https://github.com/maykillmore)    
+  Facebook: -  
+  
+- Name: Kevin Mora  
+  Place: San José, Costa Rica  
+  Bio: I love to code, love git and rock music   
+  GitHub: [kevinmora94](https://github.com/kevinmora94)   
+  Facebook:  
+  
+- Name   : Ahmad Basir  
+  Place  : Semarang, Indonesia  
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)  
+  GitHub : [ahmadbasir](https://github.com/ahmadbasir)  
+
+- Name: Udith Ishara Madusanka  
+  Place: Sri Lanka  
+  Bio: Front-end, Back-end developer, gamer, photographer, traveler and loves food  
+  GitHub: [udithishara](https://github.com/udithishara)  
+  Facebook:  
+
+- Name: Eric Dunsworth  
+  Place: Salt Lake City, UT  
+  Bio: Web Developer | Tech Support  
+  GitHub: [ericduns](https://github.com/ericduns)  
+
+- Name: Katja Sostar  
+  Place: Austria  
+  Bio: Spaghetti coder and designer  
+  GitHub: [helloimkat](https://github.com/helloimkat)  
+
+- Name: Sk Tafique Ahemad  
+  Place: Bhubaneswar, India    
+  Bio: a future web developer  
+  GitHub: [tafiquemd](https://github.com/tafiquemd)  
+  Facebook:
+
+- Name: Andrew B  
+  Place: United Kingdom  
+  Bio: Trying to learn  
+  GitHub: [Birksy89](https://github.com/birksy89)    
+
+- Name: Dwiky Chandra Hidayat  
+  Place: Indonesia
+  Bio: Student, SMKN 1 DENPASAR
+  GitHub: [dwikychandra21](https://github.com/dwikychandra21)  
+  Facebook: [Dwiky Chandra](https://www.facebook.com/dwikychandra.hidayat)
+
+- Name: Joell Lapitan  
+  Place: Dubai, UAE  
+  Bio: Web Developer.  
+  GitHub: [jlapitan](https://github.com/jlapitan)  
+  Facebook:  
+
+- Name: Ravi Jain 
+  Place: India 
+  Bio: alert('web developer')  
+  GitHub: [Ravi Jain](https://github.com/engrravijain)
   
 -  Name: Siddharth Mahapatra 
    Place: Bhubaneswar, India  
