@@ -162,13 +162,13 @@
   Place: Bhubaneswar, India  
   Bio: Open Source and Programming Enthusiast.  
   GitHub: https://github.com/PronomitaDey  
-  
+
 - Name: Ayush Anand  
   Place: Hyderabad,India  
   Bio: Tech enthusiast  
   GitHub: [maykillmore](https://github.com/maykillmore)    
   Facebook: -  
-  
+
 - Name: Kevin Mora  
   Place: San José, Costa Rica  
   Bio: I love to code, love git and rock music   
@@ -229,10 +229,15 @@
   GitHub: [jlapitan](https://github.com/jlapitan)  
   Facebook:  
 
-- Name: Ravi Jain 
-  Place: India 
+- Name: Ravi Jain
+  Place: India
   Bio: alert('web developer')  
   GitHub: [Ravi Jain](https://github.com/engrravijain)
+
+- Name: Nuriel Fattah  
+  Place: Indonesia  
+  Bio: DevOps Troopers    
+  GitHub: [Nuriel Fattah](https://github.com/nurielfattah)  
   
 - Name: Dawid van Graan  
   Place: Cape Town, South Africa  
