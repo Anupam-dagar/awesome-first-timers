@@ -177,7 +177,7 @@
   
 - Name   : Ahmad Basir  
   Place  : Semarang, Indonesia  
-  Bio    : Designer | Backend Developers | [Dinus Open Source Community](doscom.org)  
+  Bio    : Designer | Backend Developers | [Dinus Open Source Community](https://doscom.org)  
   GitHub : [ahmadbasir](https://github.com/ahmadbasir)  
 
 - Name: Udith Ishara Madusanka  
@@ -229,6 +229,12 @@
   Bio: Mobile (Android + iOS) Developer  
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
   Facebook:     
+
+- Name: Eric Christensen
+  Place: United States
+  Bio: Infosec Student and IT guy
+  GitHub [christensenea] (https://github.com/Christensenea)
+  Facebook:
   
 - Name: Alice Chuang
   Place: New York City, NY, USA
@@ -236,3 +242,7 @@
   GitHub: [Alice Chuang](https://github.com/AliceWonderland)
   Facebook:
 
+- Name: Shade Ruangwan  
+  Place: Japan  
+  Bio: PhD student in Software Engineering  
+  Github: [sruangwan](https://github.com/sruangwan)  
