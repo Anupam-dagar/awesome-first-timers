@@ -175,6 +175,16 @@
   GitHub: [kevinmora94](https://github.com/kevinmora94)   
   Facebook:  
   
+- Name: Siddharth Mahapatra 
+  Place: Bhubaneswar, India  
+  Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
+  GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)
+
+- Name: Pratyum Jagannath
+  Place: Singapore
+  Bio: Software Enthusiast| Chilling and Balling | Open Source Contributor
+  GitHub: [Pratyum](https://github.com/Pratyum)
+
 - Name   : Ahmad Basir  
   Place  : Semarang, Indonesia  
   Bio    : Designer | Backend Developers | [Dinus Open Source Community](https://doscom.org)  
