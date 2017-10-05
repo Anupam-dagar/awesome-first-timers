@@ -229,4 +229,8 @@
   Bio: Mobile (Android + iOS) Developer  
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
   Facebook:     
-  
+ 
+- Name: Shade Ruangwan  
+  Place: Japan  
+  Bio: PhD student in Software Engineering  
+  Github: [sruangwan](https://github.com/sruangwan)  
