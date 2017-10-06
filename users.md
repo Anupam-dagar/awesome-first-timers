@@ -266,4 +266,9 @@
 - Name: Shade Ruangwan  
   Place: Japan  
   Bio: PhD student in Software Engineering  
-  Github: [sruangwan](https://github.com/sruangwan)  
+  Github: [sruangwan](https://github.com/sruangwan) 
+
+- Name: Brandon Brewer  
+  Place: US
+  Bio: Aspiring web developer  
+  Github: [Brandon Brewer](https://github.com/brandonbrewer93)
