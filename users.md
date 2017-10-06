@@ -272,3 +272,8 @@
   Place: India  
   Bio: IT Student  
   Github: [OrionStar25](https://github.com/OrionStar25)  
+
+- Name: Aswin VB  
+  Place: India  
+  Bio: BTech Student In Information Technology
+  Github: [aswinzz](https://github.com/aswinzz) 
