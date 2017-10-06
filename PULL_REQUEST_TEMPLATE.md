@@ -1,4 +1,4 @@
-This pull request is for the issue no. #4  
+This pull request is for the issue no. #issue no 
 
 I make sure that before opening this pull request I have starred this repo 
 
