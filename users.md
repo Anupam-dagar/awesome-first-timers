@@ -174,8 +174,8 @@
   Bio: I love to code, love git and rock music   
   GitHub: [kevinmora94](https://github.com/kevinmora94)   
   Facebook:  
-  
-- Name: Siddharth Mahapatra 
+
+- Name: Siddharth Mahapatra
   Place: Bhubaneswar, India  
   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)
@@ -238,7 +238,7 @@
   Place: Indonesia  
   Bio: DevOps Troopers    
   GitHub: [Nuriel Fattah](https://github.com/nurielfattah)  
-  
+
 - Name: Dawid van Graan  
   Place: Cape Town, South Africa  
   Bio: Mobile (Android + iOS) Developer  
@@ -250,13 +250,13 @@
   Bio: Open Source Enthusiast, Btech at NIT Durgapur  
   GitHub: [Soumam007](https://github.com/soumam007)  
   Facebook:  
-  
+
 - Name: Eric Christensen
   Place: United States
   Bio: Infosec Student and IT guy
   GitHub [christensenea] (https://github.com/Christensenea)
   Facebook:
-  
+
 - Name: Alice Chuang
   Place: New York City, NY, USA
   Bio: Front-End UI Engineer
@@ -267,3 +267,8 @@
   Place: Japan  
   Bio: PhD student in Software Engineering  
   Github: [sruangwan](https://github.com/sruangwan)  
+
+- Name: Zara Otamias
+  Place: Massachusetts, USA
+  Bio: Self taught coder & a Student of Life
+  GitHub: [zotamias](https://github.com/zotamias)  
