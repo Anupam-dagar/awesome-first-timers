@@ -272,3 +272,8 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+
+- Name:  Sarsiz
+  Place: New Delhi, India  
+  Bio: I am an aspiring programmar
+  GitHub: [Sarsiz](https://github.com/sarsiz) 
