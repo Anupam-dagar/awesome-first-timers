@@ -267,3 +267,8 @@
   Place: Japan  
   Bio: PhD student in Software Engineering  
   Github: [sruangwan](https://github.com/sruangwan)  
+  
+- Name: Aswin VB  
+  Place: India  
+  Bio: BTech Student In Information Technology
+  Github: [aswinzz](https://github.com/aswinzz) 
