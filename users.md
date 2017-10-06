@@ -271,4 +271,9 @@
 - Name: Aswin VB  
   Place: India  
   Bio: BTech Student In Information Technology
-  Github: [aswinzz](https://github.com/aswinzz) 
+  Github: [aswinzz](https://github.com/aswinzz)
+
+- Name: Akshay Kumar
+  Place: India
+  Bio: Btech Student in Computer Science
+  Github: [AkshayCHD](https://github.com/AkshayCHD) 
