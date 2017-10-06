@@ -269,6 +269,6 @@
   Github: [sruangwan](https://github.com/sruangwan) 
 
 - Name: Brandon Brewer  
-  Place: US
+  Place: US  
   Bio: Aspiring web developer  
   Github: [Brandon Brewer](https://github.com/brandonbrewer93)
