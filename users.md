@@ -277,3 +277,8 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+
+- Name: Hardik Joshi 
+  Place: India  
+  Bio: Javascript Enthusiast and CSS Preacher
+  Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
