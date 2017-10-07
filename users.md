@@ -279,6 +279,6 @@
   Github: [aswinzz](https://github.com/aswinzz) 
 
 - Name: Hardik Joshi 
-  Place: India  
+  Place: India 
   Bio: Javascript Enthusiast and CSS Preacher
   Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
