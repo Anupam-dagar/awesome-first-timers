@@ -277,3 +277,8 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+
+- Name: Shreyas Agarkar  
+  Place: India  
+  Bio: JS Developer @ Rentomojo  
+  Github: [shreyas-a](https://github.com/shreyas-a)  
