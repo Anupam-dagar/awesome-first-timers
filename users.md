@@ -277,3 +277,8 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+
+- Name: Vanessa von Hammerzeit
+  Place: Australia
+  Bio: Still suffering PTSD from Haskell
+  Github: [whysogreen](https://github.com/whysogreen)
