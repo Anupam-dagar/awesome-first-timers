@@ -277,3 +277,8 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+
+- Name: Bipin Kumar  
+  Place: India  
+  Bio: Android Developer, Btech in IT
+  Github: [bipinkumar919](https://github.com/bipinkumar919) 
