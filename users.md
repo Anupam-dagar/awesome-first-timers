@@ -14,7 +14,7 @@
   Place: Dehradun, India
   Bio: I am an aspiring android developer.
   GitHub: [Arpit Batra](https://github.com/arpitbatra123)
-  Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123)
+  Facebook: [Arpit Batra](https://Facebook.com/arpitbatra123)
 
 - Name: Ashish Gautam
   Place: Delhi, India
@@ -282,3 +282,4 @@
   Place: Surat,India
   Bio: In love with the WEB,development follows.
   Github:[Avinash Jaiswal](https://github.com/littlestar642)
+  Facebook: [Avinash Jaiswal](https://facebook.com/avinashroc)
