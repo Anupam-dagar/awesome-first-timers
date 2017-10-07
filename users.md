@@ -276,4 +276,10 @@
 - Name: Aswin VB  
   Place: India  
   Bio: BTech Student In Information Technology
-  Github: [aswinzz](https://github.com/aswinzz) 
+  Github: [aswinzz](https://github.com/aswinzz)
+  
+- Name: Abhishek Tiwari
+  Place: India
+  Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.
+  Github: [zeus0789](https://github.com/zeus0789)
+  
