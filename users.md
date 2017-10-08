@@ -281,5 +281,9 @@
 - Name: Alexandra CT
   Place: Texas
   Bio: Teacher
-  Github:
-  [alexandrawr1987](https://github.com/Alexandrawr1987)
+  Github:[alexandrawr1987](https://github.com/Alexandrawr1987)
+
+- Name: David Y.  
+  Place: USA  
+  Bio: Developer  
+  Github: [idavidy](https://github.com/idavidy) 
