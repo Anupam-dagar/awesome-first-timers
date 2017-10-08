@@ -174,8 +174,8 @@
   Bio: I love to code, love git and rock music   
   GitHub: [kevinmora94](https://github.com/kevinmora94)   
   Facebook:  
-  
-- Name: Siddharth Mahapatra 
+
+- Name: Siddharth Mahapatra
   Place: Bhubaneswar, India  
   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
   GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)
@@ -238,7 +238,7 @@
   Place: Indonesia  
   Bio: DevOps Troopers    
   GitHub: [Nuriel Fattah](https://github.com/nurielfattah)  
-  
+
 - Name: Dawid van Graan  
   Place: Cape Town, South Africa  
   Bio: Mobile (Android + iOS) Developer  
@@ -250,13 +250,13 @@
   Bio: Open Source Enthusiast, Btech at NIT Durgapur  
   GitHub: [Soumam007](https://github.com/soumam007)  
   Facebook:  
-  
+
 - Name: Eric Christensen
   Place: United States
   Bio: Infosec Student and IT guy
   GitHub [christensenea] (https://github.com/Christensenea)
   Facebook:
-  
+
 - Name: Alice Chuang
   Place: New York City, NY, USA
   Bio: Front-End UI Engineer
@@ -267,7 +267,12 @@
   Place: Japan  
   Bio: PhD student in Software Engineering  
   Github: [sruangwan](https://github.com/sruangwan)  
-  
+
+- Name: Niharika Shrivastava  
+  Place: India  
+  Bio: IT Student  
+  Github: [OrionStar25](https://github.com/OrionStar25)  
+
 - Name: Aswin VB  
   Place: India  
   Bio: BTech Student In Information Technology
@@ -277,3 +282,43 @@
   Place: India
   Bio: Btech Student in Computer Science
   Github: [AkshayCHD](https://github.com/AkshayCHD) 
+
+- Name: Cole Simchick  
+  Place: Lancaster, PA, USA  
+  Bio: Computer Software Engineering Student
+  Github: [colelabar](https://github.com/colelabar)   
+
+- Name: Patrick Stephens  
+  Place: USA  
+  Bio: Professional Geek  
+  Github: [patsteph](https://github.com/patsteph)  
+  
+- Name: Bipin Kumar  
+  Place: India  
+  Bio: Android Developer, Btech in IT
+  Github: [bipinkumar919](https://github.com/bipinkumar919) 
+  
+- Name: Abhishek Tiwari
+  Place: India
+  Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.
+  Github: [zeus0789](https://github.com/zeus0789)
+
+- Name: Shreyas Agarkar  
+  Place: India  
+  Bio: JS Developer @ Rentomojo  
+  Github: [shreyas-a](https://github.com/shreyas-a)  
+
+- Name: Hardik Joshi 
+  Place: India 
+  Bio: Javascript Enthusiast and CSS Preacher
+  Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
+
+- Name: Alexandra CT
+  Place: Texas
+  Bio: Teacher
+  Github:[alexandrawr1987](https://github.com/Alexandrawr1987)
+
+- Name: David Y.  
+  Place: USA  
+  Bio: Developer  
+  Github: [idavidy](https://github.com/idavidy) 
