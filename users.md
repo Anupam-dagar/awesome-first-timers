@@ -282,3 +282,38 @@
   Place: Lancaster, PA, USA  
   Bio: Computer Software Engineering Student
   Github: [colelabar](https://github.com/colelabar)   
+
+- Name: Patrick Stephens  
+  Place: USA  
+  Bio: Professional Geek  
+  Github: [patsteph](https://github.com/patsteph)  
+  
+- Name: Bipin Kumar  
+  Place: India  
+  Bio: Android Developer, Btech in IT
+  Github: [bipinkumar919](https://github.com/bipinkumar919) 
+  
+- Name: Abhishek Tiwari
+  Place: India
+  Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.
+  Github: [zeus0789](https://github.com/zeus0789)
+
+- Name: Shreyas Agarkar  
+  Place: India  
+  Bio: JS Developer @ Rentomojo  
+  Github: [shreyas-a](https://github.com/shreyas-a)  
+
+- Name: Hardik Joshi 
+  Place: India 
+  Bio: Javascript Enthusiast and CSS Preacher
+  Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
+
+- Name: Alexandra CT
+  Place: Texas
+  Bio: Teacher
+  Github:[alexandrawr1987](https://github.com/Alexandrawr1987)
+
+- Name: David Y.  
+  Place: USA  
+  Bio: Developer  
+  Github: [idavidy](https://github.com/idavidy) 
