@@ -276,7 +276,12 @@
 - Name: Aswin VB  
   Place: India  
   Bio: BTech Student In Information Technology
-  Github: [aswinzz](https://github.com/aswinzz) 
+  Github: [aswinzz](https://github.com/aswinzz)
+
+- Name: Cole Simchick  
+  Place: Lancaster, PA, USA  
+  Bio: Computer Software Engineering Student
+  Github: [colelabar](https://github.com/colelabar)   
 
 - Name: Patrick Stephens  
   Place: USA  
