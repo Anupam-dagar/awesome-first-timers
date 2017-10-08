@@ -278,6 +278,11 @@
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
 
+- Name: Patrick Stephens  
+  Place: USA  
+  Bio: Professional Geek  
+  Github: [patsteph](https://github.com/patsteph)  
+  
 - Name: Bipin Kumar  
   Place: India  
   Bio: Android Developer, Btech in IT
