@@ -277,3 +277,8 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+
+- Name: David Y.  
+  Place: USA  
+  Bio: Developer  
+  Github: [idavidy](https://github.com/idavidy) 
