@@ -268,6 +268,11 @@
   Bio: PhD student in Software Engineering  
   Github: [sruangwan](https://github.com/sruangwan)  
 
+- Name: Zara Otamias
+  Place: Massachusetts, USA
+  Bio: Self taught coder & a Student of Life
+  GitHub: [zotamias](https://github.com/zotamias)  
+
 - Name: Niharika Shrivastava  
   Place: India  
   Bio: IT Student  
