@@ -278,6 +278,11 @@
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz)
 
+- Name: Akshay Kumar
+  Place: India
+  Bio: Btech Student in Computer Science
+  Github: [AkshayCHD](https://github.com/AkshayCHD) 
+
 - Name: Cole Simchick  
   Place: Lancaster, PA, USA  
   Bio: Computer Software Engineering Student
