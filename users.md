@@ -277,3 +277,9 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+  
+- Name: Mohammed Saud
+  Place: Bangalore
+  Bio: Self taught programmer, sometimes fixes printers.
+  Github: [rottencandy](https://www.github.com/rottencandy)
+  Facebook: [Mohammed Saud](https://www.fb.com/rottencandy)
