@@ -287,7 +287,12 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
- 
+
+- Name:Shankhalika Sarkar 
+  Place: Karnataka, India
+  Bio: CS Undergrad. I love a good cup of tea and some puzzles to go along with.
+  Github: [Shankhalika](https://github.com/Shankhalika) 
+
 - Name:  Sarsiz
   Place: New Delhi, India  
   Bio: I am an aspiring programmar
@@ -342,4 +347,3 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
-
