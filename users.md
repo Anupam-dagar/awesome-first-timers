@@ -39,7 +39,7 @@
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
   
-  - Name: Chantal Andin Fokunang  
+- Name: Chantal Andin Fokunang  
   Place: Yaounde, Cameroon  
   Bio: Otaku - Programmer - Geek   
   GitHub: [switchgirl95](https://github.com/switchgirl95)  
