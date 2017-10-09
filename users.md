@@ -38,6 +38,12 @@
   Bio: Code once, run anywhere.  
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
+  
+  - Name: Chantal Andin Fokunang  
+  Place: Yaounde, Cameroon  
+  Bio: Otaku - Programmer - Geek   
+  GitHub: [switchgirl95](https://github.com/switchgirl95)  
+  Facebook: [Andin Fokunang](https://facebook.com/andin.fokunang)  
 
 - Name: Alexander Yalchik  
   Place: Zhlobin, Belarus  
