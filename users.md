@@ -347,3 +347,8 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
+
+- Name: Aman Nim
+  Place: India
+  Bio: Frontend Developer
+  Github: [Amannim98](https://github.com/Amannim98)
