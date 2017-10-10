@@ -277,3 +277,9 @@
   Place: India  
   Bio: BTech Student In Information Technology
   Github: [aswinzz](https://github.com/aswinzz) 
+
+- Name: Kritika Bedwal
+  Place: India  
+  Bio: IT Student, Android Developer
+  Github: [kritika-bedwal](https://github.com/kritika-bedwal)  
+
