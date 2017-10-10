@@ -347,3 +347,8 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
+
+- Name: Lee Magbanua
+  Place: Philippines
+  Bio: Student & Front-End Web Developer
+  Github: [leesenpai](https://github.com/leesenpai) 
