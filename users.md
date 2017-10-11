@@ -347,3 +347,8 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
+  
+- Name: Rajat Goyal
+  Place: India
+  Bio: Software Developer
+  Github: [rajatgoyal715](https://github.com/rajatgoyal715)
