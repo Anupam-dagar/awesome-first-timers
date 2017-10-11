@@ -360,6 +360,6 @@
 
 - Name: Schitte Industries  
   Place: Interwebs
-  Bio: [We make internet products](https://sites.google.com/view/schitteindustries/home)
+  Bio: [We make internet products](https://sites.google.com/view/schitteindustries/home)  
   GitHub: [Schitte Industries](https://github.com/schitte)  
   Facebook: [Schitte Industries](https://www.facebook.com/schitteindustries/)
