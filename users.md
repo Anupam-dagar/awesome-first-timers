@@ -308,6 +308,10 @@
   Bio: Computer Software Engineering Student
   Github: [colelabar](https://github.com/colelabar)   
 
+- Name: Priyansh Agrawal  
+  Place: Hyderabad , India  
+  Bio: I am an enthusiast for web development and nlp  
+  GitHub: [priyansh2](https://github.com/Priyansh2)  
 - Name: Patrick Stephens  
   Place: USA  
   Bio: Professional Geek  
@@ -352,3 +356,9 @@
   Place: India
   Bio: Software Developer
   Github: [rajatgoyal715](https://github.com/rajatgoyal715)
+
+- Name: Aimee  
+  Place: England, UK  
+  Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
+  GitHub: [darkxangel84](https://github.com/darkxangel84)  
+  Facebook:  
