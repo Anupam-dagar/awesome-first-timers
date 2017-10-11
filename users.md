@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -357,3 +357,9 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+- Name: Harsh Paliwal  
+  Place: Varanasi, India  
+  Bio: curiouscoder  
+  GitHub: [hpaliwal4](https://github.com/hpaliwal4)    
+  Facebook: [harsh paliwal](https://www.facebook.com/harsh.yagami)   
