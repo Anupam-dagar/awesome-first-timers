@@ -159,3 +159,8 @@
    Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
    GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
   
+- Name: Ajay Ram  
+  Place: India  
+  Bio: B.Tech CSE,IIT Guwahati 
+  GitHub: [ajayram515](https://github.com/ajayram515)  
+ 
