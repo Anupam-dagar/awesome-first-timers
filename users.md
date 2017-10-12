@@ -121,7 +121,7 @@
   Place: Bandung, Indonesia  
   Bio: Student, Institut Teknologi Bandung  
   Github: [berviantoleo](https://github.com/berviantoleo)  
-  Facebook: [Bervianto Leo Pratama](https://facebook.com/bervianto.leo)  
+  Facebook: [Bervianto Leo Pratsama](https://facebook.com/bervianto.leo)  
 
 - Name: Rahul Bafila  
   Place: Chandigarh, India.  
@@ -156,7 +156,7 @@
 - Name: Siddharth Mahapatra  
   Place: Bhubaneswar, India   
   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
-  GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)    
+  GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)  
 
 - Name: Pronomita Dey  
   Place: Bhubaneswar, India  
@@ -175,15 +175,15 @@
   GitHub: [kevinmora94](https://github.com/kevinmora94)   
   Facebook:  
 
-- Name: Siddharth Mahapatra
+- Name: Siddharth Mahapatra  
   Place: Bhubaneswar, India  
-  Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
-  GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)
+  Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor  
+  GitHub: [SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)  
 
-- Name: Pratyum Jagannath
-  Place: Singapore
-  Bio: Software Enthusiast| Chilling and Balling | Open Source Contributor
-  GitHub: [Pratyum](https://github.com/Pratyum)
+- Name: Pratyum Jagannath  
+  Place: Singapore  
+  Bio: Software Enthusiast| Chilling and Balling | Open Source Contributor  
+  GitHub: [Pratyum](https://github.com/Pratyum)  
 
 - Name   : Ahmad Basir  
   Place  : Semarang, Indonesia  
@@ -207,7 +207,7 @@
   GitHub: [helloimkat](https://github.com/helloimkat)  
 
 - Name: Sk Tafique Ahemad  
-  Place: Bhubaneswar, India    
+  Place: Bhubaneswar, India  
   Bio: a future web developer  
   GitHub: [tafiquemd](https://github.com/tafiquemd)  
   Facebook:
@@ -215,13 +215,13 @@
 - Name: Andrew B  
   Place: United Kingdom  
   Bio: Trying to learn  
-  GitHub: [Birksy89](https://github.com/birksy89)    
+  GitHub: [Birksy89](https://github.com/birksy89)  
 
 - Name: Dwiky Chandra Hidayat  
-  Place: Indonesia
-  Bio: Student, SMKN 1 DENPASAR
+  Place: Indonesia  
+  Bio: Student, SMKN 1 DENPASAR  
   GitHub: [dwikychandra21](https://github.com/dwikychandra21)  
-  Facebook: [Dwiky Chandra](https://www.facebook.com/dwikychandra.hidayat)
+  Facebook: [Dwiky Chandra](https://www.facebook.com/dwikychandra.hidayat)  
 
 - Name: Joell Lapitan  
   Place: Dubai, UAE  
@@ -229,21 +229,21 @@
   GitHub: [jlapitan](https://github.com/jlapitan)  
   Facebook:  
 
-- Name: Ravi Jain
-  Place: India
+- Name: Ravi Jain  
+  Place: India  
   Bio: alert('web developer')  
-  GitHub: [Ravi Jain](https://github.com/engrravijain)
+  GitHub: [Ravi Jain](https://github.com/engrravijain)  
 
 - Name: Nuriel Fattah  
   Place: Indonesia  
-  Bio: DevOps Troopers    
+  Bio: DevOps Troopers  
   GitHub: [Nuriel Fattah](https://github.com/nurielfattah)  
 
 - Name: Dawid van Graan  
   Place: Cape Town, South Africa  
   Bio: Mobile (Android + iOS) Developer  
-  GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
-  Facebook:     
+  GitHub: [Dawid van Graan](https://github.com/dawidvangraan)  
+  Facebook:  
 
 - Name: Soumam Banerjee  
   Place: Durgapur,India  
@@ -251,31 +251,31 @@
   GitHub: [Soumam007](https://github.com/soumam007)  
   Facebook:  
 
-- Name: Eric Christensen
-  Place: United States
-  Bio: Infosec Student and IT guy
-  GitHub [christensenea] (https://github.com/Christensenea)
-  Facebook:
+- Name: Eric Christensen  
+  Place: United States  
+  Bio: Infosec Student and IT guy  
+  GitHub [christensenea] (https://github.com/Christensenea)  
+  Facebook:  
 
-- Name: Alice Chuang
-  Place: New York City, NY, USA
-  Bio: Front-End UI Engineer
-  GitHub: [Alice Chuang](https://github.com/AliceWonderland)
-  Facebook:
+- Name: Alice Chuang  
+  Place: New York City, NY, USA  
+  Bio: Front-End UI Engineer  
+  GitHub: [Alice Chuang](https://github.com/AliceWonderland)  
+  Facebook:  
 
 - Name: Shade Ruangwan  
   Place: Japan  
   Bio: PhD student in Software Engineering  
-  Github: [sruangwan](https://github.com/sruangwan) 
+  Github: [sruangwan](https://github.com/sruangwan)  
 
 - Name: Brandon Brewer  
   Place: US  
   Bio: Aspiring web developer  
-  Github: [Brandon Brewer](https://github.com/brandonbrewer93)
+  Github: [Brandon Brewer](https://github.com/brandonbrewer93)  
 
-- Name: Zara Otamias
-  Place: Massachusetts, USA
-  Bio: Self taught coder & a Student of Life
+- Name: Zara Otamias  
+  Place: Massachusetts, USA  
+  Bio: Self taught coder & a Student of Life  
   GitHub: [zotamias](https://github.com/zotamias)  
 
 - Name: Niharika Shrivastava  
@@ -285,33 +285,34 @@
 
 - Name: Aswin VB  
   Place: India  
-  Bio: BTech Student In Information Technology
-  Github: [aswinzz](https://github.com/aswinzz) 
+  Bio: BTech Student In Information Technology  
+  Github: [aswinzz](https://github.com/aswinzz)  
 
-- Name:Shankhalika Sarkar 
-  Place: Karnataka, India
-  Bio: CS Undergrad. I love a good cup of tea and some puzzles to go along with.
-  Github: [Shankhalika](https://github.com/Shankhalika) 
+- Name:Shankhalika Sarkar  
+  Place: Karnataka, India  
+  Bio: CS Undergrad. I love a good cup of tea and some puzzles to go along with.  
+  Github: [Shankhalika](https://github.com/Shankhalika)  
 
-- Name:  Sarsiz
+- Name:  Sarsiz  
   Place: New Delhi, India  
-  Bio: I am an aspiring programmar
-  GitHub: [Sarsiz](https://github.com/sarsiz) 
+  Bio: I am an aspiring programmar  
+  GitHub: [Sarsiz](https://github.com/sarsiz)  
 
-- Name: Akshay Kumar
-  Place: India
-  Bio: Btech Student in Computer Science
-  Github: [AkshayCHD](https://github.com/AkshayCHD) 
+- Name: Akshay Kumar  
+  Place: India  
+  Bio: Btech Student in Computer Science  
+  Github: [AkshayCHD](https://github.com/AkshayCHD)  
 
 - Name: Cole Simchick  
   Place: Lancaster, PA, USA  
-  Bio: Computer Software Engineering Student
-  Github: [colelabar](https://github.com/colelabar)   
+  Bio: Computer Software Engineering Student  
+  Github: [colelabar](https://github.com/colelabar)  
 
 - Name: Priyansh Agrawal  
   Place: Hyderabad , India  
   Bio: I am an enthusiast for web development and nlp  
   GitHub: [priyansh2](https://github.com/Priyansh2)  
+  
 - Name: Patrick Stephens  
   Place: USA  
   Bio: Professional Geek  
@@ -319,38 +320,38 @@
   
 - Name: Bipin Kumar  
   Place: India  
-  Bio: Android Developer, Btech in IT
-  Github: [bipinkumar919](https://github.com/bipinkumar919) 
+  Bio: Android Developer, Btech in IT  
+  Github: [bipinkumar919](https://github.com/bipinkumar919)  
   
-- Name: Abhishek Tiwari
-  Place: India
-  Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.
-  Github: [zeus0789](https://github.com/zeus0789)
+- Name: Abhishek Tiwari  
+  Place: India  
+  Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.  
+  Github: [zeus0789](https://github.com/zeus0789)  
 
 - Name: Shreyas Agarkar  
   Place: India  
   Bio: JS Developer @ Rentomojo  
   Github: [shreyas-a](https://github.com/shreyas-a)  
 
-- Name: Hardik Joshi 
-  Place: India 
-  Bio: Javascript Enthusiast and CSS Preacher
-  Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
+- Name: Hardik Joshi  
+  Place: India  
+  Bio: Javascript Enthusiast and CSS Preacher  
+  Github: [hardikyjoshi](https://github.com/hardikyjoshi)  
 
-- Name: Alexandra CT
-  Place: Texas
-  Bio: Teacher
-  Github:[alexandrawr1987](https://github.com/Alexandrawr1987)
+- Name: Alexandra CT  
+  Place: Texas  
+  Bio: Teacher  
+  Github:[alexandrawr1987](https://github.com/Alexandrawr1987)  
 
 - Name: David Y.  
   Place: USA  
   Bio: Developer  
-  Github: [idavidy](https://github.com/idavidy) 
+  Github: [idavidy](https://github.com/idavidy)  
 
-- Name: Mayank Saxena
-  Place: India
-  Bio: Student Developer
-  Github: [mayank26saxena](https://github.com/mayank26saxena) 
+- Name: Mayank Saxena  
+  Place: India  
+  Bio: Student Developer  
+  Github: [mayank26saxena](https://github.com/mayank26saxena)  
 
 - Name: Aimee  
   Place: England, UK  
