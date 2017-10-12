@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+- Name: Rahul Srivastava
+  Place: India
+  Bio: JS Developer @ NIT Bhopal
+  Github: [vnsrahul1304](https://github.com/vnsrahul1304)
