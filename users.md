@@ -360,6 +360,6 @@
 
 - Name:  Monika Bhardwaj
   Place: Melbourne, Australia  
-  Bio: I am Salesforce Consultant and I love to travel.
+  Bio: I am Salesforce Consultant and I love to travel.  
   GitHub:[monikabhardwaj08](https://github.com/monikabhardwaj08)  
   Facebook: Monika Bhardwaj  
