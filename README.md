@@ -1,35 +1,38 @@
 # awesome-first-timers
+
 This is a place to contribute if you are a first timer. Contains people present in the world of open source, check out some of the amazing users [here](http://www.anupamdagar.me/awesome-first-timers/users)
 
 ## Details
+
 Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
 You can start by contributing to this awesome list, follow these simple steps to make your first successful PR.  
 
 ## Steps:
+
 1. Installation of required tools:
 * git
 * any IDE of your choice (for ex. sublime text and atom)
 
 ### Installing git:
-Ubuntu:  
-```sudo apt-get install git```  
-Windows:
-Use this link:  
-```https://git-scm.com/download/win```  
-Mac:
-```https://git-scm.com/download/mac```  
+
+- Ubuntu:  `sudo apt-get install git`
+- Windows: [Download](https://git-scm.com/download/win)
+- Mac: [Download](https://git-scm.com/download/mac)
 
 ## Contributing to this repository:
+
 1. Star this repository
 2. Fork this repository
-3. Open users.md and enter details in the following format  
+3. Open `_data/users.yml` and enter details in the following format  
+```
    Name: "Your name here"  
    Place: "Enter place here"  
    Bio: "Enter about yourself here"  
    Github: [Github username](github profile url)  
    Facebook (optional): [Your name](facebook profile link)  
+```
    * make sure to give 2 whitespaces after each line.  
-4. Commit changes with a meaningful commit message like "Added "Your Name to users.md".     
+4. Commit changes with a meaningful commit message like "Added "Your Name to users.yml". 
 5. Create a pull request.
 6. Sit back and relax while your pull request is reviewed and merged.
 
@@ -37,19 +40,23 @@ Mac:
 1. Star this repository
 2. Fork this repository
 3. Clone this repository by clicking on green clone or download button and then copying the link given there.  
-   Open your terminal(linux/mac) or git bash(windows) and write ```git clone https://github.com/Anupam-dagar/awesome-first-timers.git```  
+   Open your terminal(linux/mac) or git bash(windows) and write 
+
+   ```git clone https://github.com/Anupam-dagar/awesome-first-timers.git```  
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clone.png)  
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clonelink.png)
 4. Change your directory.
    ```cd awesome-first-timers```  
-3. Open users.md and enter details in the following format  
+3. Open `_data/users.yml` and enter details in the following format  
+```
    Name: "Your name here"  
    Place: "Enter place here"  
    Bio: "Enter about yourself here"  
    Github: [Github username](github profile url)  
    Facebook (optional): [Your name](facebook profile link)  
+```
    * make sure to give 2 whitespaces after each line.  
-4. Commit changes with a meaningful commit message like "Added "Your Name to users.md".  
+4. Commit changes with a meaningful commit message like "Added "Your Name to users.yml".  
    ``` git add -A```  
    ``` git commit -m "Commit message here"``` (include double quotes)
 5. Push to repository  
