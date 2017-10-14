@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+- Name: Lepadatu Tiberiu
+  Place: Romania
+  Bio: Student Developer
+  Github: [tibi77](https://github.com/tibi77)
