@@ -358,7 +358,7 @@
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
 
-- Name: Napat R.
-  Place: Bangkok, Thailand
-  Bio: Web Developer
-  GitHub: [peam1234](https://github.com/peam1234)
+- Name: Napat R.  
+  Place: Bangkok, Thailand  
+  Bio: Web Developer  
+  GitHub: [peam1234](https://github.com/peam1234)  
