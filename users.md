@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+- Name: Akashy Kapoor  
+  Place: Chandigarh, India  
+  Bio: I am a Full Stack web developer.  
+  GitHub: [Akshay Kapoor](https://github.com/tHe-AK)  
