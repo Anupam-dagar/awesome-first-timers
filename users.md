@@ -357,3 +357,9 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+- Name: Gabriele De Rosa  
+  Place: Milan, Italy  
+  Bio: Dev =)  
+  GitHub: [derogab](https://github.com/derogab)  
+  Facebook: [derogab](https://www.facebook.com/derogab)  
