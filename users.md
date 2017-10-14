@@ -357,3 +357,10 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+  - Name:  Arpit Batra  
+  Place: Dehradun, India  
+  Bio: I am an aspiring android developer.  
+  GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
+  Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123)  
+
