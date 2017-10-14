@@ -356,4 +356,9 @@
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
-  Facebook:  
+  Facebook:
+
+- Name: Mohit Sharma  
+  Place: Hyderabad, India  
+  Bio: Student Developer  
+  GitHub: [Mohit Sharma](https://github.com/sharmamohit123)
