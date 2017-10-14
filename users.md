@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+  -Name:Mohit Sharma
+  place:India:
+  Bio:The LNM Institute Of Informatiom Technology
+  GitHub: [Mohitsmr23] (https://github.com/Mohitsmr23)
