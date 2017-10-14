@@ -357,3 +357,9 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+  -Name: Anushrut
+   Place: India
+   Bio: Student at The LNMIIT
+   GitHub: [anushrut5](https://github.com/anushrut5)
+   
