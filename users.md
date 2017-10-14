@@ -352,6 +352,11 @@
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
 
+- Name: Anmol Mishra
+  Place: India
+  Bio: I am FOSS enthusiast and Developer
+  Github: [octamoid](https://github.com/octamois)
+
 - Name: Aimee  
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
