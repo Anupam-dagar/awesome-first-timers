@@ -357,3 +357,9 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+- Name: Kirill  
+  Place: Poznan, PL  
+  Bio: I am junior Front-End Developer, making my first steps in front end world.
+  GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
+  Facebook: 
