@@ -357,3 +357,7 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+- Name: Aniket
+  Place: Jaipur,India
+  Bio: student of The LNM institute of information technology
+  GitHub:aniket35668(https://github.com/aniket35668)
