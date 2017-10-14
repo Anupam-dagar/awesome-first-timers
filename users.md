@@ -358,7 +358,7 @@
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
   
-  - Name: Tanmay Mohan  
+ - Name: Tanmay Mohan  
   Place: New Delhi, India  
   Bio: Student | WebDev fan | Open Source newbie | Networking and sysadmin enthusiast  
   GitHub: [tanmaymohan](https://github.com/tanmaymohan)  
