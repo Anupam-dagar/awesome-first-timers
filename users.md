@@ -357,3 +357,9 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+- Name: Suleka Helmini  
+  Place: Colombo, Sri Lanka  
+  Bio: Software Engineering Undergraduate
+  GitHub: [suleka96](https://github.com/suleka96)  
+
