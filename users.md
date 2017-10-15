@@ -357,3 +357,10 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+- Name: Sarthak Thakur  
+  Place: Chandigarh, India  
+  Bio: I am a noob towards programming and this is my first commit  
+  GitHub: [Anupam Dagar](https://github.com/sarthakthakur24)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/sarthakthakur24)    
+
