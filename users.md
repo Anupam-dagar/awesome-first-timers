@@ -357,3 +357,11 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+- Name: Curchel Smoot  
+  Place: New Orleans, LA   
+  Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
+  GitHub: [Curchel](https://github.com/Curchel) 
+  
+  
+  
