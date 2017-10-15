@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+
+  Name: Brendan B  
+  Place: Washington, DC  
+  Bio: Javascript Enthusiast, Hiker, Board Gamer  
+  Github: [BtheGit](https://github.com/BtheGit/)  
