@@ -358,7 +358,7 @@
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
   
--Name: Kartik Rajesh  
- Place: Mumbai,India  
- Bio: Pursuing B.Tech in Computer science , love beatboxing and coding.  
- Github: [kartik70rajesh](https://github.com/kartik70rajesh)  
+- Name: Kartik Rajesh  
+  Place: Mumbai,India  
+  Bio: Pursuing B.Tech in Computer science , love beatboxing and coding.  
+  Github: [kartik70rajesh](https://github.com/kartik70rajesh)  
