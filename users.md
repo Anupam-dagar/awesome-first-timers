@@ -356,4 +356,9 @@
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
-  Facebook:  
+  Facebook:
+
+  Name: Izzul Chair a.k.a Tole  
+  Place: Palu, Indonesia  
+  Bio: IT Student And A Weaboo. Want To Be A Fronted Web Development.  
+  GitHub: [Weabss](https://github.com/Weabss)  
