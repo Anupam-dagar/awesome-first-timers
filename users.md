@@ -363,6 +363,12 @@
   Bio: Music Lover, Gamer, Web Applications Developer
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
+  
+- Name:  Arpit Batra  
+  Place: Dehradun, India  
+  Bio: I am an aspiring android developer.  
+  GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
+  Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123)  
 
 - Name: Kirill  
   Place: Poznan, PL  
