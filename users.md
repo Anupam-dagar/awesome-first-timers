@@ -416,4 +416,10 @@
 - Name: Udit  
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
-  GitHub: [udit-001](https://github.com/udit-001)
+  GitHub: [udit-001](https://github.com/udit-001)  
+  
+- Name: Sushant Gupta  
+  Place: India  
+  Bio: CS student  
+  Github: [susg](https://github.com/susg)  
+  
