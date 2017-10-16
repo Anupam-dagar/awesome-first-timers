@@ -357,3 +357,9 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+- Name: Thiago Tibau  
+  Place: Rio de Janeiro, BR    
+  Bio: Front-End developer from Brazil.  
+  GitHub: [ttibau](https://github.com/ttibau)  
+  Facebook
