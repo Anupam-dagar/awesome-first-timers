@@ -363,6 +363,11 @@
   Bio: Music Lover, Gamer, Web Applications Developer
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
+
+- Name: Md Anam Raihan  
+  Place: Hyderabad, India   
+  Bio: Currently doing research at IIIT Hyderabad  
+  GitHub: [iamar7](https://github.com/iamar7) 
   
 - Name: Curchel Smoot  
   Place: New Orleans, LA   
