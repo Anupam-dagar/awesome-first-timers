@@ -358,6 +358,11 @@
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
 
+- Name: Yugansh Tyagi 
+  Place: India  
+  Bio: Androdid Developer  
+  Github: [YuganshT79](https://github.com/YuganshT79) 
+
 - Name: Udit  
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
