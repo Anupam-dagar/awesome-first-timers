@@ -364,6 +364,11 @@
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
 
+- Name: Suleka Helmini  
+  Place: Colombo, Sri Lanka  
+  Bio: Software Engineering Undergraduate
+  GitHub: [suleka96](https://github.com/suleka96)  
+  
 - Name: Md Anam Raihan  
   Place: Hyderabad, India   
   Bio: Currently doing research at IIIT Hyderabad  
