@@ -357,3 +357,8 @@
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
   Facebook:  
+  
+  - Name: Samuel
+  Place: Bordeaux, France
+  Bio: Software development consultant 
+  GitHub: [sdussault](https://github.com/sdussault)  
