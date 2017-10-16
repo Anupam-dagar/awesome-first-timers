@@ -14,7 +14,7 @@
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
   GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
-  Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123)  
+  Facebook: [Arpit Batra](https://Facebook.com/arpitbatra123)  
 
 - Name: Ashish Gautam  
   Place: Delhi, India  
@@ -254,7 +254,7 @@
 - Name: Eric Christensen
   Place: United States
   Bio: Infosec Student and IT guy
-  GitHub [christensenea] (https://github.com/Christensenea)
+  GitHub [christensenea](https://github.com/Christensenea)
   Facebook:
 
 - Name: Alice Chuang
@@ -356,6 +356,12 @@
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
+  Facebook:
+
+- Name: Aurelia Womack
+  Place: Ravenna, Ohio, USA
+  Bio: Music Lover, Gamer, Web Applications Developer
+  GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
 
 - Name: Tony Rodríguez
@@ -363,3 +369,13 @@
   Bio: Web-Apps Development Student
   Github: [tony3fk](https://github.com/tony3fk)  
   Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
+  
+- Name: Yugansh Tyagi 
+  Place: India  
+  Bio: Androdid Developer  
+  Github: [YuganshT79](https://github.com/YuganshT79) 
+
+- Name: Udit  
+  Place: Delhi, India  
+  Bio: Programmer who loves watching Mr.Robot.  
+  GitHub: [udit-001](https://github.com/udit-001)
