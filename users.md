@@ -363,6 +363,12 @@
   Bio: Music Lover, Gamer, Web Applications Developer
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
+
+- Name: Kirill  
+  Place: Poznan, PL  
+  Bio: I am junior Front-End Developer, making my first steps in front end world.
+  GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
+  Facebook: 
   
 - Name: Tanmay Mohan  
   Place: New Delhi, India  
