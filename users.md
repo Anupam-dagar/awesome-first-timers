@@ -364,6 +364,12 @@
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
 
+- Name: Gabriele De Rosa  
+  Place: Milan, Italy  
+  Bio: Dev =)  
+  GitHub: [derogab](https://github.com/derogab)  
+  Facebook: [derogab](https://www.facebook.com/derogab)  
+
 - Name: Suleka Helmini  
   Place: Colombo, Sri Lanka  
   Bio: Software Engineering Undergraduate
