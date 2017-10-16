@@ -356,4 +356,9 @@
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
-  Facebook:  
+  Facebook: 
+
+  - Name: Nate Finger  
+  Place: Manchester, NH, USA 
+  Bio: Mathematician by degree programmer by trade, interests include web development and AI
+  GitHub: [nfinger](https://github.com/nfinger)  
