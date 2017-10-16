@@ -368,6 +368,16 @@
   Place: Colombo, Sri Lanka  
   Bio: Software Engineering Undergraduate
   GitHub: [suleka96](https://github.com/suleka96)  
+  
+- Name: Md Anam Raihan  
+  Place: Hyderabad, India   
+  Bio: Currently doing research at IIIT Hyderabad  
+  GitHub: [iamar7](https://github.com/iamar7) 
+  
+- Name: Curchel Smoot  
+  Place: New Orleans, LA   
+  Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
+  GitHub: [Curchel](https://github.com/Curchel) 
 
 - Name: Tony Rodríguez
   Place: Valencia, Spain
