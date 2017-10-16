@@ -363,6 +363,11 @@
   Bio: Music Lover, Gamer, Web Applications Developer
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
+  
+- Name: Curchel Smoot  
+  Place: New Orleans, LA   
+  Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
+  GitHub: [Curchel](https://github.com/Curchel) 
 
 - Name: Tony Rodríguez
   Place: Valencia, Spain
