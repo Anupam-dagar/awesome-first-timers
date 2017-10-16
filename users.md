@@ -266,7 +266,7 @@
 - Name: Shade Ruangwan  
   Place: Japan  
   Bio: PhD student in Software Engineering  
-  Github: [sruangwan](https://github.com/sruangwan) 
+  Github: [sruangwan](https://github.com/sruangwan)
 
 - Name: Brandon Brewer  
   Place: US  
@@ -286,22 +286,22 @@
 - Name: Aswin VB  
   Place: India  
   Bio: BTech Student In Information Technology
-  Github: [aswinzz](https://github.com/aswinzz) 
+  Github: [aswinzz](https://github.com/aswinzz)
 
-- Name:Shankhalika Sarkar 
+- Name:Shankhalika Sarkar
   Place: Karnataka, India
   Bio: CS Undergrad. I love a good cup of tea and some puzzles to go along with.
-  Github: [Shankhalika](https://github.com/Shankhalika) 
+  Github: [Shankhalika](https://github.com/Shankhalika)
 
 - Name:  Sarsiz
   Place: New Delhi, India  
   Bio: I am an aspiring programmar
-  GitHub: [Sarsiz](https://github.com/sarsiz) 
+  GitHub: [Sarsiz](https://github.com/sarsiz)
 
 - Name: Akshay Kumar
   Place: India
   Bio: Btech Student in Computer Science
-  Github: [AkshayCHD](https://github.com/AkshayCHD) 
+  Github: [AkshayCHD](https://github.com/AkshayCHD)
 
 - Name: Cole Simchick  
   Place: Lancaster, PA, USA  
@@ -316,12 +316,12 @@
   Place: USA  
   Bio: Professional Geek  
   Github: [patsteph](https://github.com/patsteph)  
-  
+
 - Name: Bipin Kumar  
   Place: India  
   Bio: Android Developer, Btech in IT
-  Github: [bipinkumar919](https://github.com/bipinkumar919) 
-  
+  Github: [bipinkumar919](https://github.com/bipinkumar919)
+
 - Name: Abhishek Tiwari
   Place: India
   Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.
@@ -332,10 +332,10 @@
   Bio: JS Developer @ Rentomojo  
   Github: [shreyas-a](https://github.com/shreyas-a)  
 
-- Name: Hardik Joshi 
-  Place: India 
+- Name: Hardik Joshi
+  Place: India
   Bio: Javascript Enthusiast and CSS Preacher
-  Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
+  Github: [hardikyjoshi](https://github.com/hardikyjoshi)
 
 - Name: Alexandra CT
   Place: Texas
@@ -345,12 +345,12 @@
 - Name: David Y.  
   Place: USA  
   Bio: Developer  
-  Github: [idavidy](https://github.com/idavidy) 
+  Github: [idavidy](https://github.com/idavidy)
 
 - Name: Mayank Saxena
   Place: India
   Bio: Student Developer
-  Github: [mayank26saxena](https://github.com/mayank26saxena) 
+  Github: [mayank26saxena](https://github.com/mayank26saxena)
 
 - Name: Aimee  
   Place: England, UK  
@@ -363,7 +363,7 @@
   Bio: Music Lover, Gamer, Web Applications Developer
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
-  
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
@@ -374,8 +374,8 @@
   Place: Poznan, PL  
   Bio: I am junior Front-End Developer, making my first steps in front end world.
   GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
-  Facebook: 
-  
+  Facebook:
+
 - Name: Tanmay Mohan  
   Place: New Delhi, India  
   Bio: Student | WebDev fan | Open Source newbie | Networking and sysadmin enthusiast  
@@ -391,29 +391,34 @@
   Place: Colombo, Sri Lanka  
   Bio: Software Engineering Undergraduate
   GitHub: [suleka96](https://github.com/suleka96)  
-  
+
 - Name: Md Anam Raihan  
   Place: Hyderabad, India   
   Bio: Currently doing research at IIIT Hyderabad  
-  GitHub: [iamar7](https://github.com/iamar7) 
-  
+  GitHub: [iamar7](https://github.com/iamar7)
+
 - Name: Curchel Smoot  
   Place: New Orleans, LA   
   Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
-  GitHub: [Curchel](https://github.com/Curchel) 
+  GitHub: [Curchel](https://github.com/Curchel)
 
 - Name: Tony Rodríguez
   Place: Valencia, Spain
   Bio: Web-Apps Development Student
   Github: [tony3fk](https://github.com/tony3fk)  
   Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
-  
-- Name: Yugansh Tyagi 
+
+- Name: Yugansh Tyagi
   Place: India  
   Bio: Androdid Developer  
-  Github: [YuganshT79](https://github.com/YuganshT79) 
+  Github: [YuganshT79](https://github.com/YuganshT79)
 
 - Name: Udit  
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Brian Nitletone
+  Place: Nairobi
+  Bio: Software developer
+  Github: [brianNitletone](https://github.com/brianmituka)
