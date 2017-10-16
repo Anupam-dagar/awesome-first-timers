@@ -417,3 +417,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Jose Almaraz  
+  Place: Mexico City, Mexico  
+  Bio: Computer Science Engineer. Android Developer.
+  GitHub: [LazarusPolar](https://github.com/lazaruspolar)
+
