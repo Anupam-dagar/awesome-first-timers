@@ -417,3 +417,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Bhavesh Gawri
+  Place: Hyderabad, India
+  Bio: Student, BITS Pilani
+  Github: [bhaveshgawri](https://github.com/bhaveshgawri)  
+  Facebook (optional): [Bhavesh Gawri](https://www.facebook.com/bhavesh.gawri.4)
