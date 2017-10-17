@@ -417,3 +417,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Arathi Nair 
+  Place: Delhi, India  
+  Bio: Coder with a touch of internet, music and friends  
+  GitHub: [arti97](https://github.com/arti97)
