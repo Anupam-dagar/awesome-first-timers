@@ -1,3 +1,9 @@
+- Name: Igor Souza  
+  Place: Dublin, Ireland  
+  Bio: I am like a code  
+  GitHub: [Igor Souza](https://github.com/igfasouza)    
+  Facebook: [Igor Souza](https://www.facebook.com/i)    
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
