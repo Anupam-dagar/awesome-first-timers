@@ -375,6 +375,11 @@
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
 
+- Name: Tobias M.
+  Place: Germany
+  Bio: 13 y/o
+  Github: [tobimori](https://github.com/tobimori) 
+
 - Name: Matteo Biagetti  
   Place: Rome, Italy  
   Bio: I am a Backend Developer actually focused on PHP/Symfony Stack. MOOC Addicted  
