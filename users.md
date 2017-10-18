@@ -386,6 +386,12 @@
   [StackOwerflow](https://stackoverflow.com/users/2270041/matteo?tab=profile) Enthusiast!
   GitHub: [mbiagetti](https://github.com/mbiagetti)  
   Facebook:  
+  
+- Name: Saumeya Katyal  
+  Place: Pune, Maharashtra, India  
+  Bio: I am a Computer Science student who loves to write code and learn new things about technology.  
+  GitHub: [saumeya](https://github.com/saumeya)  
+  Facebook:  
 
 - Name: Non Intanon
   Place: Bangkok, Thailand
