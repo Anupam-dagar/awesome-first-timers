@@ -266,7 +266,7 @@
 - Name: Shade Ruangwan  
   Place: Japan  
   Bio: PhD student in Software Engineering  
-  Github: [sruangwan](https://github.com/sruangwan) 
+  Github: [sruangwan](https://github.com/sruangwan)
 
 - Name: Brandon Brewer  
   Place: US  
@@ -286,22 +286,22 @@
 - Name: Aswin VB  
   Place: India  
   Bio: BTech Student In Information Technology
-  Github: [aswinzz](https://github.com/aswinzz) 
+  Github: [aswinzz](https://github.com/aswinzz)
 
-- Name:Shankhalika Sarkar 
+- Name:Shankhalika Sarkar
   Place: Karnataka, India
   Bio: CS Undergrad. I love a good cup of tea and some puzzles to go along with.
-  Github: [Shankhalika](https://github.com/Shankhalika) 
+  Github: [Shankhalika](https://github.com/Shankhalika)
 
 - Name:  Sarsiz
   Place: New Delhi, India  
   Bio: I am an aspiring programmar
-  GitHub: [Sarsiz](https://github.com/sarsiz) 
+  GitHub: [Sarsiz](https://github.com/sarsiz)
 
 - Name: Akshay Kumar
   Place: India
   Bio: Btech Student in Computer Science
-  Github: [AkshayCHD](https://github.com/AkshayCHD) 
+  Github: [AkshayCHD](https://github.com/AkshayCHD)
 
 - Name: Cole Simchick  
   Place: Lancaster, PA, USA  
@@ -316,12 +316,12 @@
   Place: USA  
   Bio: Professional Geek  
   Github: [patsteph](https://github.com/patsteph)  
-  
+
 - Name: Bipin Kumar  
   Place: India  
   Bio: Android Developer, Btech in IT
-  Github: [bipinkumar919](https://github.com/bipinkumar919) 
-  
+  Github: [bipinkumar919](https://github.com/bipinkumar919)
+
 - Name: Abhishek Tiwari
   Place: India
   Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.
@@ -332,10 +332,10 @@
   Bio: JS Developer @ Rentomojo  
   Github: [shreyas-a](https://github.com/shreyas-a)  
 
-- Name: Hardik Joshi 
-  Place: India 
+- Name: Hardik Joshi
+  Place: India
   Bio: Javascript Enthusiast and CSS Preacher
-  Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
+  Github: [hardikyjoshi](https://github.com/hardikyjoshi)
 
 - Name: Alexandra CT
   Place: Texas
@@ -345,12 +345,12 @@
 - Name: David Y.  
   Place: USA  
   Bio: Developer  
-  Github: [idavidy](https://github.com/idavidy) 
+  Github: [idavidy](https://github.com/idavidy)
 
 - Name: Mayank Saxena
   Place: India
   Bio: Student Developer
-  Github: [mayank26saxena](https://github.com/mayank26saxena) 
+  Github: [mayank26saxena](https://github.com/mayank26saxena)
 
 - Name: Anmol Mishra
   Place: India
@@ -386,6 +386,12 @@
   Bio: System administrator and in-house application developer. Full-stack windows developer for C#/WPF/ASP.NET/Powershell/SQL Server  
   GitHub: [wildcardjoker](https://github.com/wildcardjoker)  
   Facebook:  
+
+- Name: Gurkirat Singh  
+  Place: Chandigarh, India  
+  Bio:  I am self taught lazy program, likes to automate my problems. Coding is <3
+  GitHub: [darkxangel84](https://github.com/tbhaxor)  
+  Facebook:  [gurkirat](https://facebook.com/gurkirat.py)
 
 - Name: Dillon  
   Place: Sri Lanka
