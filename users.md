@@ -375,6 +375,12 @@
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
 
+- Name: Wildcardjoker  
+  Place: Western Australia  
+  Bio: System administrator and in-house application developer. Full-stack windows developer for C#/WPF/ASP.NET/Powershell/SQL Server  
+  GitHub: [wildcardjoker](https://github.com/wildcardjoker)  
+  Facebook:  
+
 - Name: Dillon  
   Place: Sri Lanka
   Bio: Student Developer/Graphic Designer
