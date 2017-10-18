@@ -417,3 +417,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  Name: Prahar Ijner
+  Place: India
+  Bio: Love working with embedded systems
+  GitHub: [Prahar Ijner](https://github.com/praharijner)
+  Facebook:
