@@ -374,6 +374,12 @@
   Bio: Music Lover, Gamer, Web Applications Developer
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
+  
+- Name:  Amir Djema  
+  Place: Nicosia, Cyprus  
+  Bio: Father of two, husband, and geek  by default.  
+  GitHub: [Amir Djema](https://github.com/nemfoz)  
+  Facebook:
 
 - Name: Wildcardjoker  
   Place: Western Australia  
