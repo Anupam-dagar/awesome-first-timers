@@ -363,6 +363,11 @@
   Bio: Music Lover, Gamer, Web Applications Developer
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
+  
+- Name: Arpit Gogia  
+  Place: Delhi, India  
+  Bio: Engineering student, Python Developer  
+  GitHub: [arpitgogia](https://github.com/arpitgogia)
 
 - Name: Subham Tandon
   Place: India
