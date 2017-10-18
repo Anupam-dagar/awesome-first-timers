@@ -377,7 +377,8 @@
 
 - Name: Matteo Biagetti  
   Place: Rome, Italy  
-  Bio: I am a Backend Developer actually focused on PHP/Symfony Stack. MOOC Addicted [StackOwerflow](https://stackoverflow.com/users/2270041/matteo?tab=profile) Enthusiast!
+  Bio: I am a Backend Developer actually focused on PHP/Symfony Stack. MOOC Addicted  
+  [StackOwerflow](https://stackoverflow.com/users/2270041/matteo?tab=profile) Enthusiast!
   GitHub: [mbiagetti](https://github.com/mbiagetti)  
   Facebook:  
   
@@ -392,6 +393,12 @@
   Bio: System administrator and in-house application developer. Full-stack windows developer for C#/WPF/ASP.NET/Powershell/SQL Server  
   GitHub: [wildcardjoker](https://github.com/wildcardjoker)  
   Facebook:  
+
+- Name: Rohan Banerjee  
+  Place: Chennai, India  
+  Bio: I love to code. Student. B.Tech(CSE), II year.  
+  GitHub: [Rohan Banerjee](https://github.com/rohanbanerjee)  
+  Facebook: [Rohan Banerjee](https://www.facebook.com/rohanbanerjee01)  
 
 - Name: Gurkirat Singh  
   Place: Chandigarh, India  
