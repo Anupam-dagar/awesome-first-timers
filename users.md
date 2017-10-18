@@ -417,3 +417,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Jhonatan Casale  
+  Place: São Paulo, Brazil  
+  Bio: I'm a DevOps enthusiast and a System mover.  
+  GitHub: [jhonatancasale](https://github.com/jhonatancasale)  
