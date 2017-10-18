@@ -14,7 +14,7 @@
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
   GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
-  Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123)  
+  Facebook: [Arpit Batra](https://Facebook.com/arpitbatra123)  
 
 - Name: Ashish Gautam  
   Place: Delhi, India  
@@ -254,7 +254,7 @@
 - Name: Eric Christensen
   Place: United States
   Bio: Infosec Student and IT guy
-  GitHub [christensenea] (https://github.com/Christensenea)
+  GitHub [christensenea](https://github.com/Christensenea)
   Facebook:
 
 - Name: Alice Chuang
@@ -356,9 +356,75 @@
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
+  Facebook:
+
+- Name: Aurelia Womack
+  Place: Ravenna, Ohio, USA
+  Bio: Music Lover, Gamer, Web Applications Developer
+  GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
   
- - Name: Arpit Gogia  
+- Name: Arpit Gogia  
   Place: Delhi, India  
   Bio: Engineering student, Python Developer  
   GitHub: [arpitgogia](https://github.com/arpitgogia)
+
+- Name: Subham Tandon
+  Place: India
+  Bio: Student, Web developer
+  Github: [subhamtandon](https://github.com/subhamtandon)
+  Facebook: [Subham Tandon](https://www.facebook.com/profile.php?id=100008867413038)
+  
+- Name:  Arpit Batra  
+  Place: Dehradun, India  
+  Bio: I am an aspiring android developer.  
+  GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
+  Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123)  
+
+- Name: Kirill  
+  Place: Poznan, PL  
+  Bio: I am junior Front-End Developer, making my first steps in front end world.
+  GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
+  Facebook: 
+  
+- Name: Tanmay Mohan  
+  Place: New Delhi, India  
+  Bio: Student | WebDev fan | Open Source newbie | Networking and sysadmin enthusiast  
+  GitHub: [tanmaymohan](https://github.com/tanmaymohan)  
+
+- Name: Gabriele De Rosa  
+  Place: Milan, Italy  
+  Bio: Dev =)  
+  GitHub: [derogab](https://github.com/derogab)  
+  Facebook: [derogab](https://www.facebook.com/derogab)  
+
+- Name: Suleka Helmini  
+  Place: Colombo, Sri Lanka  
+  Bio: Software Engineering Undergraduate
+  GitHub: [suleka96](https://github.com/suleka96)  
+  
+- Name: Md Anam Raihan  
+  Place: Hyderabad, India   
+  Bio: Currently doing research at IIIT Hyderabad  
+  GitHub: [iamar7](https://github.com/iamar7) 
+  
+- Name: Curchel Smoot  
+  Place: New Orleans, LA   
+  Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
+  GitHub: [Curchel](https://github.com/Curchel) 
+
+- Name: Tony Rodríguez
+  Place: Valencia, Spain
+  Bio: Web-Apps Development Student
+  Github: [tony3fk](https://github.com/tony3fk)  
+  Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
+  
+- Name: Yugansh Tyagi 
+  Place: India  
+  Bio: Androdid Developer  
+  Github: [YuganshT79](https://github.com/YuganshT79) 
+
+- Name: Udit  
+  Place: Delhi, India  
+  Bio: Programmer who loves watching Mr.Robot.  
+  GitHub: [udit-001](https://github.com/udit-001)
