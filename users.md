@@ -497,8 +497,8 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
 
-- Name: Bhawesh Bhansali
-  Place: Manipal, India
-  Bio: Android, Web Developer. Student by day, developer by night!
-  Github:(https://github.com/bhawesh96) 
+- Name: Bhawesh Bhansali  
+  Place: Manipal, India  
+  Bio: Android, Web Developer. Student by day, developer by night!  
+  Github:(https://github.com/bhawesh96)  
 
