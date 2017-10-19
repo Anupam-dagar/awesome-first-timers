@@ -496,3 +496,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Doug  
+  Place: Portland, OR  
+  Bio: Programmer who's always trying to learn more!  
+  GitHub: [Doug-luce](https://github.com/doug-luce)
