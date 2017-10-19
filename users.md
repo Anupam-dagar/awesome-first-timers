@@ -496,3 +496,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+ - Name: Matteo Mensi
+   Place: Milan, Italy
+   Bio: Chemical engineer developing high-performance computational methods for process design.
+   Github: [Snatched](https://github.com/Snatched)
+
+
