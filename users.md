@@ -496,3 +496,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name:  Jeevan Chapagain  
+  Place: Kathmandu, Nepal 
+  Bio:  I am a tech enthusiast and love to play around with code.I love drinking beers with my friends.  
+  GitHub: [Jeevan Chapagain](https://github.com/jeevanc)  
+  Facebook:[Jeeevan Chapagain](https://www.facebook.com/jeevanc)
