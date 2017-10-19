@@ -10,6 +10,12 @@
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
 
+- Name: Sameer Khan
+  Place: New Delhi, India
+  Bio: Grad Computer Science student at University of Massachusetts
+  Github: [Sameer Khan](https://www.github.com/sameerkhan116)
+  Facebook: 
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
