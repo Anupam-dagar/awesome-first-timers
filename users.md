@@ -496,3 +496,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Siddharth Dushantha
+  Place: Stavanger, Norway
+  Bio: Currently in 9th grade. Love programming in Python and I want to learn security.
+  GitHub: [Siddharth Dushantha](https://github.com/sdushantha)
