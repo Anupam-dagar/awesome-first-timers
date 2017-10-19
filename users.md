@@ -496,3 +496,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Elle
+  Place: Santa Cruz, CA, USA
+  Bio: Currently a 4th year computer science major at UCSC
+  GitHub: [uareelle](https://github.com/uAreElle)
