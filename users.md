@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Melissa
+  Place: Oakland, California
+  Bio: Becoming a better coder and learning to contribute to open source
+  GitHub: [melissa3000](https://github.com/melissa3000)
