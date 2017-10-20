@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Bogdan Manole 
+  Place: Brasov, Romania  
+  Bio: Wannabe codemonkey  
+  Github: [BogdanManole](https://github.com/BogdanManole) 
