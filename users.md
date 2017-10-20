@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-  - Name: Dulantha Teshan  
+- Name: Dulantha Teshan  
   Place: Embilipitiya, Sri lanka  
   Bio: Undergraduate @ CINEC Aviation.  
   GitHub: [DTeshan](https://github.com/DTeshan)    
