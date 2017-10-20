@@ -496,4 +496,8 @@
 - Name: Udit  
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
-  GitHub: [udit-001](https://github.com/udit-001)
+
+-Name: Patrick
+  Place: Waterloo, United States of America
+  Bio: CS Student by day, Masked Avenger by night
+  Github [dunkhelExploit](https://github.com/dunkhelExploit)
