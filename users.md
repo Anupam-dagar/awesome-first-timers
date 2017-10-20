@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
 
-- Name: Akani
-  Place: Jakarta, Indonesia
-  Bio: Student
-  Github: [Akani](https://github.com/akanijade)
+- Name: Akani  
+  Place: Jakarta, Indonesia  
+  Bio: Student  
+  Github: [Akani](https://github.com/akanijade)  
