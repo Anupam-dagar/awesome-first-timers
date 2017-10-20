@@ -497,3 +497,11 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Narendra Pal  
+  Place: Banda, Uttar Pradesh, India   
+  Bio: Currently studying information technology at MNNIT ALLAHABAD  
+  GitHub: [npcoder2k14](https://github.com/npcoder2k14)
+  Facebook: [Narendra Pal](https://www.facebook.com/narendrapal23) 
+
+
