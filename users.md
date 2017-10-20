@@ -116,7 +116,7 @@
   Bio: Student, CEBEM.  
   GitHub: [Charlye](https://github.com/costassolla)  
   Facebook:
-  
+
 - Name: Bervianto Leo Pratama  
   Place: Bandung, Indonesia  
   Bio: Student, Institut Teknologi Bandung  
@@ -392,7 +392,7 @@
   [StackOwerflow](https://stackoverflow.com/users/2270041/matteo?tab=profile) Enthusiast!
   GitHub: [mbiagetti](https://github.com/mbiagetti)  
   Facebook:  
-  
+
 - Name: Saumeya Katyal  
   Place: Pune, Maharashtra, India  
   Bio: I am a Computer Science student who loves to write code and learn new things about technology.  
@@ -403,7 +403,7 @@
   Place: Bangkok, Thailand
   Bio: Fullstack web developer from land of smile :)
   GitHub: [nonintanon](https://github.com/nonintanon)
-  
+
 - Name:  Amir Djema  
   Place: Nicosia, Cyprus  
   Bio: Father of two, husband, and geek  by default.  
@@ -432,7 +432,7 @@
   Place: Sri Lanka
   Bio: Student Developer/Graphic Designer
   GitHub: [DillonLakshman](https://github.com/DillonLakshman)
-  
+
 - Name: Arpit Gogia  
   Place: Delhi, India  
   Bio: Engineering student, Python Developer  
@@ -443,7 +443,7 @@
   Bio: Student, Web developer
   Github: [subhamtandon](https://github.com/subhamtandon)
   Facebook: [Subham Tandon](https://www.facebook.com/profile.php?id=100008867413038)
-  
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
@@ -455,7 +455,7 @@
   Bio: I am junior Front-End Developer, making my first steps in front end world.
   GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
   Facebook: 
-  
+
 - Name: Tanmay Mohan  
   Place: New Delhi, India  
   Bio: Student | WebDev fan | Open Source newbie | Networking and sysadmin enthusiast  
@@ -471,12 +471,12 @@
   Place: Colombo, Sri Lanka  
   Bio: Software Engineering Undergraduate
   GitHub: [suleka96](https://github.com/suleka96)  
-  
+
 - Name: Md Anam Raihan  
   Place: Hyderabad, India   
   Bio: Currently doing research at IIIT Hyderabad  
   GitHub: [iamar7](https://github.com/iamar7) 
-  
+
 - Name: Curchel Smoot  
   Place: New Orleans, LA   
   Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
@@ -487,7 +487,7 @@
   Bio: Web-Apps Development Student
   Github: [tony3fk](https://github.com/tony3fk)  
   Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
-  
+
 - Name: Yugansh Tyagi 
   Place: India  
   Bio: Androdid Developer  
@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Ariel Blasi 
+  Place: Santa Fe, Argentina
+  Bio:  Web app developer, with focus on light & fast
+  Github: [LiteSoul](https://litesoul.github.io) 
