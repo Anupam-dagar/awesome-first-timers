@@ -496,3 +496,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Sarthi Chugh  
+  Place: Delhi, India  
+  Bio: Programming hobbyist, machine learning enthusiast, currently pursuing ME Embedded Systems from BITS, Pilani  
+  Github: [sarthi92] (https://github.com/sarthi92)  
+  
