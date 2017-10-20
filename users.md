@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Rohit Patil  
+  Place: Pune, India  
+  Bio: Deep Learning and Self-Driving Car Enthusiast.
+  GitHub: [Rohit Patil](https://github.com/rohts-patil)
