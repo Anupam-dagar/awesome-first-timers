@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+
+- Name: Felix Mercer  
+  Place: Ahmedabad, India  
+  Bio: Paranoid Linux User
+  GitHub: [Felix Mercer](https://github.com/felixmercer)   
+  
