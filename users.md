@@ -96,7 +96,7 @@
 - Name: Marcus Lancaster  
   Place: Edinburgh, Scotland  
   Bio: Have you heard of our lord and saviour: Vim?  
-  GitHub [Marcus L](https://github.com/questionmarcus)  
+  GitHub: [Marcus L](https://github.com/questionmarcus)  
   Facebook: -  
 
 - Name: Sibylle Sehl  
@@ -254,7 +254,7 @@
 - Name: Eric Christensen
   Place: United States
   Bio: Infosec Student and IT guy
-  GitHub [christensenea](https://github.com/Christensenea)
+  GitHub: [christensenea](https://github.com/Christensenea)
   Facebook:
 
 - Name: Alice Chuang
@@ -308,10 +308,11 @@
   Bio: Computer Software Engineering Student
   Github: [colelabar](https://github.com/colelabar)   
 
-- Name: Priyansh Agrawal  
-  Place: Hyderabad , India  
-  Bio: I am an enthusiast for web development and nlp  
-  GitHub: [priyansh2](https://github.com/Priyansh2)  
+- Name: Priyansh Agrawal  		
+  Place: Hyderabad , India  		
+  Bio: I am an enthusiast for web development and nlp  		
+  GitHub: [priyansh2](https://github.com/Priyansh2) 
+ 
 - Name: Patrick Stephens  
   Place: USA  
   Bio: Professional Geek  
@@ -351,7 +352,7 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
-  
+
 - Name: Rajat Goyal
   Place: India
   Bio: Software Developer
