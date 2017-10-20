@@ -1,3 +1,9 @@
+- Name: Kenny Lam  
+  Place: San Diego, USA  
+  Bio: I like reading, biking, hiking, playing basketball  
+  GitHub: [Kenny Lam](https://github.com/kennyhk418)  
+  Facebook:  
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
