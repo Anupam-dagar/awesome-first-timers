@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Justin Rice
+  Place: Boston, MA
+  Bio: Film maker turned programmer. Loves bourbon, travel and the world of computers.
+  Github:[jsrice7391](https://github.com/jsrice7391)
