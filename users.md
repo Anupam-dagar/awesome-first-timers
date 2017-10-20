@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Felipe  
+  Place: Cali, United States   
+  Bio: Coding is for everyone.  
+  GitHub: [Thespawnexe](https://github.com/Thespawnexe)
