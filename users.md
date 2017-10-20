@@ -496,3 +496,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Praneeth  
+  Place: Mumbai, India  
+  Bio: Programmer 
+  GitHub: [saip009](https://github.com/saip009)
