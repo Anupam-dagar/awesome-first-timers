@@ -1,0 +1,16 @@
+{
+  "name": "update_profile_with_user_data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "N/A",
+  "main": "updateProfileWithUserData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Larry Battle <github.com/LarryBattle>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yamljs": "^0.3.0"
+  }
+}

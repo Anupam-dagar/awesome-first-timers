@@ -23,7 +23,7 @@ You can start by contributing to this awesome list, follow these simple steps to
 
 1. Star this repository
 2. Fork this repository
-3. Open `_data/users.yml` and enter details in the following format  
+3. Open `users.md` and enter details in the following format  
 ```
    Name: "Your name here"  
    Place: "Enter place here"  
@@ -47,7 +47,7 @@ You can start by contributing to this awesome list, follow these simple steps to
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clonelink.png)
 4. Change your directory.
    ```cd awesome-first-timers```  
-3. Open `_data/users.yml` and enter details in the following format  
+3. Open `users.md` and enter details in the following format  
 ```
    Name: "Your name here"  
    Place: "Enter place here"  
