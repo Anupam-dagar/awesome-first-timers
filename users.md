@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Aayush
+  Place: Chandigarh, India
+  Bio: Standard Issue Nerd
+  Github: [mooonshot](https://github.com/mooonshot)
+
