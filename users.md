@@ -1,3 +1,9 @@
+- Name:  Andrew Battisson  
+  Place: Lichfield, United Kingdom  
+  Bio:  Too busy with projects to actually contribute, but the shirt looks too good.
+  GitHub: [Andrew Battisson](https://github.com/abattisson)  
+  Facebook:
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
