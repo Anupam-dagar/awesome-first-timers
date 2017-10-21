@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Mhar Vic Chicano  
+  Place: Manila, Philippines  
+  Bio: IoT Developer
+  GitHub: [shuvikash](https://github.com/mharrvic)    
+  Facebook:
