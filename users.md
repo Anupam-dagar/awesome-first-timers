@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Felix He  
+  Place: Berlin, Germany  
+  Bio: High school student   
+  GitHub: [felhe](https://github.com/felhe)
