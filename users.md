@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Pranav Singh
+  Place: Varanasi, India  
+  Bio: Passionate coder  
+  GitHub: [pranav0408](https://github.com/pranav0408)
