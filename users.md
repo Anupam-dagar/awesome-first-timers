@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name:  GaganDeep Singh
+    Place: New Delhi, India
+    Bio: I am an aspiring android developer.
+    GitHub: [GaganDeep Singh](https://github.com/SGagan)
