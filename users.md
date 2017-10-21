@@ -175,6 +175,12 @@
   GitHub: [kevinmora94](https://github.com/kevinmora94)   
   Facebook:  
 
+- Name: Jibin Mathews  
+  Place: Bengaluru, India  
+  Bio: Node Ninja with Go and Android 
+  GitHub: [Jibin Mathews](https://github.com/jazzyarchitects)    
+  Facebook: [Jibin Mathews](https://www.facebook.com/jibin.mathews7)    
+
 - Name: Siddharth Mahapatra
   Place: Bhubaneswar, India  
   Bio: Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor
