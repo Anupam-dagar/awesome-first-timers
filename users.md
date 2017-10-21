@@ -498,7 +498,8 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-- Name: Michael A.
-  Place: Ohio
-  Bio: Software Developer out of college for one year
+- Name: Michael A.  
+  Place: Ohio  
+  Bio: Software Developer out of college for one year looking for ways to improve my software skills  
   GitHub: [Reeder24](https://github.com/Reeder24)
+  
