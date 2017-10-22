@@ -386,6 +386,11 @@
   Bio: 13 y/o
   Github: [tobimori](https://github.com/tobimori) 
 
+- Name: Tushar A.
+  Place: India
+  Bio: 20 y/o
+  Github: [tushargg](https://github.com/tushargg) 
+
 - Name: Matteo Biagetti  
   Place: Rome, Italy  
   Bio: I am a Backend Developer actually focused on PHP/Symfony Stack. MOOC Addicted  
