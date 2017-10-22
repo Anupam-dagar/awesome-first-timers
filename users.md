@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Karthik Rajendran
+  Place: San Diego
+  Bio: I am an enthusiastic full stack developer, with a keen interest in the areas of information security, enterprise
+IT solutions and automation.
+  Github: [karthik1811](https://github.com/karthik1811)
