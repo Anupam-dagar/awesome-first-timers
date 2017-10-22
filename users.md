@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Meghna Ayyar  
+  Place: Gandhinagar, India  
+  Bio: Python coding, Interested in Research work   
+  GitHub: [leomi7](https://github.com/leomi7)
+  
