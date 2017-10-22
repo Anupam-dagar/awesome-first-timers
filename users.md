@@ -493,7 +493,12 @@
   Bio: Androdid Developer  
   Github: [YuganshT79](https://github.com/YuganshT79) 
 
-- Name: Udit  
+- Name: Udit 
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Dario Gabriel
+    Place: Fortaleza, Brasil
+    Bio: Student
+    GitHub: [Dario Gabriel](https://github.com/dariogabriel113)
