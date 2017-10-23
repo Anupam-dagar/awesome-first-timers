@@ -4,6 +4,12 @@
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
   Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
 
+- Name: Kunwar Ashutos Singh  
+  Place: Ghaziabad, India  
+  Bio: I love writing scalable and reusable code  
+  GitHub: [Anupam Dagar](https://github.com/kunwar97)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/kunwar997)
+
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
   Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
