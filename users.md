@@ -453,8 +453,7 @@
 - Name: Kirill  
   Place: Poznan, PL  
   Bio: I am junior Front-End Developer, making my first steps in front end world.
-  GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
-  Facebook: 
+  GitHub: [KRdoubleL](https://github.com/KRdoubleL)    Facebook: 
   
 - Name: Tanmay Mohan  
   Place: New Delhi, India  
@@ -497,3 +496,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Nora M.
+  Place: Ohio  
+  Bio: OSU student, enjoys cooking, hiking, & coding.  
+  GitHub: [noramyer](https://github.com/noramyer)
+  
