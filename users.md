@@ -4,6 +4,12 @@
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
   Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
 
+- Name: Atri Tripathi    
+  Place: Bangalore, India    
+  Bio: I Code Stuff!      
+  GitHub: [Atri Tripathi](https://github.com/AtriTripathi)      
+  Facebook: [Atri Tripathi](https://www.facebook.com/atritripathi)    
+  
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
   Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
