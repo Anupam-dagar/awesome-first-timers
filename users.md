@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Yoan Rousseau
+  Place: Rennes, France
+  Bio: IT automation rulez!
+  Github: [y0an](https://github.com/y0an)  
