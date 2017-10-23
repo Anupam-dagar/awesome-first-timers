@@ -497,3 +497,15 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Udit  
+  Place: Delhi, India  
+  Bio: Programmer who loves watching Mr.Robot.  
+  GitHub: [udit-001](https://github.com/udit-001)
+
+-   Name: David Reyes Pucheta  
+    Place: Xalapa, Veracruz. Mexico  
+    Bio: Web Apps Coder  
+    GitHub: [davidpucheta] (https://github.com/davidpucheta)  
+
+
