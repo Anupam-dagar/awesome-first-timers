@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Regina 
+  Place: SG, Rio de Janeiro  
+  Bio: Mother and watching movie 
+  GitHub: [reginatrindade](https://github.com/reginatrindade)
