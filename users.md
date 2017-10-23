@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Darsh Naik  
+  Place: Gujarat,India  
+  Bio: I am like a code under development  
+  GitHub: [Darsh Naik](https://github.com/DarshNaik)
