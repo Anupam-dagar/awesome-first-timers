@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Harshit Singh  
+  Place: Guwahati, India  
+  Bio: Aspiring Competitive Programmmer :-) 
+  GitHub: [Harshit Singh](https://github.com/harshit1504)    
+  Facebook: [Harshit Singh](https://www.facebook.com/15harshit) 
