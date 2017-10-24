@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-- Name: Prakash Chakraborty
-  Place: Mysore, India
-  Bio: .NET Developer, Microsoft fanatic!
-  Github: [Joonsang1994](https://github.com/Joonsang1994)
+- Name: Prakash Chakraborty  
+  Place: Mysore, India  
+  Bio: .NET Developer, Microsoft fanatic!  
+  Github: [Joonsang1994](https://github.com/Joonsang1994)  
