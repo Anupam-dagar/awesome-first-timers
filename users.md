@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-   Name: Mayank
+ - Name: Mayank
    Place: Delhi , India 
    Bio:Active participant in competitive programming
    Github: [myk7hackon](https://github.com/myk7hackon)  
