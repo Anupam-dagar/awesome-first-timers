@@ -500,5 +500,5 @@
   
 - Name: ashish raj
   Place: guwahati , India  
-  Bio: ;ike to code and sleep.  
+  Bio: like to code and sleep.  
   GitHub: ashish365(https://github.com/ashish365)
