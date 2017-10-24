@@ -1,3 +1,9 @@
+- Name: Julie Rodriguez
+  Place: Virginia, USA
+  Bio: Emerging web dev, photography, and family adventures.
+  GitHub: [Julie Rodriguez](https://github.com/jrod36)
+  Facebook:
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
