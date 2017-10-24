@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Abhishek Bhardwaj  
+  Place: Sonipat, Haryana, India  
+  Bio: Computer Science and Engineering student at IITG  
+  GitHub: [abhardwaj1998](https://github.com/abhardwaj1998)  
