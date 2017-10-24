@@ -500,5 +500,5 @@
 
 - Name: Adam Wilkie  
   Place: Chattanooga, TN
-  Bio: iOS Developer
+  Bio: iOS Developer, Stranger things
   GitHub: [eikliw](https://github.com/eikliw)
