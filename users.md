@@ -501,5 +501,4 @@
 - Name:  Kevin Borah  
   Place:  Woodstock, GA, USA  
   Bio:  I'm a front end web development student.  
-  GitHub:  [Kevin Borah](https://github.com/KevinBorah)  
-  Facebook:
+  GitHub:  [Kevin Borah](https://github.com/KevinBorah)
