@@ -9,6 +9,12 @@
   Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
+  
+- Name: Amine Smahi
+  Place: Oran,Algeria
+  Bio:  I am an FullStack .NET developer, and i like ma9la.  
+  GitHub: [Amine Smahi](https://github.com/Amine-Smahi)  
+  Facebook: [Amine Smahi](https://facebook.com/amine.developer)
 
 - Name:  Arpit Batra  
   Place: Dehradun, India  
