@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Aditya  
+  Place: Noida, India  
+  Bio: New programmer on ruby and ruby on rails  
+  GitHub: [adityabangari](https://github.com/adityabangari)
+  
+  
