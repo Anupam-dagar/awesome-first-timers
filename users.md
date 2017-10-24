@@ -457,6 +457,7 @@
   GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
   Facebook: 
   
+
 - Name: Tanmay Mohan  
   Place: New Delhi, India  
   Bio: Student | WebDev fan | Open Source newbie | Networking and sysadmin enthusiast  
@@ -500,9 +501,9 @@
   GitHub: [udit-001](https://github.com/udit-001)
 
 
-   Name: Lilah 
-   Place: Louisiana, USA
-   Bio: Computer science student 
+   Name: Lilah  
+   Place: Louisiana, USA  
+   Bio: Computer science student  
    Github: [lilaht](https://github.com/lilaht)  
    
    
