@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+   
+- Name: Saheel Wagh 
+  Place: Goa, India  
+  Bio: Javascript and Python fanboy. Passionate about Machine Learning   
+  GitHub: [waghspur10](https://github.com/waghspur10)
