@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Arthur van Acker  
+  Place: São Félix da Marinha, Portugal  
+  Bio: eternal learner and code enthusiast  
+  GitHub: [Arturio1970](https://github.com/Arturio1970)  
