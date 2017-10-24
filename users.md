@@ -498,8 +498,8 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-Name: Ashish 
-Place: guwahati, India
-Bio: I am 2nd year B.tech student. I like to code and sleep . I also like pizza.
-Github: ashish365 (https://github.com/ashish365)
-Facebook: ashish raj
+- Name: Ashish 
+  Place: guwahati, India
+  Bio: I am 2nd year B.tech student. I like to code and sleep . I also like pizza.
+  Github: ashish365 (https://github.com/ashish365)
+  Facebook: ashish raj (https://www.facebook.com/ashish.raj.90410)
