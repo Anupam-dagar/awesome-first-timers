@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -496,4 +496,9 @@
 - Name: Udit  
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
-  GitHub: [udit-001](https://github.com/udit-001)
+  GitHub: [udit-001](https://github.com/udit-001) 
+
+- Name: Purbo  
+  Place: Budapest, Hungary  
+  Bio: Programmer who loves to dance in the rain.  
+  GitHub: [pubohadi](https://github.com/purbohadi)
