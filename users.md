@@ -497,3 +497,11 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+
+
+- Name: Mohammad Zatin Meraz  
+  Place: India  
+  Bio: Learning Git Commands, web Developer, student  
+  GitHub: [ZatinMe](https://github.com/ZatinMe)  
+  Facebook: [Zatin Meraz](https://www.facebook.com/meraz.zatin)
