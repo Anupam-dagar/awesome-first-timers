@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Thomas Murphy  
+  Place: United States  
+  Bio: Currently studying programming  
+  GitHub: [tmurph21](https://github.com/tmurph21)
