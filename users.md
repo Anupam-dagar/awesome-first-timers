@@ -311,7 +311,7 @@
 - Name: Priya Gaire  
   Place:  Nepal  
   Bio: Passionate on Technology  
-  Github: [priagaire](https://github.com/priyagaire)  
+  Github: [priyagaire](https://github.com/priyagaire)  
  
 
 - Name: Priyansh Agrawal  		
