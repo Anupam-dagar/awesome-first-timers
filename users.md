@@ -416,6 +416,12 @@
   GitHub: [wildcardjoker](https://github.com/wildcardjoker)  
   Facebook:  
 
+- Name: Scope Carlyle  
+  Place: Croatia  
+  Bio: Nurse and a newbie at programming.  
+  GitHub: [scope2018](https://github.com/scope2018)  
+  Facebook:  
+
 - Name: Rohan Banerjee  
   Place: Chennai, India  
   Bio: I love to code. Student. B.Tech(CSE), II year.  
