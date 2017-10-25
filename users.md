@@ -2,7 +2,12 @@
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
-  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)
+
+- Name: Sid  
+  Place: USA  
+  Bio: Aspiring software developer  
+  GitHub: [sidward35](https://github.com/sidward35)  
 
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
