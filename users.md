@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  
+- Name: Bryson Reece 
+  Place: Norman, Oklahoma, USA  
+  Bio: Maker, student, human; occasionally all at once.  
+  GitHub: [brysonreece](https://github.com/brysonreece)  
+  
