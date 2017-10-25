@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Jigar Chavada  
+  Place: Allahabad, Uttar Pradesh, India  
+  Bio: Student At Indian Institute Of Information Technology, Allahabad  
+  GitHub: [Jigar3](https://github.com/Jigar3)
