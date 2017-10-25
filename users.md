@@ -1,4 +1,4 @@
-﻿- Name: Anupam Dagar  
+- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -497,8 +497,3 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
-
-- Name: Tyler Phillips
-  Place: United Kingdom 
-  Bio: Student with an interest in mathematics.  
-  Github: [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
