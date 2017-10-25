@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Syamkumar  
+  Place: India
+  Bio: Data Scientist, TechnoPark Kerala
+  GitHub: [syam3526](https://github.com/syam3526)  
+  Facebook: [syamkumar](https://www.facebook.com/syamkumar3526)
