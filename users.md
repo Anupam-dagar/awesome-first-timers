@@ -466,7 +466,12 @@
   Bio: Dev =)  
   GitHub: [derogab](https://github.com/derogab)  
   Facebook: [derogab](https://www.facebook.com/derogab)  
-
+  
+  Name: Austin Boldt 
+   Place: Cincinnati, Ohio
+   Bio: Computer Engineer Undergraduate student 
+   Github: [baldt](https://github.com/baldt)  
+  
 - Name: Suleka Helmini  
   Place: Colombo, Sri Lanka  
   Bio: Software Engineering Undergraduate
