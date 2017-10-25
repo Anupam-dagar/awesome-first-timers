@@ -1,3 +1,8 @@
+- Name: D3D0X  
+  Place: Netherlands  
+  Bio: I am a ethical hacker  
+  GitHub: [D3D0X](https://github.com/D3D0X)    
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
