@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Otacilio Neto  
+  Place: Recife, Brasil  
+  Bio: A guy that loves robots  
+  GitHub: [OtacilioN](https://github.com/OtacilioN)
