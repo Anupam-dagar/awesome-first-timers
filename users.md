@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+   Name: Danny  
+   Place: Richmond, VA
+   Bio: Music producer and learner of code
+   Github: [den3ro](https://github.com/den3ro)  
+   
