@@ -20,7 +20,6 @@
   Place: Noida, India  
   Bio: Designer/Developer, WWDC 2016 Student Scholarship Recipient.  
   GitHub: [Tarun Jain](https://github.com/tarun885)    
-  Facebook: [Tarun Jain](https://www.facebook.com/tarunjain0)
 
 - Name: Ashish Gautam  
   Place: Delhi, India  
