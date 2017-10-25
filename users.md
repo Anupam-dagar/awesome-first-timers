@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Dmitry Polovinkin
+  Place: Saint-Petersburg, Russia 
+  Bio: First russian in that list. 6th year constructions student. Learning spanish. Love to travel. Learning data analysis now.... And as I see here, everybody codes in India lol :D. Write me up if interested in something or share any interests, I'm free to talk :)
+  Github: [Polovinkin](https://github.com/polovinkin)  
+  Facebook: [Dmitry Polovinkin](https://www.facebook.com/dpolovinkin) 
