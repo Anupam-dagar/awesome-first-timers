@@ -497,3 +497,14 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Himanshu Awasthi
+  Place: Kanpur, India
+  Bio: Programmer , Organizer , Foss lover
+  GitHub: [HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)
+
+- Name: Tushar Mittal
+  Place: Kanpur, India
+  Bio: Computer Science Undergraduate
+  Github: [techytushar](https://github.com/techytushar)  
+  Facebook (optional): [Tushar Mittal](https://www.facebook.com/tusharmit)
