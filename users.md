@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Rishabh Chauhan  
+  Place: India  
+  Bio: Exploring the world of programming  
+  GitHub: [rishabhc32](https://github.com/rishabhc32)
