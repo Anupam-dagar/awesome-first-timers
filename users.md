@@ -498,8 +498,8 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-  - Name: Ifunanya Ikemma 
-    place: Enugu, Nigeria 
-    Bio: Software developer, i speak and write codes 
-    Github: [Iphytech](https://github.com/Iphytech) 
-    Facebook (optional): [Ifunanya Ikemma](https://www.facebook.com/ifunanya.favour.77)
+ - Name: Ifunanya Ikemma   
+   place: Enugu, Nigeria  
+   Bio: Software developer, i speak and write codes 
+   Github: [Iphytech](https://github.com/Iphytech)  
+   Facebook (optional): [Ifunanya Ikemma](https://www.facebook.com/ifunanya.favour.77)
