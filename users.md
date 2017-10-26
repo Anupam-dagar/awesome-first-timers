@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Aniket Uttam
+  Place: Kanpur, India
+  Bio: I am programmer which love to code and gives new development.
+  GitHub: [uttamaniket](https://github.com/uttamaniket) 
