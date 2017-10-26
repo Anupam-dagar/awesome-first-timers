@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name:  Vivekmani TSK  
+  Place: Bangalore, India  
+  Bio: I am a hard core Innovator/Maker and becoming a Full Stack developer.  
+  GitHub: [tskvivekmani](https://github.com/tskvivekmani)  
+  Facebook: [Vivekmani TSK](https://facebook.com/tskvivekmani)  
