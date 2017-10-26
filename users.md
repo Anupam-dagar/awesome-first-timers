@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: "Vitor de Lima Cirqueira"  
+  Place: Brazil  
+  Bio: Student  
+  Github: [vitorlc](https://github.com/vitorlc)  
+   
