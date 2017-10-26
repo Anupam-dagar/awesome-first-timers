@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Alexander Malinov  
+  Place: Yaroslavl, Russia 
+  Bio: Full Stack Developer (in ❤️ with Vue, Electron, Node)  
+  GitHub: [xmalinov](https://github.com/xmalinov)  
+  Facebook: [xmalinov](https://www.facebook.com/xmalinov) 
+
