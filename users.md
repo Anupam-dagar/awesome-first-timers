@@ -497,3 +497,7 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Eric Dunsworth  
+  Place: Salt Lake City, UT  
+  Bio: Web Developer | Tech Support  
