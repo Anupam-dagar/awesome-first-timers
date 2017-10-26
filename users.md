@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Mitch Shelton 
+  Place: Utah, USA
+  Bio: Going to collage to gain a bachelors degree in Computer Science
+  Github: [Link270](https://github.com/link270)  
