@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Cassie Theobald
+  Place: Columbus, OH
+  Bio: Data analysis student trying to understand GitHub
+  GitHub:[cassietheobald](https://github.com/cassietheobald)
