@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Michael Wright  
+  Place: United Kingdom  
+  Bio: Learning Web Development  
+  GitHub: [michaelwright74](https://github.com/michaelwright74)  
+  Facebook: [Michael Wright](https://www.facebook.com/profile.php?id=100022631672770)  
