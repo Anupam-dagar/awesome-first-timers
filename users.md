@@ -501,5 +501,5 @@
 -  Name: Divyansh Tripathi  
    Place: India 
    Bio: New kid on the block 
-   Github: silentlad1  (https://github.com/silentlad1)
+   Github: silentlad1  (https://github.com/silentlad1) 
    
