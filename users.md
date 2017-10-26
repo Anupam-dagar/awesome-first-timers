@@ -1,3 +1,9 @@
+- Name: Priyam Gupta
+  Place: California, USA  
+  Bio: Intro to Java and HTML 
+  GitHub: [Bountyman344](https://github.com/bountyman344)    
+  Facebook:
+  
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
