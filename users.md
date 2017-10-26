@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Shubham Shekhar Jha  
+  Place: Varanasi, India  
+  Bio: Metallurgy Student, Learning to Code.  
+  GitHub: [2sjha](https://github.com/2sjha)
