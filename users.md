@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Steve McQueen  
+  Place: California, United States
+  Bio: Software Developer and Chess player
+  GitHub: [negociadordn](https://github.com/negociadordn)
