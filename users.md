@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  
+   Name: "Hitanshu"  
+   Place: "Kanpur"  
+   Bio: "LOve to work in MAchine Learning and Alexa Programming"  
+   Github: [Phantom-Cluster](http://github.com/Phantom-Cluster)  
+   
