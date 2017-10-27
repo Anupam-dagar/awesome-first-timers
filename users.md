@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Greg Mahring  
+  Place: Cleveland, Ohio, USA  
+  Bio: Family, Software Development, Soccer, Golf, Star Wars  
+  GitHub: [Greg Mahring](https://github.com/GregMahring)  
+  Facebook (optional): [Greg Mahring](https://www.facebook.com/greg.mahring)  
