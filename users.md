@@ -1,3 +1,8 @@
+- Name: Ayush  
+  Place: Delhi, India  
+  Bio: Programmer who loves watching Mr.Robot.  
+  GitHub: [arya-ayush](https://github.com/arya-ayush)
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
