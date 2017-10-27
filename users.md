@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+-  Name: "Vivek Kumar Kanaujia"  
+   Place: "Kanpur, India"  
+   Bio: "I am tech lover and maker . Love to programming in Kotlin,Java, Arduino and PHP."  
+   Github: [vivekaris](https://github.com/vivekaris)  
+   Facebook: [vivekaris](https://facebook.com/vivekaris)  
+  
