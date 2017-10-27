@@ -1,3 +1,8 @@
+- Name: "Hambalkó Bence"  
+  Place: "Hungary"  
+  Bio: "Currently a student. Developer."  
+  Github: [Traderain](https://github.com/Traderain)
+  Facebook (optional): 
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
