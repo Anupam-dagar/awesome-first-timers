@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Vinay
+  Place: Kerala,India
+  Bio:Machine Learning and Web Development
+  Github: [Vinay](https://github.com/nvinayvarma189)
