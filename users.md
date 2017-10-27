@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Nedu  
+  Place:   
+  Bio: Full Stack Developer  
+  GitHub: [Nedu](https://github.com/nedu)  
+  Facebook: 
