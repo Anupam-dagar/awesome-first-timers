@@ -1,8 +1,8 @@
 -  Name: Pankaj Agrawal  
    Place: Jaipur, India  
    Bio: I Like to Design beautiful Websites   
-   Github: [https://github.com/erpankaj182/awesome-first-timers/edit/master/users.md] 
-   Facebook (optional): 
+   GitHub: [Pankaj Agrawal](https://github.com/erpankaj182)    
+   Facebook: 
    
 - Name: Anupam Dagar  
   Place: Allahabad, India  
