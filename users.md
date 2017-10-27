@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-- Name: Pawan Kumar Gautam 
-  Place: Kanpur, India 
-  Bio: Programmer and designer 
+- Name: Pawan Kumar Gautam   
+  Place: Kanpur, India   
+  Bio: Programmer and designer      
   GitHub: [PAWAN-KUMAR-GAUTAM000](https://github.com/PAWAN-KUMAR-GAUTAM000)
