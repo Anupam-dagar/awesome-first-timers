@@ -10,6 +10,11 @@
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
 
+Name: Aurobindo Mishra 
+  Place: rourkela,India 
+  Bio: web developer 
+  GitHub: [auro2677](https://github.com/auro2677)
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
