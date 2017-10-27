@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  Name: "Benjamin SA"  
+  Place: "Lagos, Nigeria"  
+  Bio: "Web and Mobile Developer"  
+  Github: [m6code](https://github.com/m6code/)  
+  
