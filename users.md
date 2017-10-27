@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Miftakhul Arzak 
+  Place: Semarang, Indonesia
+  Bio: Physics Education Student
+  Github: [arzakmiftakhul](https://github.com/arzakmiftakhul)  
