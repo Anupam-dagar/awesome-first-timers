@@ -2,7 +2,11 @@
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
-  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)  
+- name: Aniket Uttam
+  Place: Kanpur, India
+  Github: [Aniket uttam](https://github.com/uttamaniket)
+  Facebook: [Aniket Uttam](https://www.facebook.com/aniket.uttam.5)
 
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
