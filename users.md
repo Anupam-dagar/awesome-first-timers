@@ -162,6 +162,12 @@
   Place: Bhubaneswar, India  
   Bio: Open Source and Programming Enthusiast.  
   GitHub: https://github.com/PronomitaDey  
+  
+  
+- Name: Pronomita Dey  
+  Place: Bhubaneswar, India  
+  Bio: Open Source and Programming Enthusiast.  
+  GitHub: https://github.com/PronomitaDey  
 
 - Name: Ayush Anand  
   Place: Hyderabad,India  
