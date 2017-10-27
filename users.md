@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  -Name: Jackie owen  
+   Place: Vellore, India
+   Bio: student, who passionate about web designing and development, still learning
+   Github: [jackie1969](https://github.com/jackie1969)  
+   email: jjjj196929@gmail.com 
