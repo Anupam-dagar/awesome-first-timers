@@ -497,3 +497,11 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Deepanshu Singh  
+  Place: Hapur, India  
+  Bio: Enthusiastic + Being into Ethical Hacking, Bug Bounty hunter .  
+  GitHub: [devdpnshu](https:/github.com/devdpnshu)  
+
+
+
