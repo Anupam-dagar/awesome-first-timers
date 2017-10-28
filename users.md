@@ -1,3 +1,8 @@
+- Name:  Alex Hard
+  Place: Bishkek, Kyrgyzstan
+  Bio:  I'm studying git.
+  GitHub: [AlexHard](https://github.com/AlexHard)
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
