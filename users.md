@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+ - Name: "Nick Keers"  
+   Place: "United Kingdom"  
+   Bio: "Functional programmer working in the UK"  
+   Github: [nickkeers](https://github.com/nickkeers)  
