@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+   Name: Shivam Pokhriyal  
+   Place: New Delhi , India  
+   Bio: 17, Learning to Code! 
+   Github: [iTechShivam](https://github.com/iTechShivam)  
+   
