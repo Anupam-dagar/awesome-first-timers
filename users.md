@@ -1,3 +1,9 @@
+- Name: Sourav Kumar Dash  
+  Place: Balasore, India  
+  Bio: I am a software engineer & technology enthusiast  
+  GitHub: [Sourav Dash](https://github.com/sourav52)    
+  Facebook:   
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
