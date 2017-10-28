@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Sourav Kumar Dash  
+  Place: Balasore, India  
+  Bio: I am a software engineer & technology enthusiast  
+  GitHub: [Sourav Dash](https://github.com/sourav52)  
