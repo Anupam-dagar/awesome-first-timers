@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Saurabh Daalia
+  Place: Amritsar,Punjab,India
+  Bio: Programming and Machine Learning Enthusiast. Converts Coffee into Code
+  Github: [@saurabhdaalia](https://github.com/saurabhdaalia) 
+  
