@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Himanshu Rathod
+  Place: Chennai, India 
+  Bio: A Budding Programmer having interests in Machine Larning and Pythin coding. 
+  GitHub: [himi98](https://github.com/himi98)
+  Facebook: Himanshu Rathod
+  Instagram: himi_98
