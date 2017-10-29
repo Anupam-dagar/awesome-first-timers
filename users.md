@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Shounak
+  Place: Manipal, India  
+  Bio: Competitive programmer and developer.   
+  GitHub: [dylan007](https://github.com/dylan007)
