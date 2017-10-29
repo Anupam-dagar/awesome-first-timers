@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Amritasha  
+  Place: Faridabad, India  
+  Bio: New to Open Source, Java web & Android Dev 
+  GitHub: [Amritasha](https://github.com/Amritasha)
