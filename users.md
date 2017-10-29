@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Prathyakshun  
+  Place: Hyderabad, India  
+  Bio: App and web dev, algorithms  
+  GitHub: [prathyakshun](https://github.com/prathyakshun)  
+  
