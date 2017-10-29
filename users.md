@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Anurag Jain  
+  Place: Hyderabad, India  
+  Bio: Student, new to open source world  
+  GitHub: [Anurag Jain](https://github.com/ajainuary)    
+  Facebook: [Anurag Jain](https://www.facebook.com/TheAnuragJain)
