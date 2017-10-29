@@ -373,7 +373,7 @@
   Place: Colombo, Sri Lanka    
   Bio: Undergraduate of BEng Software Engineering Degree from the University of Westminster. My hobbies include singing, beatboxing and developing.    
   Github: [codeSmart2307](https://github.com/codeSmart2307)    
-  Facebook: [Your name](https://www.facebook.com/raneesh.gomez)     
+  Facebook: [Raneesh Gomez](https://www.facebook.com/raneesh.gomez)     
 
 - Name: Aurelia Womack
   Place: Ravenna, Ohio, USA
