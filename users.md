@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  
+- Name: Anjani kumar Thakur
+  Place: Delhi, India  
+  Bio: Programmer by heart AI Learner.  
+  GitHub: [sunnyfixer3941](https://github.com/sunnyfixer3941)
