@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Ashsih  
+  Place: Lonavala, India  
+  Bio: Learner.  
+  GitHub: [ashishyadav400](https://github.com/ashishyadav400)
