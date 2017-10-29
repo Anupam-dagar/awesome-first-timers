@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-  - Name: Aditya  
+- Name: Aditya  
   Place: Waterloo, Ontario  
   Bio: ECE student 
   GitHub: [adityas129](https://github.com/adityas129)
