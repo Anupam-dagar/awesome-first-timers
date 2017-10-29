@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: kishore  
+  Place: Hyderabad, India  
+  Bio: Programmer  
+  GitHub: [kishore](https://github.com/kishoresaladi)
+
