@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Amivit  
+Place: New York, New York
+Bio: Live to code.
+GitHub: [amivit](https://github.com/amivit)
