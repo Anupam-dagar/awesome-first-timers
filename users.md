@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+-Name: Amritanshu SIngh
+Place: Bangalore, India
+Bio: iOS App Developer
+GitHub: samritanshu
+Facebook: Anupam Dagar
