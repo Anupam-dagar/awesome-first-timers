@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-- Name: "Jared"  
-  Place: "NYC"  
-   Bio: "Musical Coder"  
-   Github: [techlover10](https://github.com/techlover10)  
+- Name: Jared
+  Place: NYC 
+  Bio: Musical Coder  
+  Github: [techlover10](https://github.com/techlover10)  
