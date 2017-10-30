@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Saksham Garg  
+  Place: Noida, India  
+  Bio: A competitive programmer's mind under expansion.   
+  GitHub: [Saksham Garg](https://github.com/sak6e)    
+  Facebook: [Saksham Garg](https://www.facebook.com/saksham.garg.311)    
+
