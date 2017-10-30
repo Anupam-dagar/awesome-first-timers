@@ -38,6 +38,11 @@
   Bio: Code once, run anywhere.  
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
+  
+  - Name: djippers  
+  Place: Bishkek, Kyrgyzstan  
+  Bio: I'm lerning git  
+  GitHub: [djippers ](https://github.com/djippers )  
 
 - Name: Alexander Yalchik  
   Place: Zhlobin, Belarus  
