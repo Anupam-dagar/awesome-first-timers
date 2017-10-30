@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+   Name: Brian  
+   Place: United States  
+   Bio: Fighting game player  
+   Github: [yung-ming](https://github.com/yung-ming)  
