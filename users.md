@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+  Name: Rae
+  Place: USA 
+  Bio: Trying to learn about coding at my own pace  
+  Github: [threethirteen](https://github.com/threethirteen)  
