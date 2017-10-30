@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Sheikh Mohammad  
+  Place: New Delhi, India  
+  Bio: CSE student @ Hamdard University.  
+  GitHub: [free4murad](https://github.com/free4murad)
