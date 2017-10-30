@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Ishan 
+  Place: Colombo, Sri Lanka  
+  Bio: Software Engineer at Informatics Institute of Technology
+  GitHub: [ishan-aravinda](https://github.com/ishan-aravinda)
+
