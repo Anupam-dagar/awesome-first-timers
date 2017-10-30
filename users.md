@@ -63,6 +63,13 @@
   GitHub: [shuvikash](https://github.com/shuvikash)    
   Facebook:
 
+- Name: Suresh Adhikari  
+  Place: Nepal  
+  Bio:   Java developer from Nepal
+  GitHub: [shuvikash](https://github.com/sureshas47)    
+  Facebook:
+
+
 - Name: Igc  
   Place: Spain  
   Bio: It Student.  
