@@ -362,12 +362,17 @@
   Place: India
   Bio: I am FOSS enthusiast and Developer
   Github: [octamoid](https://github.com/octamois)
+  
+- Name: Yasiru Withanage      
+  Place: Galle, Sri lanka    
+  Bio: A person who love to coding 
+  GitHub: [udit-001](https://github.com/udit-001)
+
 
 - Name: Aimee  
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
-  GitHub: [darkxangel84](https://github.com/darkxangel84)  
-  Facebook: 
+  GitHub: [withanageyasiru](https://github.com/withanageyasiru)  
 
 - Name: Raneesh Gomez    
   Place: Colombo, Sri Lanka    
