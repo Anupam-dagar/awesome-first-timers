@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Shivam Gupta   
+  Place: Allahabad, India   
+  Bio: Student Developer, B.Tech IT, final year    
+  Github: [shivamgupta1](https://github.com/shivamgupta1)
