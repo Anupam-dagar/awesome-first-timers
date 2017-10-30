@@ -353,6 +353,11 @@
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
 
+- Name: Mudit Saxena
+  Place: India
+  Bio: Student Developer 
+  Github: [mudit9](https://github.com/mudit9) 
+
 - Name: Rajat Goyal
   Place: India
   Bio: Software Developer
