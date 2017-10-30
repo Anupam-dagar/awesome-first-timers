@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Pulkit Mishra  
+  Place: India  
+  Bio: Coder who is learning how to program  
+  Github: [PulkitMishra](https://github.com/PulkitMishra)  
