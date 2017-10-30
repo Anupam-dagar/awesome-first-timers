@@ -1,0 +1,12 @@
+you can change background color your website with this command
+bgcolor="in this column you can fill with any color"
+
+Example:
+
+
+<html>
+<body bgcolor="blue">
+<h1>Hi all</h1>
+<p>new file</p>
+</body>
+</html>
