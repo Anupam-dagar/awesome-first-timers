@@ -2,7 +2,14 @@
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
-  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)  
+  
+- Name: Yash Shinde  
+  Place: Roorkee, India  
+  Bio: I am a graphic designer  
+  GitHub: [Yash Shinde](https://github.com/yashinde)    
+  Facebook: [Yash Shinde](https://www.facebook.com/i.ashish.sinha)    
+
 
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
