@@ -497,3 +497,17 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  - Name: Onuwa Nnachi Isaac  
+  Place: Lafia, Nigeria  
+  Bio: Code once, run anywhere.  
+  GitHub: [iamonuwa](https://github.com/iamonuwa)  
+  Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
+
+- Name: Chiranga Wickramasinghe   
+  Place: Galle, Sri Lanka  
+  Bio: I am an undergraduate.  
+  GitHub: [chirangaw186](https://github.com/chirangaw186)  
+  Facebook: -  
+
+  
