@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+- Name: Dylan Fahringer  
+  Place: Pennsylvania, US  
+  Bio: Aspiring to create games, learn more linux and programming.  
+  GitHub: [djfahringer](https://github.com/djfahringer)  
