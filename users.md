@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Nikhil Gupta
+  Place: Manipal, India  
+  Bio: B.Tech IT Student | Tech Enthusiast | Open Source fan
+  GitHub: [nikhilgupta23](https://github.com/nikhilgupta23)  
