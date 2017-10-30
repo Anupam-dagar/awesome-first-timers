@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+  Name: Sasini Edirisinghe 
+  Place: GoodHope estate,Horana  
+  Bio: I am like a code under development  
+  GitHub: [SasiEdirisinghe](https://github.com/SasiEdirisinghe)    
+ 
