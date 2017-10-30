@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: David White
+  Place: United Kingdom
+  Bio: Software Developer who plays games
+  GitHub: [wizardfrag](https://github.com/wizardfrag)
