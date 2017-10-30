@@ -498,8 +498,8 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-  Name: Janith Gamage 
-  Place: Colombo, Sri Lanka 
-  Bio: Go-Karting fan 
+  Name: janith gamage
+  Place: Colombo,Sri lanka
+  Bio: Go-Karting fan
   Github: [gamage1995](https://github.com/gamage1995)  
-  Facebook (optional): [janith](https://www.facebook.com/thejrav) 
+  Facebook (optional): [janith](https://www.facebook.com/thejrav)
