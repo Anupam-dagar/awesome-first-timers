@@ -39,9 +39,9 @@
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
   
-  - Name: djippers  
+- Name: djippers  
   Place: Bishkek, Kyrgyzstan  
-  Bio: I'm lerning git  
+  Bio: I'm learning git  
   GitHub: [djippers ](https://github.com/djippers )  
 
 - Name: Alexander Yalchik  
