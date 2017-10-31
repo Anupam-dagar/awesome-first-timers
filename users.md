@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+-  Name: "Meganth Maniraj"  
+   Place: "India"  
+   Bio: "Student"  
+   Github: [tricolo711](https://github.com/tricolo711)  
