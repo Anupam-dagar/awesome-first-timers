@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name: Damián Rotta  
+  Place: Misiones, Argentina  
+  Bio: Yet another Mr. Robot fan.   
+  GitHub: [Dipiert](https://github.com/Dipiert)
