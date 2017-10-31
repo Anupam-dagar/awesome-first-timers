@@ -497,3 +497,10 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+   Name: Erica  
+   Place: Washington, DC 
+   Bio: teacher, new here 
+   Github: [EriJBreeze](https://github.com/EriJBreeze)  
+   Facebook (optional): 
+   
