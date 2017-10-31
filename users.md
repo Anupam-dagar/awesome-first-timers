@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Decipher
+  Place: Kalyani, India
+  Bio: Habbit to made mistake and try to correct it.
+  Github: [Decipher0](https://github.com/Decipher0)
