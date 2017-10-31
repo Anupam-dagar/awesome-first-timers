@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name:  Josh Reeding  
+  Place: NS, Canada  
+  Bio:  Android developer, love working with embedded systems. I turn food into code.  
+  GitHub: [Josh](https://github.com/Joshsoshm)
