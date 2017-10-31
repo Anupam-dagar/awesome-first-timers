@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name: David V.
+  Place: USA
+  Bio: Unemployed programmer
+  Github: [bzjl](https://github.com/bzjl")
