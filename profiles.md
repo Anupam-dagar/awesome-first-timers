@@ -8,10 +8,6 @@
       {% if profile.GitHub %}
       <a href="{{profile.GitHub}}"><i class="fa fa-lg fa-github"></i></a> 
       {% endif %}
-
-      {% if profile.Facebook %}
-      <a href="{{profile.Facebook}}"><i class="fa fa-lg fa-facebook"></i></a> 
-      {% endif %}
     </div>
   </div>
   {% endfor %}
