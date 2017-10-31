@@ -500,5 +500,5 @@
  
 - Name: Rob White  
   Place: Charlotte, NC  
-  Bio: Wrasslin' nerd who is trying to wake up his inner programmer. 
+  Bio: Wrasslin' nerd who is trying to wake up his inner programmer.   
   GitHub: [FearTheFrail](https://github.com/FearTheFrail)
