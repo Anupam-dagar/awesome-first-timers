@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+ 
+- Name: Rob White  
+  Place: Charlotte, NC  
+  Bio: Wrasslin' nerd who is trying to wake up his inner programmer.   
+  GitHub: [FearTheFrail](https://github.com/FearTheFrail)
