@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name: Velimir Kumric
+  Place: Toronto, Canada
+  Bio: Aspiring full-stack web developer.
+  GitHub: [vkumric](https://github.com/vkumric)
