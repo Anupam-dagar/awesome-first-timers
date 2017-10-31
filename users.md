@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Afroza Nasrin
+  Place: Kolkata, India
+  Bio: Computer science engineer.
+  Github: [afroza17](https://github.com/afroza17)
