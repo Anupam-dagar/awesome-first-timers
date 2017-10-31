@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Elena
+  Place: Germany
+  Bio: Student
+  GitHub: [Eli312](https://github.com/Eli312)
