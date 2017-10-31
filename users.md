@@ -497,3 +497,11 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+
+- Name: "Le Bon Bauma"  
+   Place: "Kenya"  
+   Bio: "Software developer and i'm so much into data science"  
+   Github: [Sharkzuria](https://github.com/Sharkzuria)  
+   
+
