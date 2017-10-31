@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+-  Name: Josue Murhabazi
+   Place: Nairobi,Kenya  
+   Bio: like hacking, android developper 
+   Github: [josuemurhabazi](https://github.com/josuemurhabazi)  
+   Facebook (optional): [josue murhabazi](https://www.facebook.com/josue.murhabazi)  
