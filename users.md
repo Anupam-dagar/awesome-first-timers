@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+  
+- Name: Akshama  
+  Place: Delhi, India  
+  Bio: ML and AI enthusiast  
+  GitHub: [Akshama](https://github.com/Akshama) 
