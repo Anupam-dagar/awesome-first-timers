@@ -505,5 +505,5 @@
 
 - Name: Hussain Sakriwala  
   Place: Mumbai, India  
-  Bio: Software Developer.   
+  Bio: Software Developer 
   GitHub: [Hussain Sakriwala](https://github.com/hussainskr)    
