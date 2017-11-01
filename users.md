@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name: Anupam Dagar  
+  Place: Allahabad, India  
+  Bio: Learning to code like a pro  
+  GitHub: [Renaissa Jaiswal](https://github.com/renaissa4)    
