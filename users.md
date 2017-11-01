@@ -502,3 +502,9 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+  
+- Name:  Davison Yon
+  Place: Cleveland, Ohio  
+  Bio:  I am a composer, teacher, and amature programmer. Interests include gaming, classical music, and techonology.  
+  GitHub: [SWTORApps](https://github.com/swtorapps)  
+  Facebook:
