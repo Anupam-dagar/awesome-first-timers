@@ -502,3 +502,9 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+  
+- Name: Shriyash  
+  Place: Detroit, MI
+  Bio: Software Developer, Hackathon Lover  
+  GitHub: [shriyash](https://github.com/shriyash)    
+
