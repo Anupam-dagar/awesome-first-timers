@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name: Michal Cerman
+  Place: Prague, Czechia
+  Bio: Android Developer
+  GitHub: [micer](https://github.com/micer)
