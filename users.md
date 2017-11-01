@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name: Prathmesh Pathwar
+  Place: Allahabad, India  
+  Bio: Learning Web Development.   
+  GitHub: [dancing-goose](https://github.com/dancing-goose)    
