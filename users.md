@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+
+- Name: Dre Brosnan  
+  Place: United Kingdom  
+  Bio: Student    
+  GitHub: [ap1459](https://github.com/ap1459)   
