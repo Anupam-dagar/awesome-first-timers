@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -494,7 +494,7 @@
   Github: [YuganshT79](https://github.com/YuganshT79) 
 
 - Name: Udit  
-  Place: Delhi, India  
+  Place: Delhi, India 
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
 
@@ -506,5 +506,9 @@
 - Name: Lekhika Dugtal 
   Place: Delhi, India  
   Bio: Sophomore   
-  GitHub: [Alastair7](https://github.com/Alastair7)  
+  GitHub: [Alastair7](https://github.com/Alastair7)    - Name: Avantika Singh  
+  Place: Bhubaneswar, India  
+  Bio: I am budding software developer.  
+  GitHub: [Avantika Singh](https://github.com/avantikasingh)    
+  Facebook:[Avantika Singh](https://www.facebook.com/singh23avantika)     
   
