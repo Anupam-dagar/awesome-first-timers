@@ -508,3 +508,8 @@
   Bio: Sophomore   
   GitHub: [Alastair7](https://github.com/Alastair7)  
   
+
+- Name: Neha Lal
+  Place: Bhubaneswar, India
+  Bio: Student
+  GitHub: [veraciousalien](https://github.com/veraciousalien)
