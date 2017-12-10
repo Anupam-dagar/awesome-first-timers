@@ -507,4 +507,10 @@
   Place: Delhi, India  
   Bio: Sophomore   
   GitHub: [Alastair7](https://github.com/Alastair7)  
+
+- Name: Azel Tan 
+  Place: Makati, Philippines  
+  Bio: Web Developer  
+  Github: [AzelAlyneTan](https://github.com/azelalynetan)  
+  Facebook (optional): [Azel Tan](https://www.facebook.com/tan.azel) 
   
