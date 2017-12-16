@@ -508,3 +508,9 @@
   Bio: Sophomore   
   GitHub: [Alastair7](https://github.com/Alastair7)  
   
+  Name: Muskan Kalra 
+  Place: Jaipur, India  
+  Bio:   Engineering student, Front end web developer and a music lover
+  GitHub: [muskaankalra24](https://github.com/muskaankalra24)
+
+  
