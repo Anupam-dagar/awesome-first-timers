@@ -508,7 +508,7 @@
   Bio: Sophomore   
   GitHub: [Alastair7](https://github.com/Alastair7)  
   
-- Name: Dhairya Baweja
-  Place: Faridabad, India
-  Bio: student (IT), Btech Ist year
-  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
+- Name: Dhairya Baweja  
+  Place: Faridabad, India  
+  Bio: student (IT), Btech Ist year  
+  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)  
