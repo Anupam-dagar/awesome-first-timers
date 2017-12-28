@@ -512,3 +512,8 @@
   Place: Faridabad, India  
   Bio: student (IT), Btech Ist year  
   GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)  
+  
+- Name: Shubham Derhgawen  
+  Place: Pune, India  
+  Bio: student   
+  GitHub: [Shubhamd13](https://github.com/Shubhamd13)  
