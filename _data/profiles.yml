@@ -1,0 +1,318 @@
+profiles:
+  -
+    Name: 'Abhishek Tiwari'
+    Place: India
+    Bio: 'IIIT-ian. Coding isn''t my addiction, it''s part of my nature.'
+    Github: 'https://github.com/zeus0789'
+  -
+    Name: 'Ahmad Basir'
+    Place: 'Semarang, Indonesia'
+    Bio: 'Designer | Backend Developers | [Dinus Open Source Community](https://doscom.org)'
+    GitHub: 'https://github.com/ahmadbasir'
+  -
+    Name: 'Akshay Kumar'
+    Place: India
+    Bio: 'Btech Student in Computer Science'
+    Github: 'https://github.com/AkshayCHD'
+  -
+    Name: 'Alexander Yalchik'
+    Place: 'Zhlobin, Belarus'
+    Bio: 'Coding, reading, have fun'
+    GitHub: 'https://github.com/OMGHaveFun'
+  -
+    Name: 'Alexandra CT'
+    Place: Texas
+    Bio: Teacher
+    Github: 'https://github.com/Alexandrawr1987'
+  -
+    Name: 'Alice Chuang'
+    Place: 'New York City, NY, USA'
+    Bio: 'Front-End UI Engineer'
+    GitHub: 'https://github.com/AliceWonderland'
+  -
+    Name: 'Ana Luísa Dias'
+    Place: 'Bahia, Brazil'
+    Bio: 'I''m an enthusiast for sci-fi, code, technology and ice cream.'
+    GitHub: 'https://github.com/baiana'
+  -
+    Name: 'Andre Peregrina'
+    Place: 'Mexicali, Mexico'
+    Bio: 'I am an enthusiast for technology and I love drink beers with my friends.'
+    GitHub: 'https://github.com/andreperegrina'
+  -
+    Name: 'Andrew B'
+    Place: 'United Kingdom'
+    Bio: 'Trying to learn'
+    GitHub: 'https://github.com/birksy89'
+  -
+    Name: 'Andy Luo'
+    Place: 'Northern California, USA'
+    Bio: 'Coding enthusiast'
+    GitHub: 'https://github.com/GreenRabite'
+  -
+    Name: 'Anupam Dagar'
+    Place: 'Allahabad, India'
+    Bio: 'I am like a code under development'
+    GitHub: 'https://github.com/Anupam-dagar'
+    Facebook: 'https://www.facebook.com/invincible.anupam'
+  -
+    Name: 'Arpit Batra'
+    Place: 'Dehradun, India'
+    Bio: 'I am an aspiring android developer.'
+    GitHub: 'https://github.com/arpitbatra123'
+    Facebook: 'https://Facebook.com/arpitbatra123'
+  -
+    Name: 'Ashish Gautam'
+    Place: 'Delhi, India'
+    Bio: 'I am 4th year B.tech student. I like to code and play minesweeper. I also like pizza.'
+    Github: 'https://github.com/gautam2705'
+    Facebook: 'https://www.facebook.com/gautam2705'
+  -
+    Name: 'Aswin VB'
+    Place: India
+    Bio: 'BTech Student In Information Technology'
+    Github: 'https://github.com/aswinzz'
+  -
+    Name: 'Ayush Anand'
+    Place: 'Hyderabad,India'
+    Bio: 'Tech enthusiast'
+    GitHub: 'https://github.com/maykillmore'
+  -
+    Name: 'B Siddhartha'
+    Place: Bangalore
+    Bio: 'Student R. V. College of Engineering Bangalore.'
+    GitHub: 'https://github.com/bsidio'
+  -
+    Name: 'Bervianto Leo Pratama'
+    Place: 'Bandung, Indonesia'
+    Bio: 'Student, Institut Teknologi Bandung'
+    Github: 'https://github.com/berviantoleo'
+    Facebook: 'https://facebook.com/bervianto.leo'
+  -
+    Name: 'Bipin Kumar'
+    Place: India
+    Bio: 'Android Developer, Btech in IT'
+    Github: 'https://github.com/bipinkumar919'
+  -
+    Name: 'Brandon Brewer'
+    Place: US
+    Bio: 'Aspiring web developer'
+    Github: 'https://github.com/brandonbrewer93'
+  -
+    Name: 'Carla Costas a.k.a. Charlye'
+    Place: 'Vigo, Spain.'
+    Bio: 'Student, CEBEM.'
+    GitHub: 'https://github.com/costassolla'
+  -
+    Name: 'Cole Simchick'
+    Place: 'Lancaster, PA, USA'
+    Bio: 'Computer Software Engineering Student'
+    Github: 'https://github.com/colelabar'
+  -
+    Name: 'David Y.'
+    Place: USA
+    Bio: Developer
+    Github: 'https://github.com/idavidy'
+  -
+    Name: 'Dawid van Graan'
+    Place: 'Cape Town, South Africa'
+    Bio: 'Mobile (Android + iOS) Developer'
+    GitHub: 'https://github.com/dawidvangraan'
+  -
+    Name: 'Dwiky Chandra Hidayat'
+    Place: Indonesia
+    Bio: 'Student, SMKN 1 DENPASAR'
+    GitHub: 'https://github.com/dwikychandra21'
+    Facebook: 'https://www.facebook.com/dwikychandra.hidayat'
+  -
+    Name: 'Eric Christensen'
+    Place: 'United States'
+    Bio: 'Infosec Student and IT guy'
+    GitHub: 'https://github.com/Christensenea'
+  -
+    Name: 'Eric Dunsworth'
+    Place: 'Salt Lake City, UT'
+    Bio: 'Web Developer | Tech Support'
+    GitHub: 'https://github.com/ericduns'
+  -
+    Name: 'Hardik Joshi'
+    Place: India
+    Bio: 'Javascript Enthusiast and CSS Preacher'
+    Github: 'https://github.com/hardikyjoshi'
+  -
+    Name: Himanshi-Khandelwal
+    Place: 'Jaipur,India'
+    Bio: 'Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.'
+    GitHub: 'https://github.com/Himanshi-Khandelwal'
+  -
+    Name: 'Hui Chng'
+    Place: Singapore
+    Bio: 'alert(''web developer'')'
+    GitHub: 'https://github.com/huiyie'
+  -
+    Name: Igc
+    Place: Spain
+    Bio: 'It Student.'
+    GitHub: 'https://github.com/igcigc'
+  -
+    Name: 'Joell Lapitan'
+    Place: 'Dubai, UAE'
+    Bio: 'Web Developer.'
+    GitHub: 'https://github.com/jlapitan'
+  -
+    Name: 'Johannes Sonn'
+    Place: Germany
+    Bio: IT-Student
+    GitHub: 'https://github.com/john2ksonn'
+  -
+    Name: 'Katja Sostar'
+    Place: Austria
+    Bio: 'Spaghetti coder and designer'
+    GitHub: 'https://github.com/helloimkat'
+  -
+    Name: 'Kevin Mora'
+    Place: 'San José, Costa Rica'
+    Bio: 'I love to code, love git and rock music'
+    GitHub: 'https://github.com/kevinmora94'
+  -
+    Name: 'Marcus Koh Chi Hao'
+    Place: Singapore
+    Bio: 'Coding Is Life.'
+    GitHub: 'https://github.com/kohchihao'
+  -
+    Name: 'Marcus Lancaster'
+    Place: 'Edinburgh, Scotland'
+    Bio: 'Have you heard of our lord and saviour: Vim?'
+    GitHub: 'https://github.com/questionmarcus'
+  -
+    Name: 'Mary Hull'
+    Place: Seattle
+    Bio: 'Sys admin. Runner.'
+    GitHub: 'https://github.com/thegreyelephant'
+  -
+    Name: 'Mayank Saxena'
+    Place: India
+    Bio: 'Student Developer'
+    Github: 'https://github.com/mayank26saxena'
+  -
+    Name: 'Mudit Surana'
+    Place: 'Hyderabad,India'
+    Bio: 'Full-stack Developer'
+    Github: 'https://github.com/surana-mudit'
+  -
+    Name: 'Niharika Shrivastava'
+    Place: India
+    Bio: 'IT Student'
+    Github: 'https://github.com/OrionStar25'
+  -
+    Name: 'Nuriel Fattah'
+    Place: Indonesia
+    Bio: 'DevOps Troopers'
+    GitHub: 'https://github.com/nurielfattah'
+  -
+    Name: 'Onuwa Nnachi Isaac'
+    Place: 'Lafia, Nigeria'
+    Bio: 'Code once, run anywhere.'
+    GitHub: 'https://github.com/iamonuwa'
+    Facebook: 'https://facebook.com/iamonuwa'
+  -
+    Name: 'Patrick Stephens'
+    Place: USA
+    Bio: 'Professional Geek'
+    Github: 'https://github.com/patsteph'
+  -
+    Name: 'Pratyum Jagannath'
+    Place: Singapore
+    Bio: 'Software Enthusiast| Chilling and Balling | Open Source Contributor'
+    GitHub: 'https://github.com/Pratyum'
+  -
+    Name: 'Pronomita Dey'
+    Place: 'Bhubaneswar, India'
+    Bio: 'Open Source and Programming Enthusiast.'
+    GitHub: 'https://github.com/PronomitaDey'
+  -
+    Name: 'Rahul Bafila'
+    Place: 'Chandigarh, India.'
+    Bio: 'Student, UIET PU Chandiagrh.'
+    GitHub: 'https://github.com/rahul577'
+  -
+    Name: 'Rahul Bishnoi'
+    Place: 'Hyderabad, India'
+    Bio: 'I am an enthusiast for technology and i love Playing CSGO.'
+    GitHub: 'https://github.com/nanspro'
+    Facebook: 'https://facebook.com/nanpros'
+  -
+    Name: 'Ravi Jain'
+    Place: India
+    Bio: 'alert(''web developer'')'
+    GitHub: 'https://github.com/engrravijain'
+  -
+    Name: Sarsiz
+    Place: 'New Delhi, India'
+    Bio: 'I am an aspiring programmar'
+    GitHub: 'https://github.com/sarsiz'
+  -
+    Name: 'Shade Ruangwan'
+    Place: Japan
+    Bio: 'PhD student in Software Engineering'
+    Github: 'https://github.com/sruangwan'
+  -
+    Name: 'Shankhalika Sarkar'
+    Place: 'Karnataka, India'
+    Bio: 'CS Undergrad. I love a good cup of tea and some puzzles to go along with.'
+    Github: 'https://github.com/Shankhalika'
+  -
+    Name: 'Shreyas Agarkar'
+    Place: India
+    Bio: 'JS Developer @ Rentomojo'
+    Github: 'https://github.com/shreyas-a'
+  -
+    Name: 'Shuvikash Patel'
+    Place: 'Bihar, India'
+    Bio: 'Achieving success that I want.'
+    GitHub: 'https://github.com/shuvikash'
+  -
+    Name: 'Sibylle Sehl'
+    Place: Edinburgh
+    Bio: 'Product Manager - currently learning how to git.'
+    GitHub: 'https://github.com/alaskaa'
+  -
+    Name: 'Siddharth Mahapatra'
+    Place: 'Bhubaneswar, India'
+    Bio: 'Active Quora Writer | Full Stack Developer | Competitive Programmer | Open Source Contributor'
+    GitHub: 'https://github.com/SiddharthMahapatra12'
+  -
+    Name: 'Simon Eddeland'
+    Place: Sweden
+    Bio: 'Likes to code'
+    GitHub: 'https://github.com/simoneddeland'
+  -
+    Name: 'Sk Tafique Ahemad'
+    Place: 'Bhubaneswar, India'
+    Bio: 'a future web developer'
+    GitHub: 'https://github.com/tafiquemd'
+  -
+    Name: 'Soumam Banerjee'
+    Place: 'Durgapur,India'
+    Bio: 'Open Source Enthusiast, Btech at NIT Durgapur'
+    GitHub: 'https://github.com/soumam007'
+  -
+    Name: 'Tan Jin Ying'
+    Place: Singapore
+    Bio: 'Learning Git Commands'
+    GitHub: 'https://github.com/jinyingtan'
+  -
+    Name: 'Tomasz Mikalny'
+    Place: 'Bydgoszcz, Poland'
+    Bio: 'Tinkerer, learning all this github stuff'
+    GitHub: 'https://github.com/Nabuchodonozor'
+  -
+    Name: 'Udith Ishara Madusanka'
+    Place: 'Sri Lanka'
+    Bio: 'Front-end, Back-end developer, gamer, photographer, traveler and loves food'
+    GitHub: 'https://github.com/udithishara'
+  -
+    Name: 'Zara Otamias'
+    Place: 'Massachusetts, USA'
+    Bio: 'Self taught coder & a Student of Life'
+    GitHub: 'https://github.com/zotamias'
