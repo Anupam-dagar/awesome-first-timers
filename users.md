@@ -513,7 +513,7 @@
   Bio: student (IT), Btech Ist year  
   GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
 
-  Name: Vivek Raj  
+- Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
