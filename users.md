@@ -511,9 +511,13 @@
 - Name: Dhairya Baweja  
   Place: Faridabad, India  
   Bio: student (IT), Btech Ist year  
+<<<<<<< HEAD
   GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
 
   Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+=======
+  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)  
+>>>>>>> 50298a76157e17dd3790fa0ce2efbbd5eac10ee4
