@@ -502,3 +502,23 @@
   Place: "Mexico"  
   Bio: "Developer, Docker enthusiastic"  
   Github: [CarlosPadilla](https://github.com/CarlosPadilla)  
+  
+- Name: Elaine Mary Rose  
+  Place: Allahabad, India  
+  Bio: Developer under development.   
+  GitHub: [Elaine Mary Rose](https://github.com/stickberry)  
+  
+- Name: Lekhika Dugtal 
+  Place: Delhi, India  
+  Bio: Sophomore   
+  GitHub: [Alastair7](https://github.com/Alastair7)  
+  
+- Name: Dhairya Baweja  
+  Place: Faridabad, India  
+  Bio: student (IT), Btech Ist year  
+  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
+
+- Name: Vivek Raj  
+  Place: Allahabad, India  
+  Bio: Worst Web Developer  
+  GitHub: [swaager](https://github.com/swaager)  
