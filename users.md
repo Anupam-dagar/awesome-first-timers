@@ -520,9 +520,6 @@
 
 - Name: Sheikh Imtiaz Ahmed  
   Place: Sylhet, Bangladesh  
-  Bio: Data Scientist  
+  Bio: Full-Stack Developer, Data Scientist  
   Github: [sheikhimtiaz](https://github.com/sheikhimtiaz)  
   Facebook (optional): [শেইখ ইমতিয়াজ আহমেদ](https://www.facebook.com/minorprogression)  
-
-
-  
