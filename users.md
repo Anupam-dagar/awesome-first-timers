@@ -517,3 +517,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Simple Maurya  
+  Place: Faizabad, India  
+  Bio: Aspiring iOS developer 
+  GitHub: [simplemaurya](https://github.com/simplemaurya)    
+ 
