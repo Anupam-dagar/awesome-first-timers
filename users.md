@@ -1,3 +1,9 @@
+- Name: Zafer Khourdaji  
+  Place: Michigan, USA  
+  Bio: Eat Sleep Code  
+  Github: [zkhourdaji](https://github.com/zkhourdaji)  
+  Facebook: 
+  
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
