@@ -1,3 +1,11 @@
+- Name : Akshay Kumar
+  place: Hyderbad,India
+  Bio : im a full stack developer
+  github: https://github.com/akshaykumar123
+  facebook:www.fb.com/akshaykumakki
+
+
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
