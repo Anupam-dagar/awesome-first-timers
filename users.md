@@ -517,3 +517,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Buster One  
+  Place: Germany  
+  Bio: aspiring developer  
+  Github: [buster-one](https://github.com/buster-one)  
