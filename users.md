@@ -39,11 +39,12 @@
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
   
-- Name: James George
-  Place: Kerala, India
-  Bio: Full Stack Web Developer, Android Developer, Pen Tester, Youtuber, Blogger.
-  Github: [jamesgeorge007](https://www.github.com/jamesgeorge007)
-  Facebook: [James George](https://www.facebook.com/jamesgeorge9801)
+<ul> <li>Name: James George</li>
+  <li>Place: Kerala, India</li>
+  <li>Bio: Full Stack Web Developer, Android Developer, Pen Tester, Youtuber, Blogger.</li>
+  <li>Github: [jamesgeorge007](https://www.github.com/jamesgeorge007)</li>
+  <li>Facebook: [James George](https://www.facebook.com/jamesgeorge9801)</li>
+  </ul>
 
 - Name: Alexander Yalchik  
   Place: Zhlobin, Belarus  
