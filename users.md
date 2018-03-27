@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Samuel Epodoi  
+  Place: Kampala, Uganda  
+  Bio:  Student | WebDev | Self-Taught Developer | Ai and Algorithm enthusiast | 13 year old
+  GitHub: [SamHez](https://github.com/SamHez)
