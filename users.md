@@ -516,4 +516,9 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager) 
+
+- Name: Samuel Epodoi  
+  Place: Kampala, Uganda  
+  Bio: Student | WebDev  | Self-taught developer | Ai and Algorithm enthusiast | 13 year old
+  GitHub: [SamHez](https://github.com/SamHez)  
