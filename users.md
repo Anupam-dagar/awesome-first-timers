@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Sayantan Das  
+  Place: Kolkata, India  
+  Bio: student (CSE), B.Tech 1st year  
+  GitHub: [sayantanDs](https://github.com/sayantanDs)  
