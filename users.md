@@ -524,7 +524,7 @@
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
 
-  Name: Nilkamal Shah
+- Name: Nilkamal Shah
   Place: Navi Mumbai, India
   Bio: Enthusiast Software Engineer
   GitHub: [Nilkamal](https://github.com/Nilkamal) 
