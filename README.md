@@ -1,7 +1,6 @@
 # awesome-first-timers
 
-This is a place to contribute if you are a first timer. Contains people present in the world of open source.
-
+This is a place to contribute if you are a first timer.
 ## Details
 
 Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
