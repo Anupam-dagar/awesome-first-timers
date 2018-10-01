@@ -23,13 +23,16 @@ You can start by contributing to this awesome list, follow these simple steps to
 
 1. Star this repository
 2. Fork this repository
-3. Open `users.md` and enter details in the following format  
+3. Open `2018` create a new markdown file with your username  and enter details in the following format  
 ```
-   Name: "Your name here"  
-   Place: "Enter place here"  
-   Bio: "Enter about yourself here"  
-   Github: [Github username](github profile url)  
-   Facebook (optional): [Your name](facebook profile link)  
+# Introduction :sunglasses:
+**Name :name_badge:**:  "Your Name here"
+**Place :house:** : "Your Place here"  
+**Bio :mortar_board:**: "Enter about Yourself" 
+**GitHub :id:**: [".."](Your github profile url)  
+
+![Awesome](https://awesome.re/badge.svg)
+ 
 ```
    * make sure to give 2 whitespaces after each line.  
 4. Commit changes with a meaningful commit message like "Added "Your Name to users.md". 
@@ -47,16 +50,18 @@ You can start by contributing to this awesome list, follow these simple steps to
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clonelink.png)
 4. Change your directory.
    ```cd awesome-first-timers```  
-3. Open `users.md` and enter details in the following format  
+3. Open `2018` ,create a new markdown file with your username and enter details in the following format  
 ```
-   Name: "Your name here"  
-   Place: "Enter place here"  
-   Bio: "Enter about yourself here"  
-   Github: [Github username](github profile url)  
-   Facebook (optional): [Your name](facebook profile link)  
+ # Introduction :sunglasses:
+**Name :name_badge:**:  "Your Name here"
+**Place :house:** : "Your Place here"  
+**Bio :mortar_board:**: "Enter about Yourself" 
+**GitHub :id:**: [".."](Your github profile url)  
+
+![Awesome](https://awesome.re/badge.svg)
 ```
    * make sure to give 2 whitespaces after each line.  
-4. Commit changes with a meaningful commit message like "Added "Your Name to users.md".  
+4. Commit changes with a meaningful commit message like "Added "myself/your username".  
    ``` git add -A```  
    ``` git commit -m "Commit message here"``` (include double quotes)
 5. Push to repository  
