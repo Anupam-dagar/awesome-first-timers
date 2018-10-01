@@ -523,3 +523,10 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: kruk  
+  Place: West Yorkshire, UK  
+  Bio: Grumpy Web Developer.
+  GitHub: [rkruk](https://github.com/rkruk)  
+  Facebook: 
+  
