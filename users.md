@@ -523,3 +523,10 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+ 
+- Name: Sahil Garg  
+  Place: Bangalore, India  
+  Bio: student - 3rd year, Android Developer  
+  GitHub: [sahilgarg30](https://github.com/sahilgarg30)  
+  
