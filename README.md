@@ -56,7 +56,7 @@ You can start by contributing to this awesome list, follow these simple steps to
    Facebook (optional): [Your name](facebook profile link)  
 ```
    * make sure to give 2 whitespaces after each line.  
-4. Commit changes with a meaningful commit message like "Added "Your Name to users.md".  
+4. Commit changes with a meaningful commit message like "Added 'Your Name' to users.md".  
    ``` git add -A```  
    ``` git commit -m "Commit message here"``` (include double quotes)
 5. Push to repository  
