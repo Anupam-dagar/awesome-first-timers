@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Dylan Fontana
+  Place: Boston, MA
+  Bio: Software Engineer, Cat Enthusiast :)
+  GitHub: [dfontana](https:/github.com/dfontana)
