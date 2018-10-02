@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Zinken Jupp  
+  Place: Zinken, Austria  
+  Bio: I am a Idiot  
+  GitHub: [Zinkenjupp](https://github.com/zinkenjupp)  
+  
