@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+  - Name: Jônatas Pereira  
+  Place: Brasília, Brazil 
+  Bio: A guy that likes programming.  
+  GitHub: [jonatsp](https://github.com/jonatsp)  
+  Facebook: -  
