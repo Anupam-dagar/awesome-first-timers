@@ -1,4 +1,4 @@
-- Name: Igor de Souza  
+- Name: Igor aragao de Souza  
   Place: Dublin, Ireland  
   Bio: I am like a code  
   GitHub: [Igor Souza](https://github.com/igfasouza)    
