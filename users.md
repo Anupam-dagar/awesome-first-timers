@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Gemille Ford  
+  Place: Atlanta, Georgia  
+  Bio: Software Developer, mostly APIs in Ruby or Elixir  
+  GitHub: [rkstarnerd](https://github.com/rkstarnerd)  
