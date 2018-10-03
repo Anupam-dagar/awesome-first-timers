@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Giri Prasath
+  PLace: Hyderabad, India
+  Bio: Student
+  Github: https://github.com/giriprasath2000
