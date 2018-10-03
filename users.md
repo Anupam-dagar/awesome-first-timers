@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: John Rogers  
+  Place: Sydney, Australia  
+  Bio: iOS / Swift developer!  
+  GitHub: [johnrogers](https://github.com/johnrogers)  
