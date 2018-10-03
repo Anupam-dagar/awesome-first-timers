@@ -522,4 +522,10 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager) 
+  
+  Name: Divyanshu Mathpal
+  Place: Chandigarh, India
+  Bio: Programmer who loves to solve problems
+  Github: [grtcoder](https://github.com/grtcoder)
+  
