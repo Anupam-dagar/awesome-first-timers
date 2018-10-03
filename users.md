@@ -524,8 +524,8 @@
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager) 
   
-  Name: Divyanshu Mathpal
-  Place: Chandigarh, India
-  Bio: Programmer who loves to solve problems
-  Github: [grtcoder](https://github.com/grtcoder)
+  Name: Divyanshu Mathpal  
+  Place: Chandigarh, India  
+  Bio: Programmer who loves to solve problems  
+  Github: [grtcoder](https://github.com/grtcoder)  
   
