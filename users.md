@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Simon
+  Place: Melbourne, Australia
+  Bio: Failed Developer trying to turn pro
+  GitHub: [SMG999](https://github.com/SMG999)  
+
