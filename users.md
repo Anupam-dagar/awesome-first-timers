@@ -488,11 +488,11 @@
   Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
   GitHub: [Curchel](https://github.com/Curchel) 
 
-- Name: Tony Rodríguez
-  Place: Valencia, Spain
-  Bio: Web-Apps Development Student
+- Name: Tony Rodríguez  
+  Place: Valencia, Spain  
+  Bio: Web-Apps Development Student  
   Github: [tony3fk](https://github.com/tony3fk)  
-  Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
+  Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)  
   
 - Name: Yugansh Tyagi 
   Place: India  
@@ -517,9 +517,14 @@
 - Name: Dhairya Baweja  
   Place: Faridabad, India  
   Bio: student (IT), Btech Ist year  
-  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
+  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)  
 
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Farhan Oktavian  
+  Place: Jakarta, Indonesia  
+  Bio: Comp. science student with a lot to learn  
+  GitHub: [swaager](https://github.com/farhanoktvn)  
