@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Giulia Valente  
+  Place: Manaus, Brasil  
+  Bio: un chien andalou  
+  GitHub: [giu-lia](https://github.com/giu-lia)  
