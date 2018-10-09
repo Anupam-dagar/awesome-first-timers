@@ -1,6 +1,6 @@
 # awesome-first-timers
 
-This is a place to contribute if you are a first timer. Contains people present in the world of open source, check out some of the amazing users [here](http://www.anupamdagar.me/awesome-first-timers/users)
+This is a place to contribute if you are a first timer. Contains people present in the world of open source, check out some of the amazing users [here].(http://www.anupamdagar.me/awesome-first-timers/users)
 
 ## Details
 
@@ -21,8 +21,8 @@ You can start by contributing to this awesome list, follow these simple steps to
 
 ## Contributing to this repository:
 
-1. Star this repository
-2. Fork this repository
+1. Star this repository.
+2. Fork this repository.
 3. Open `users.md` and enter details in the following format  
 ```
    Name: "Your name here"  
@@ -37,8 +37,8 @@ You can start by contributing to this awesome list, follow these simple steps to
 6. Sit back and relax while your pull request is reviewed and merged.
 
 ## Using git to contribute to this repository  
-1. Star this repository
-2. Fork this repository
+1. Star this repository.
+2. Fork this repository.
 3. Clone this repository by clicking on green clone or download button and then copying the link given there.  
    Open your terminal(linux/mac) or git bash(windows) and write 
 
@@ -59,7 +59,7 @@ You can start by contributing to this awesome list, follow these simple steps to
 4. Commit changes with a meaningful commit message like "Added "Your Name to users.md".  
    ``` git add -A```  
    ``` git commit -m "Commit message here"``` (include double quotes)
-5. Push to repository  
+5. Push to repository.
    ```git push origin master```
 6. Create a pull request.
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/PR.png)
