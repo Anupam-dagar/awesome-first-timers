@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Gayathri Venkatesh
+  Place: Bangalore, India
+  Bio: First year Computer Science student from IIIT Bangalore.
+  GitHub: [GayathriVenkatesh](https://github.com/GayathriVenkatesh)
+
