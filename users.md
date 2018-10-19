@@ -522,4 +522,10 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager)
+  
+- Name: Dawid Michniuk
+  Place: Newcastle upon Tyne, United Kingdom
+  Bio: Student at northumbria university 
+  GitHub: [Dawid Michniuk](https://github.com/Fategas)    
+  Facebook:
