@@ -488,6 +488,11 @@
   Github: [tony3fk](https://github.com/tony3fk)  
   Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
   
+  - Name:  Kevin Borah  
+  Place:  Woodstock, GA, USA  
+  Bio:  I'm a front end web development student.  
+  GitHub:  [Kevin Borah](https://github.com/KevinBorah)
+  
 - Name: Yugansh Tyagi 
   Place: India  
   Bio: Androdid Developer  
