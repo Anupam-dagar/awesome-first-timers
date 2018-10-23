@@ -522,4 +522,9 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager) 
+
+- Name: Harshit Agarwal  
+  Place: Allahabad, India  
+  Bio: Beginner  
+  GitHub: [mysterious19](https://github.com/mysterious19)  
