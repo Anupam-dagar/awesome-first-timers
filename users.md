@@ -524,7 +524,7 @@
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
 
-- Name: Keegan Lawley  
-   Place: Panama City, FL  
-   Bio: Web dev, college senior 
-   Github: [keeganl](https://github.com/keeganl)  
+- Name: Keegan Lawley 
+  Place: Panama City, FL  
+  Bio: College senior   
+  GitHub: [keeganl](https://github.com/keeganl) 
