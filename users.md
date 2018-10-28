@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Sagar Utekar
+  Place: Pune, India 
+  Bio: GSLAB, Pune  
+  GitHub: [Sagar2366](https://github.com/Sagar2366)
