@@ -498,8 +498,8 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-- Name: Amol  
+- Name: Aman Kumar  
   Place: Chandigarh, India  
-  Bio: iOS Developer.  
+  Bio: iOS Developer and UI Designer.  
   GitHub: [Rockindash](https://github.com/Rockindash)
   
