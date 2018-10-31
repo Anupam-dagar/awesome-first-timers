@@ -1,3 +1,9 @@
+- Name: Suraj Branwal
+  Place: Delhi, India  
+  Bio: I am an enthusiast for technology  
+  GitHub: [Suraj Branwal](https://github.com/brandier-jd)    
+  Facebook: [Suraj Branwal](https://www.facebook.com/surya.brandier)
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
