@@ -43,6 +43,12 @@
   Bio: Code once, run anywhere.  
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
+  
+- Name: James George <br>
+  Place: Kerala, India <br>
+  Bio: Full Stack Web Developer, Android Developer, Pen Tester, Youtuber, Blogger. <br>
+  Github: [jamesgeorge007](https://www.github.com/jamesgeorge007) <br>
+  Facebook: [James George](https://www.facebook.com/jamesgeorge9801)
 
 - Name: Alexander Yalchik  
   Place: Zhlobin, Belarus  
@@ -502,3 +508,23 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Elaine Mary Rose  
+  Place: Allahabad, India  
+  Bio: Developer under development.   
+  GitHub: [Elaine Mary Rose](https://github.com/stickberry) 
+  
+- Name: Lekhika Dugtal 
+  Place: Delhi, India  
+  Bio: Sophomore   
+  GitHub: [Alastair7](https://github.com/Alastair7)  
+  
+- Name: Dhairya Baweja  
+  Place: Faridabad, India  
+  Bio: student (IT), Btech Ist year  
+  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
+
+- Name: Vivek Raj  
+  Place: Allahabad, India  
+  Bio: Worst Web Developer  
+  GitHub: [swaager](https://github.com/swaager)  
