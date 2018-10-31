@@ -1,9 +1,5 @@
 # awesome-first-timers
-This is a place to contribute if you are a first timer. Contains people present in the world of open source, check out some of the amazing users [here](http://www.anupamdagar.me/awesome-first-timers/users)
-
-## Details
-Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
-You can start by contributing to this awesome list, follow these simple steps to make your first successful PR.  
+This is a place to contribute if you are a first timer. Contains people present in the world of open source, check out some of theg to this awesome list, follow these simple steps to make your first successful PR.  
 
 ## Steps:
 1. Installation of required tools:
