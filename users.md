@@ -51,6 +51,12 @@
   GitHub: [Alexander Yalchik](https://github.com/OMGHaveFun)  
   Facebook: -  
 
+- Name: Konrad Gladala  
+  Place: London, England  
+  Bio: I like to learn about coding.   
+  GitHub: [Konrad Gladala](https://github.com/TowarzyszBroni)  
+  Facebook:  
+
 - Name: Hui Chng  
   Place: Singapore  
   Bio: alert('web developer')  
