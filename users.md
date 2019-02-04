@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -261,6 +261,12 @@
   Place: United States
   Bio: Infosec Student and IT guy
   GitHub: [christensenea](https://github.com/Christensenea)
+  Facebook:
+
+- Name: Shriram Bhat
+  Place: Bangalore,India
+  Bio: Biologist and mechanical engineer in BITS Pilani, open source enthusiast
+  GitHub: [s-bhat99](https://github.com/s-bhat99)
   Facebook:
 
 - Name: Alice Chuang
