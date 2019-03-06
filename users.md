@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+  - Name: Rohit Sharma
+  Place: Allahabad, India  
+  Bio: Best Web Developer  
+  GitHub: [swaager](https://github.com/sandy24998) 
