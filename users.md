@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Bruno Matthaus  
+  Place: Amazonas, Brazil  
+  Bio: Wannabe UE4 developer  
+  GitHub: [bmatthaus](https://github.com/bmatthaus)  
+  
