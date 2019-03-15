@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Nicky 
+  Place: Perth, Australia
+  Bio: Unemployed :(
+  GitHub: [whysogreen](https://github.com/whysogreen)
