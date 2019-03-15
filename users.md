@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+   Name: "Frog Princess"  
+   Place: "Pentagon's Universe"  
+   Bio: "Code and music hobbyist currently digging Portia Monique and Pentagon tracks"  
+   Github: [H8ToDoThis](https://github.com/H8ToDoThis)  
