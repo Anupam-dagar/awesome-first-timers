@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+  - Name: Yugesh Baral
+    Place: Bhaktapur, Nepal  
+    Bio: Innovative developer  
+    GitHub: [yogibrl](https://github.com/yogibrl)  
