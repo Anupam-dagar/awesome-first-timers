@@ -22,6 +22,11 @@
   Github: [Ashish Gautam](https://github.com/gautam2705)  
   Facebook: [Ashish Gautam](https://www.facebook.com/gautam2705)  
 
+- Name:  Björn Hjorth 
+  Place: Sweden
+  Bio: I code there for I am Pickel Rick  
+  GitHub: [Björn Hjorth](https://github.com/kaffesumpen)  
+
 - Name:  Himanshi-Khandelwal  
   Place: Jaipur,India  
   Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.  
