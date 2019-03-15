@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Ananye Agarwal
+  Place: New Delhi, India
+  Bio: Noobiest noob you can find anywhere
+  GitHub: [anag004](https://github.com/anag004)
