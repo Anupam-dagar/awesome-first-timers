@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -20,7 +20,13 @@
   Place: Delhi, India  
   Bio: I am 4th year B.tech student. I like to code and play minesweeper. I also like pizza.  
   Github: [Ashish Gautam](https://github.com/gautam2705)  
-  Facebook: [Ashish Gautam](https://www.facebook.com/gautam2705)  
+  Facebook: [Ashish Gautam](https://www.facebook.com/gautam2705)
+
+- Name: Stupy spyy
+  Place: Kalyani,India
+  Bio: I am just starting with smiling ('!')
+  Github: [Stupy Spyy](https://github.com/Stupyspyy)
+  Facebook: [Pratik Sagar]  
 
 - Name:  Himanshi-Khandelwal  
   Place: Jaipur,India  
