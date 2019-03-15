@@ -519,6 +519,11 @@
   Bio: student (IT), Btech Ist year  
   GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
 
+- Name: Pulkit Jaroli  
+  Place: Mumbai, India  
+  Bio: student (IT), Btech 3rd year  
+  GitHub: [pjaroli31](https://github.com/pjaroli31)
+
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
