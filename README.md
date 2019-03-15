@@ -4,7 +4,7 @@ This is a place to contribute if you are a first timer. Contains people present 
 
 ## Details
 
-Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
+Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute in.  
 You can start by contributing to this awesome list, follow these simple steps to make your first successful PR.  
 
 ## Steps:
