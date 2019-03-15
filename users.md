@@ -328,6 +328,11 @@
   Place: India  
   Bio: Android Developer, Btech in IT
   Github: [bipinkumar919](https://github.com/bipinkumar919)
+  
+  - Name: Bipin Lala  
+  Place: Delhi, India  
+  Bio: Eat, sleep, code, repeat
+  Github: [BipinLala](https://github.com/BipinLala)
 
 - Name: Abhishek Tiwari
   Place: India
