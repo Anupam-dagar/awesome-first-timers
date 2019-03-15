@@ -523,3 +523,11 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: John Lewis
+
+  Place: Florida, USA
+  
+  Bio: Aspiring Developer
+  
+  GitHub: [theStaBita](https://github.com/theStaBita)  
