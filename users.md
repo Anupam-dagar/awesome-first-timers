@@ -498,7 +498,12 @@
   Place: India  
   Bio: Androdid Developer  
   Github: [YuganshT79](https://github.com/YuganshT79) 
-
+ 
+ - Name: Naduni Jayaweera     
+  Place: Katugasthota, Sri Lanka     
+  Bio: I am like a code under development   
+  GitHub: [nadunij](https://github.com/nadunij)     
+  
 - Name: Udit  
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
