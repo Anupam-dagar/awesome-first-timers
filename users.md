@@ -1,3 +1,8 @@
+- Name: Tony Moraes
+  Place: Paraiba, Brazil
+  Bio: I am a Software Engineer in the middle of the way.
+  GitHub: [tonylds1](https://github.com/tonylds1)
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
