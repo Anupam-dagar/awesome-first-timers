@@ -499,6 +499,11 @@
   Bio: Androdid Developer  
   Github: [YuganshT79](https://github.com/YuganshT79) 
 
+- Name: Throw Error
+  Place: Brazil  
+  Bio: Web Developer  
+  Github: [throwerror](https://github.com/throwerror)
+
 - Name: Udit  
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
