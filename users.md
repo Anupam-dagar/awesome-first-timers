@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+
+- Name: Jimoh Muheez  
+  Place: Lagos, Nigeria  
+  Bio:  Software Developer  
+  GitHub: [dmaaj](https://github.com/dmaaj) 
