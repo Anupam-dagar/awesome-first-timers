@@ -10,6 +10,10 @@
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
 
+- Name: Rajesh Mangal
+  Place: Earth
+  Bio: Nerd
+  Github: [androidtestuser](https://github.com/androidtestuser)
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
