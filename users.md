@@ -192,7 +192,7 @@
   GitHub: [Pratyum](https://github.com/Pratyum)
 
 - Name   : Ahmad Basir  
-  Place  : Semarang, Indonesia  
+  Place  : Semarang, Jawa Tengah, Indonesia  
   Bio    : Designer | Backend Developers | [Dinus Open Source Community](https://doscom.org)  
   GitHub : [ahmadbasir](https://github.com/ahmadbasir)  
 
