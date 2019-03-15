@@ -85,7 +85,13 @@
   Place: Germany  
   Bio: IT-Student   
   GitHub: [john2ksonn](https://github.com/john2ksonn)  
-  Facebook:  
+  Facebook: 
+  
+- Name: Manggala City 
+  Place: Indonesia 
+  Bio: Student  
+  GitHub: [ManggalaCity](https://github.com/ManggalaCity)  
+  Facebook:
 
 - Name: Rahul Bishnoi
   Place: Hyderabad, India  
