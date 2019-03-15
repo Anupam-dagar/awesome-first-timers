@@ -205,8 +205,13 @@
 - Name: Eric Dunsworth  
   Place: Salt Lake City, UT  
   Bio: Web Developer | Tech Support  
-  GitHub: [ericduns](https://github.com/ericduns)  
-
+  GitHub: [ericduns](https://github.com/ericduns) 
+  
+- Name: Ka Yue  
+  Place: Los Angeles, California
+  Bio: Pharm.D. student, gamer, basketball player  
+  Github: [riceballmachine](https://github.com/riceballmachine)   
+  
 - Name: Katja Sostar  
   Place: Austria  
   Bio: Spaghetti coder and designer  
