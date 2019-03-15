@@ -1,3 +1,9 @@
+-  Name: Sorokin Ruslan  
+   Place: Barnaul, Russian Federation
+   Bio: I want a shirt, but I'm an admin and not a programmer :)  
+   Github: [PufonBarn](https://github.com/PufonBarn)  
+   Facebook: [Ruslan Sorokin](https://www.facebook.com/pufon)  
+   
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
