@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: vysor  
+  Place: Australia  
+  Bio: Cyber Security student, MDM engineer  
+  GitHub [vysor](https://github.com/vysor)  
+  Note: My good projects are private ;)  
