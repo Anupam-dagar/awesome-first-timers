@@ -9,6 +9,12 @@
   Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
+  
+- Name:  Pannatorn Supharatnodom 
+  Place: Bangkok, Thailand
+  Bio:  I am an Android developer  
+  GitHub: [Leaderdevil](https://github.com/leaderdevil)  
+  Facebook:
 
 - Name:  Arpit Batra  
   Place: Dehradun, India  
