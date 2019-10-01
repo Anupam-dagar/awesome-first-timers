@@ -249,7 +249,12 @@
   Place: Cape Town, South Africa  
   Bio: Mobile (Android + iOS) Developer  
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
-  Facebook:     
+  Facebook:  
+  
+- Name: Ishitha Agarwal   
+  Place: Banagalore, India   
+  Bio: Backend Dev and CS Undergrad   
+  GitHub: [ishi20](https://github.com/ishi20)    
 
 - Name: Soumam Banerjee  
   Place: Durgapur,India  
