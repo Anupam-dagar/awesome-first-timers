@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Shivani   
+  Place: India   
+  Bio: I like working out  
+  GitHub: [Shivani](https://github.com/BishtShivani)   
