@@ -1,17 +1,17 @@
 # awesome-first-timers
 
-This is a place to contribute if you are a first timer. Contains people present in the world of open source, check out some of the amazing users [here](http://www.anupamdagar.me/awesome-first-timers/users)
+This is a place to contribute if you are a first time contributer to the field of Open-Source. Contains people present in the world of open source, check out some of the amazing users [here](http://www.anupamdagar.me/awesome-first-timers/users)
 
 ## Details
 
-Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
+Hi there, if you are reading this then you are probably new to open source and are looking for some issues to contribute to.  
 You can start by contributing to this awesome list, follow these simple steps to make your first successful PR.  
 
 ## Steps:
 
 1. Installation of required tools:
 * git
-* any IDE of your choice (for ex. sublime text and atom)
+* any IDE of your choice (for ex. sublime text or atom)
 
 ### Installing git:
 
@@ -42,7 +42,7 @@ You can start by contributing to this awesome list, follow these simple steps to
 ## Using git to contribute to this repository  
 1. Star this repository
 2. Fork this repository
-3. Clone this repository by clicking on green clone or download button and then copying the link given there.  
+3. Clone this repository by clicking on green 'clone or download' button and then copying the link given there.  
    Open your terminal(linux/mac) or git bash(windows) and write 
 
    ```git clone https://github.com/Anupam-dagar/awesome-first-timers.git```  
