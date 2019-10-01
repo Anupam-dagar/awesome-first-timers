@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Anshul Arora
+  Place: Chandigarh,India
+  BIo: Front and Back end developer
+  GitHub:[Anshul1342](https://github.com/Anshul1342)
