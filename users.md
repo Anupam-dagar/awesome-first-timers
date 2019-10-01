@@ -488,6 +488,11 @@
   Github: [tony3fk](https://github.com/tony3fk)  
   Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
   
+- Name: Aarshi Chourasia
+  Place: India
+  Bio: Full-Stack Developer
+  Github: [aarshic](https://github.com/aarshic)
+
 - Name: Yugansh Tyagi 
   Place: India  
   Bio: Androdid Developer  
