@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Miyuru Thathsara
+  Place: Jurong West, Singapore  
+  Bio: Engineering Undergraduate
+  GitHub: [swaager](https://github.com/MiyuruThathsara)
