@@ -1,3 +1,9 @@
+- Name: Shubham Kumar       
+  Place: Chandigarh, India         
+  Bio: A Software Artist!          
+  GitHub: [Shubham Kumar](https://github.com/imskr)     
+  Facebook: [Shubham Kumar](https://www.facebook.com/iamskr01)
+  
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
