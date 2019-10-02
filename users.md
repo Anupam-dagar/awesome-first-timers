@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Abhinav Bharti
+  Place: Greater Noida, India
+  Bio: CSE Undergraduate
+  GitHub: [Abhinav](https://github.com/abhinav23484)
