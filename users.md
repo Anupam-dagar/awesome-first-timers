@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Jovan Ferryal
+  Place: Jakarta, Indonesia  
+  Bio: ZERS was here! 
+  GitHub: [Jovanzers](https://github.com/jovanzers)
