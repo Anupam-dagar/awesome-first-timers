@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Ahmad Fauzan  
+  Place: Bekasi, Indonesia  
+  Bio: Web Developer  
+  GitHub: [fauzan264](https://github.com/fauzan264)
+
