@@ -1,9 +1,9 @@
 
 # Introduction :sunglasses:
-**Name :name_badge:**:  Lekhika Dugtal  
-**Place :house:** : New Delhi  
-**Bio :mortar_board:**: Indian Insititute of Information Technology Allahabad ,Information Technology  
-**GitHub :id:**: [This is Lekhika Dugtal](https://github.com/CleverFool77)  
+**Name :name_badge:**:  Shubham Gupta 
+**Place :house:** : Kota 
+**Bio :mortar_board:**: Indian Insititute of Technology, Kanpur 
+**GitHub :id:**: [This is Shubham Gupta](https://github.com/phinum)  
 
 ![Awesome](https://awesome.re/badge.svg)
 
