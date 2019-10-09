@@ -26,9 +26,9 @@ You can start by contributing to this awesome list, follow these simple steps to
 3. Open `2018` create a new markdown file with your username  and enter details in the following format  
 ```
 # Introduction :sunglasses:
-**Name :name_badge:**:  "Your Name here"
+**Name :name_badge:**:  "Your Name here"  
 **Place :house:** : "Your Place here"  
-**Bio :mortar_board:**: "Enter about Yourself" 
+**Bio :mortar_board:**: "Enter about Yourself"  
 **GitHub :id:**: [".."](Your github profile url)  
 
 ![Awesome](https://awesome.re/badge.svg)
@@ -43,7 +43,7 @@ You can start by contributing to this awesome list, follow these simple steps to
 1. Star this repository
 2. Fork this repository
 3. Clone this repository by clicking on green clone or download button and then copying the link given there.  
-   Open your terminal(linux/mac) or git bash(windows) and write 
+   Open your terminal(linux/mac) or git bash(windows) and type 
 
    ```git clone https://github.com/Anupam-dagar/awesome-first-timers.git```  
 ![Image of clone button](https://raw.githubusercontent.com/Anupam-dagar/awesome-first-timers/master/img/clone.png)  
@@ -53,9 +53,9 @@ You can start by contributing to this awesome list, follow these simple steps to
 3. Open `2018` ,create a new markdown file with your username and enter details in the following format  
 ```
  # Introduction :sunglasses:
-**Name :name_badge:**:  "Your Name here"
+**Name :name_badge:**:  "Your Name here"  
 **Place :house:** : "Your Place here"  
-**Bio :mortar_board:**: "Enter about Yourself" 
+**Bio :mortar_board:**: "Enter about Yourself"  
 **GitHub :id:**: [".."](Your github profile url)  
 
 ![Awesome](https://awesome.re/badge.svg)
