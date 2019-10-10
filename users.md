@@ -522,4 +522,9 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager) 
+  
+- Name: Mochamad Putera Pamungkas  
+  Place: Bandung, Indonesia  
+  Bio: Web Developer & Graphic Design 
+  GitHub: [swaager](https://github.com/mputerapamungkas) 
