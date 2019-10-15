@@ -526,5 +526,5 @@
 
 - Name:  Brenden Thornton  
   Place: Denver, Colorado
-  Bio:  Ruby on Rails Developer
+  Bio:  Rails Developer
   GitHub: [bthornton505](https://github.com/bthornton505)  
