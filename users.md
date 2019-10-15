@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Nick
+  Place: Florida, USA
+  Bio: Cloud Security Engineer
+  GitHub: [micknoy](https://github.com/micknoy)
