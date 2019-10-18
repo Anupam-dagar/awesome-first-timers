@@ -319,5 +319,5 @@ profiles:
 -
     Name: 'Tess105'
     Place: 'Taiwan, I-Lan'
-    Bio: 'Cat lover, Purchase Specialist, gamer, code learner'
+    Bio: git commit -m "init commit"'Cat lover, Purchase Specialist, gamer, code learner'
     Github: 'https://github.com/tess10553'
