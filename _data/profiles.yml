@@ -316,3 +316,8 @@ profiles:
     Place: 'Massachusetts, USA'
     Bio: 'Self taught coder & a Student of Life'
     GitHub: 'https://github.com/zotamias'
+-
+    Name: 'Tess105'
+    Place: 'Taiwan, I-Lan'
+    Bio: git commit -m "init commit"'Cat lover, Purchase Specialist, gamer, code learner'
+    Github: 'https://github.com/tess10553'
