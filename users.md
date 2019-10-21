@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: blazinggun 
+  Place: Pittsburgh, USA
+  Bio: SWE New Grad
+  GitHub: [blazingun](https://github.com/blasttrash)  
