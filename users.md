@@ -522,4 +522,9 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager)
+  
+- Name: Pratham Sharma  
+  Place: Delhi, India  
+  Bio: Still learning  
+  GitHub: [prathamsharma92](https://github.com/prathamsharma92)
