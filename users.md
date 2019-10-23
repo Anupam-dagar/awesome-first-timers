@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Aman Thakur   
+  Place: New Delhi, India  
+  Bio:  Web Developer  
+  GitHub: [aman](https://github.com/aman-thakur123)  
