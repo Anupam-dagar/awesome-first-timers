@@ -522,4 +522,9 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager)
+  
+  - Name: Rafi Firmansyah  
+  Place: Jakarta, Indonesia  
+  Bio: Worst Web Developer  
+  GitHub: [rafifirmansyah](https://github.com/rafifirmansyah)
