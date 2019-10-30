@@ -523,3 +523,7 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Metalshad0w  
+  Place: Sao Paulo, Brasil  
+  Bio: Developer.
