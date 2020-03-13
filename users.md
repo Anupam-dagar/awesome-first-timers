@@ -528,6 +528,6 @@
   **Name :name_badge:**:  "Sourav Verma"
   **Place :house:** : "India"  
   **Bio :mortar_board:**: "Texas Tech University"
-  **GitHub :id:**: ["Hello World !!"](https://github.com/souravverma94)  
+  **GitHub :id:**: ["souravverma94"](https://github.com/souravverma94)  
 
   ![Awesome](https://awesome.re/badge.svg)
