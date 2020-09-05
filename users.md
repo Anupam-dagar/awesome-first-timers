@@ -524,7 +524,7 @@
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
   
-  Name:  Sadeep Nanda  
+- Name:  Sadeep Nanda  
   Place: Odisha,India  
   Bio: I am an aspiring software developer.  
   GitHub:Sadeep Nanda  
