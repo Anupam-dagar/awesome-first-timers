@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name:M M Kishore  
+  Place: Tirunelveli, India  
+  Bio: An engineering undergraduate exploring the world of computers  
+  GitHub:[M2kishore](https://github.com/M2kishore)  
