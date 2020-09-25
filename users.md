@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+ 
+- Name: Mohd Avesh Farooqui  
+  Place: Allahabad, India  
+  Bio: Full Stack Web Developer  
+  GitHub: [avesh07a](https://github.com/avesh07a)  
