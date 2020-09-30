@@ -7,3 +7,11 @@
 
 ![Awesome](https://awesome.re/badge.svg)
 
+# Introduction :sunglasses:
+**Name :name_badge:**:  Souryatanu Saha
+**Place :house:** : Durgapur
+**Bio :mortar_board:**: Student at National Institute of Technology, Durgapur
+**GitHub :id:**: [Souryatanu Saha](https://github.com/souryatanu)
+
+![Awesome](https://awesome.re/badge.svg)
+ 
