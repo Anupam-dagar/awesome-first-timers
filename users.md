@@ -263,6 +263,12 @@
   GitHub: [christensenea](https://github.com/Christensenea)
   Facebook:
 
+- Name: Atharva Gulhane
+  Place: India
+  Bio: Computer Science Enggineering Student
+  GitHub: [atharvarockx](https://github.com/atharvarockx)
+  Facebook:
+
 - Name: Alice Chuang
   Place: New York City, NY, USA
   Bio: Front-End UI Engineer
