@@ -251,6 +251,12 @@
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
   Facebook:     
 
+- Name: Atharva Gulhane
+  Place: India
+  Bio: Computer Science Enggineering Student
+  GitHub: [atharvarockx](https://github.com/atharvarockx)
+  Facebook:
+  
 - Name: Soumam Banerjee  
   Place: Durgapur,India  
   Bio: Open Source Enthusiast, Btech at NIT Durgapur  
@@ -263,11 +269,6 @@
   GitHub: [christensenea](https://github.com/Christensenea)
   Facebook:
 
-- Name: Atharva Gulhane
-  Place: India
-  Bio: Computer Science Enggineering Student
-  GitHub: [atharvarockx](https://github.com/atharvarockx)
-  Facebook:
 
 - Name: Alice Chuang
   Place: New York City, NY, USA
