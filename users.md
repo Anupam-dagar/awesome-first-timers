@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+  Name: Tanushree Bhattacharya
+  Place: Kolkata, India
+  Bio: Sophomore(B.Tech 1st year)
+  GitHub: [tanu272](https://github.com/tanu272)
