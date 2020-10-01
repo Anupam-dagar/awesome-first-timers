@@ -523,3 +523,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+  
+- Name: Bittu Tiwari  
+  Place: Bihar, India  
+  Bio:  Developer  
+  GitHub: [Hactober-Boy](https://github.com/Hactober-Boy/Hactober-Boy) 
