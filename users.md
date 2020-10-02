@@ -530,3 +530,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Flavia 
+  Place: Lynnwood, Washington  
+  Bio: Aspiring Web Developer  
+  GitHub: [flaviamedici](https://github.com/flaviamedici)  
+
