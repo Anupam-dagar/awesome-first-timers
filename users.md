@@ -1,3 +1,8 @@
+- Name: Gokul Kp
+  Place: Trivandrum,Kerala,India
+  Bio: Computer science and Engineering Graduate , web developer and a tech enthusiast
+  Github:[Gokul kp](https://github.com/gokulkpkp7)
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
