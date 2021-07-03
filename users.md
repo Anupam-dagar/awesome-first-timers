@@ -530,3 +530,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Christine Tu  
+  Place: California, USA
+  Bio: Junior Software Developer
+  GitHub: [christinetu](https://github.com/christinetu)  
