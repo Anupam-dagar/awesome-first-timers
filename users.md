@@ -1,8 +1,14 @@
+﻿- Name: Aekansh Dixit  
+  Place: Bengaluru, India  
+  Bio: [http://aekansh.in/](http://aekansh.in/) for mood swings. :)  
+  GitHub: [Aekansh Dixit](https://github.com/aekanshd)    
+  Facebook: [Aekansh Dixit](https://www.facebook.com/aekanshdixit)
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
-  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)   
 
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
