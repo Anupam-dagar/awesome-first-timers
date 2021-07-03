@@ -530,3 +530,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Ravindra Meena  
+  Place: Jaipur, India  
+  Bio: Computer Science & Engineering Student  
+  GitHub: [rmeena840](https://github.com/rmeena840)
