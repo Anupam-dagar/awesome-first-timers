@@ -10,6 +10,12 @@
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
 
+- Name:  Yash Agrawal  
+  Place: IIT Mandi, Himachal Pradesh, India  
+  Bio: I am the co-ordinator of programming club at IIT Mandi.  
+  GitHub: [Yash Agrawal](https://github.com/YashAgrawal0)  
+  Facebook: [Yash Agrawal](https://www.facebook.com/yash.agrawal.1610)  
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
