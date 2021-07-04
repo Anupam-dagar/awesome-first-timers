@@ -530,3 +530,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Gabriel Parker  
+  Place: Singapore
+  Bio: Dev =)  
+  GitHub: [araihobc1234](https://github.com/araihobc1234)  
+  
