@@ -1,3 +1,9 @@
+- Name: dumblole
+  Place: USA
+  Bio: Coding is cool
+  Github: [dumblole](https://github.com/dumblole)
+  Facebook:
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
