@@ -530,3 +530,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: "Your name here"  
+  Place: "Enter place here"  
+  Bio: "Enter about yourself here"  
+  Github: [mariush2](https://github.com/mariush2)  
