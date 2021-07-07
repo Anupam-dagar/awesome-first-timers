@@ -321,11 +321,17 @@
   Bio: Computer Software Engineering Student
   Github: [colelabar](https://github.com/colelabar)   
 
+- Name: Priya Gaire  
+  Place:  Nepal  
+  Bio: Passionate on Technology  
+  Github: [priyagaire](https://github.com/priyagaire)  
+ 
+
 - Name: Priyansh Agrawal  		
   Place: Hyderabad , India  		
   Bio: I am an enthusiast for web development and nlp  		
   GitHub: [priyansh2](https://github.com/Priyansh2) 
- 
+
 - Name: Patrick Stephens  
   Place: USA  
   Bio: Professional Geek  
