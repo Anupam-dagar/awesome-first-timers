@@ -530,3 +530,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Akshatha Laxmi   
+  Place: Bangalore, India   
+  Bio: I do not like front end. -_-   
+  GitHub: [alastairmoody-madeye](https://github.com/alastairmoody-madeye)   
+  
