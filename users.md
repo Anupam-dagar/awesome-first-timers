@@ -530,3 +530,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Azmi Faiz 
+  Place: Depok, Indonesia  
+  Bio: I am 3th year B.tech student. I like to code and play football. I also like beefburger.  
+  Github: [AzmiFaiz](https://github.com/azmifaiz)  
+  Facebook: [Azmy Faiz](https://www.facebook.com/azmifaiz.h)  
