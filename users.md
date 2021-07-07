@@ -511,6 +511,13 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
 
+  
+-  Name: Divyansh Tripathi  
+   Place: India 
+   Bio: New kid on the block 
+   Github: [silent-lad](https://github.com/silent-lad) 
+
+
 - Name: Elaine Mary Rose  
   Place: Allahabad, India  
   Bio: Developer under development.   
@@ -530,3 +537,4 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
