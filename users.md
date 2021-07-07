@@ -529,4 +529,9 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager)
+
+- Name: "Vaibhav Agarwal"
+  Place: "Jaipur, India"
+  Bio: "4th year at IIT Mandi"
+  Github: [vaibhavagarwal220](https://github.com/vaibhavagarwal220)
