@@ -1,3 +1,9 @@
+- Name: Cami Carballo
+  Place: South Bend, IN, USA | Miami, FL, USA
+  Bio: Programmer | Nerd | Bookworm
+  GitHub: [Cami Carballo](https://github.com/camicarballo)
+  Facebook:
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
