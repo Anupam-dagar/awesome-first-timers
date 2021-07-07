@@ -530,3 +530,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+ 
+ Name: Aziz Muslim
+ Place:Vellore  
+ Bio: I love coding   
+ Github: [Aziz-Vohra](https://github.com/Aziz-Vohra)  
+  
