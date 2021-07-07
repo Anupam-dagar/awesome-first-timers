@@ -1,3 +1,9 @@
+
+- Name: Randy Le
+  Place: Ontario, California
+  Bio: Studnet at CSUF
+  GitHub: [Randy Le] (https://github.com/RandyKoiSA)
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
