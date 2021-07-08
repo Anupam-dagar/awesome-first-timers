@@ -169,6 +169,11 @@
   Bio: Open Source and Programming Enthusiast.  
   GitHub: https://github.com/PronomitaDey  
 
+- Name: Glen Johnson
+  Place: Spokane, Washington, USA
+  Bio: Open Source and Programming Enthusiast.
+  GitHub: [Glen Johnson](https://github.com/johnsonglent)  
+
 - Name: Ayush Anand  
   Place: Hyderabad,India  
   Bio: Tech enthusiast  
