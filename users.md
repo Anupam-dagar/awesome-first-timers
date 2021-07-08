@@ -519,7 +519,12 @@
 - Name: Lekhika Dugtal 
   Place: Delhi, India  
   Bio: Sophomore   
-  GitHub: [Alastair7](https://github.com/Alastair7)  
+  GitHub: [Alastair7](https://github.com/Alastair7)
+  
+  - Name: Veerangana Dash 
+  Place: Odisha, India  
+  Bio: Web developer, IoT developer.   
+  GitHub: [Veerangana-Dash](https://github.com/Veerangana-Dash)
   
 - Name: Dhairya Baweja  
   Place: Faridabad, India  
