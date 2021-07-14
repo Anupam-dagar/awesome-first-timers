@@ -530,3 +530,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: muhammad aditya nurdin  
+  Place: Jakarta , Indonesia 
+  Bio: Fullstack developer  
+  GitHub: [adityanurdin](https://github.com/adityanurdin)  
