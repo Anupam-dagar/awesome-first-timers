@@ -356,6 +356,11 @@
   Bio: Teacher
   Github:[alexandrawr1987](https://github.com/Alexandrawr1987)
 
+- Name: Elijah Kim
+  Place: Chicago
+  Bio: beginner programmer
+  Github: [sorakayy](https://github.com/sorakayy)
+
 - Name: David Y.  
   Place: USA  
   Bio: Developer  
