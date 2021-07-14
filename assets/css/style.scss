@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+*{
+  padding: 0px;
+  margin : 0px;
+}
+
 .users {
   width: 850px;
 }
