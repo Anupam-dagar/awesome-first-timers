@@ -1,3 +1,9 @@
+- Name: Faouzi Amrou  
+  Place: Algiers, Algeria  
+  Bio: Fullstack Web Dev  
+  GitHub: [Anupam Dagar](https://github.com/fouzi1995)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/fouzinho.19)  
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
