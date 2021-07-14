@@ -38,7 +38,7 @@
   Bio: Code once, run anywhere.  
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
-  
+
 - Name: James George <br>
   Place: Kerala, India <br>
   Bio: Full Stack Web Developer, Android Developer, Pen Tester, Youtuber, Blogger. <br>
@@ -324,8 +324,8 @@
 - Name: Priyansh Agrawal  		
   Place: Hyderabad , India  		
   Bio: I am an enthusiast for web development and nlp  		
-  GitHub: [priyansh2](https://github.com/Priyansh2) 
- 
+  GitHub: [priyansh2](https://github.com/Priyansh2)
+
 - Name: Patrick Stephens  
   Place: USA  
   Bio: Professional Geek  
@@ -364,7 +364,7 @@
 - Name: Mayank Saxena
   Place: India
   Bio: Student Developer
-  Github: [mayank26saxena](https://github.com/mayank26saxena) 
+  Github: [mayank26saxena](https://github.com/mayank26saxena)
 
 - Name: Rajat Goyal
   Place: India
@@ -380,7 +380,7 @@
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
-  Facebook: 
+  Facebook:
 
 - Name: Raneesh Gomez    
   Place: Colombo, Sri Lanka    
@@ -397,7 +397,7 @@
 - Name: Tobias M.
   Place: Germany
   Bio: 13 y/o
-  Github: [tobimori](https://github.com/tobimori) 
+  Github: [tobimori](https://github.com/tobimori)
 
 - Name: Matteo Biagetti  
   Place: Rome, Italy  
@@ -405,7 +405,7 @@
   [StackOwerflow](https://stackoverflow.com/users/2270041/matteo?tab=profile) Enthusiast!
   GitHub: [mbiagetti](https://github.com/mbiagetti)  
   Facebook:  
-  
+
 - Name: Saumeya Katyal  
   Place: Pune, Maharashtra, India  
   Bio: I am a Computer Science student who loves to write code and learn new things about technology.  
@@ -416,7 +416,7 @@
   Place: Bangkok, Thailand
   Bio: Fullstack web developer from land of smile :)
   GitHub: [nonintanon](https://github.com/nonintanon)
-  
+
 - Name:  Amir Djema  
   Place: Nicosia, Cyprus  
   Bio: Father of two, husband, and geek  by default.  
@@ -445,7 +445,7 @@
   Place: Sri Lanka
   Bio: Student Developer/Graphic Designer
   GitHub: [DillonLakshman](https://github.com/DillonLakshman)
-  
+
 - Name: Arpit Gogia  
   Place: Delhi, India  
   Bio: Engineering student, Python Developer  
@@ -456,7 +456,7 @@
   Bio: Student, Web developer
   Github: [subhamtandon](https://github.com/subhamtandon)
   Facebook: [Subham Tandon](https://www.facebook.com/profile.php?id=100008867413038)
-  
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
@@ -467,8 +467,8 @@
   Place: Poznan, PL  
   Bio: I am junior Front-End Developer, making my first steps in front end world.
   GitHub: [KRdoubleL](https://github.com/KRdoubleL)  
-  Facebook: 
-  
+  Facebook:
+
 - Name: Tanmay Mohan  
   Place: New Delhi, India  
   Bio: Student | WebDev fan | Open Source newbie | Networking and sysadmin enthusiast  
@@ -484,27 +484,27 @@
   Place: Colombo, Sri Lanka  
   Bio: Software Engineering Undergraduate
   GitHub: [suleka96](https://github.com/suleka96)  
-  
+
 - Name: Md Anam Raihan  
   Place: Hyderabad, India   
   Bio: Currently doing research at IIIT Hyderabad  
-  GitHub: [iamar7](https://github.com/iamar7) 
-  
+  GitHub: [iamar7](https://github.com/iamar7)
+
 - Name: Curchel Smoot  
   Place: New Orleans, LA   
   Bio: I am into IT Tech Support and I am trying to take up coding on the side.  
-  GitHub: [Curchel](https://github.com/Curchel) 
+  GitHub: [Curchel](https://github.com/Curchel)
 
 - Name: Tony Rodríguez
   Place: Valencia, Spain
   Bio: Web-Apps Development Student
   Github: [tony3fk](https://github.com/tony3fk)  
   Facebook (optional): [Tony Rodz](https://www.facebook.com/tonny3fk)
-  
-- Name: Yugansh Tyagi 
+
+- Name: Yugansh Tyagi
   Place: India  
   Bio: Androdid Developer  
-  Github: [YuganshT79](https://github.com/YuganshT79) 
+  Github: [YuganshT79](https://github.com/YuganshT79)
 
 - Name: Udit  
   Place: Delhi, India  
@@ -514,13 +514,13 @@
 - Name: Elaine Mary Rose  
   Place: Allahabad, India  
   Bio: Developer under development.   
-  GitHub: [Elaine Mary Rose](https://github.com/stickberry) 
-  
-- Name: Lekhika Dugtal 
+  GitHub: [Elaine Mary Rose](https://github.com/stickberry)
+
+- Name: Lekhika Dugtal
   Place: Delhi, India  
   Bio: Sophomore   
   GitHub: [Alastair7](https://github.com/Alastair7)  
-  
+
 - Name: Dhairya Baweja  
   Place: Faridabad, India  
   Bio: student (IT), Btech Ist year  
@@ -530,3 +530,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name:  Brenden Thornton  
+  Place: Denver, Colorado
+  Bio:  Rails Developer
+  GitHub: [bthornton505](https://github.com/bthornton505)  
