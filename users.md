@@ -530,3 +530,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Alireza Delavari  
+  Place: Delijan, Iran  
+  Bio: Software Engineer, Backend Developer  
+  GitHub: [general73](https://github.com/general73)  
