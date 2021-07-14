@@ -530,3 +530,9 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Peter Dada  
+  Place: Nigeria  
+  Bio: Android Developer Enthusiast  
+  GitHub: [dapetoo](https://github.com/dapetoo) 
+  
