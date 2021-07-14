@@ -99,6 +99,12 @@
   Github: [surana-mudit](https://github.com/surana-mudit)  
   Facebook:  
 
+- Name: Raman Rajarathinam  
+  Place: Chennai,India  
+  Bio: Java and Android developer  
+  Github: [RamanRajarathinam](https://github.com/RamanRajarathinam)  
+  Facebook:  
+
 - Name: Marcus Lancaster  
   Place: Edinburgh, Scotland  
   Bio: Have you heard of our lord and saviour: Vim?  
