@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -529,4 +529,9 @@
 - Name: Vivek Raj  
   Place: Allahabad, India  
   Bio: Worst Web Developer  
-  GitHub: [swaager](https://github.com/swaager)  
+  GitHub: [swaager](https://github.com/swaager) 
+
+- Name: Brendan O'Connor  
+  Place: Fairfield, Connecticut  
+  Bio: Recently started Software Engineer  
+  GitHub: [bwoconnor](https://github.com/bwoconnor)  
