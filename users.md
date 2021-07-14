@@ -135,6 +135,12 @@
   GitHub: [rahul577](https://github.com/rahul577)  
   Facebook:  
 
+- Name: Meisyarah Dwiastuti
+  Place: Germany
+  Bio: Student
+  Github: [meisyarahd] (https://github.com/meisyarahd)
+  Facebook:
+
 - Name: Tan Jin Ying  
   Place: Singapore  
   Bio: Learning Git Commands  
