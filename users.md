@@ -14,7 +14,13 @@
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
   GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
-  Facebook: [Arpit Batra](https://Facebook.com/arpitbatra123)  
+  Facebook: [Arpit Batra](https://Facebook.com/arpitbatra123) 
+  
+- Name:  Pannatorn Supharatnodom
+  Place: Bangkok, Thailand
+  Bio: I am an Android Developer
+  GitHub: [Leaderdevil](https://github.com/leaderdevil)  
+  Facebook:
 
 - Name: Ashish Gautam  
   Place: Delhi, India  
