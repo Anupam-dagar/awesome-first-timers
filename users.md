@@ -4,6 +4,12 @@
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
   Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
 
+- Name: Ronak Kumar
+  Place: New Delhi, India
+  Bio: CSE UG Student at IIIT-Delhi | Polyglot Programmer | Loves Tinkering Tech Stuff
+  GitHub: [Ronak Kumar](https://github.com/lifecoderonak)
+  Facebook: [Ronak Kumar](https://www.facebook.com/lifecoderonak)
+
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
   Bio:  I am an enthusiast for technology and I love drink beers with my friends.  
