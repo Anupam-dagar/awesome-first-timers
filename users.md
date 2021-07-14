@@ -530,3 +530,10 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+
+- Name: Mylena Micaella  
+  Place: Amazonas, Brazil  
+  Bio: Just a cute designer  
+  GitHub: [MylenaMB](https://github.com/mylenamb)  
+  
