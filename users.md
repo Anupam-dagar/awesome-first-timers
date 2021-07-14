@@ -22,6 +22,12 @@
   Github: [Ashish Gautam](https://github.com/gautam2705)  
   Facebook: [Ashish Gautam](https://www.facebook.com/gautam2705)  
 
+- Name: Mani Agrawal  
+  Place: Gangapur, India  
+  Bio: I love listening music.  
+  Github: [Mani Agrawal](https://github.com/Mani0496)  
+  Facebook: [Mani Agrawal]  
+
 - Name:  Himanshi-Khandelwal  
   Place: Jaipur,India  
   Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.  
